@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type_of_transportation" table="x_inhe_reim_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_transportation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Driving</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2015-12-22 16:29:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d2a967a02ba89a002ba4c71317da15b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2015-12-22 16:29:37</sys_updated_on>
+            <value>Driving</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_transportation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flying</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2015-12-22 16:29:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5aa967a02ba89a002ba4c71317da15b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2015-12-22 16:29:37</sys_updated_on>
+            <value>Flying</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type_of_transportation</element>
+            <name>x_inhe_reim_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2015-12-22 16:29:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a918698d1340e28032eb3e276144b088</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>type_of_transportation</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_table_type_of_transportation</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:12:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

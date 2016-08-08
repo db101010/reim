@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>total_expense_cost</field>
+        <global>true</global>
+        <messages/>
+        <name>Balance Due 1</name>
+        <order>100</order>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading) {
+		return;
+	}
+	
+	if (newValue === '') {
+		g_form.setValue('corp_card', '0.00');
+		return;
+	}
+	var floattotal = (parseFloat(g_form.getValue('total_expense_cost')).toFixed(2));
+	var booltotal = isNaN(floattotal);
+	
+	var floatcard = (parseFloat(g_form.getValue('corp_card')).toFixed(2));
+	var boolcard = isNaN(floatcard);
+	
+	var floatadvance = (parseFloat(g_form.getValue('total_advanced_paid')).toFixed(2));
+	var booladvance= isNaN(floatadvance);
+	
+	var floatdue = (parseFloat(g_form.getValue('due_employee')).toFixed(2));
+	var booldue = isNaN(floatdue);
+	
+	var floatowed = (parseFloat(g_form.getValue('due_integris')).toFixed(2));
+	var boolowed = isNaN(floatowed);
+	
+	if (booltotal) {floattotal= '0.00';}
+		if (booladvance) {floatadvance = '0.00';}
+		if (booldue) {floatdue = '0.00';}
+		if (boolowed) {floatowed = '0.00';}
+		if (boolcard) {floatcard = '0.00';}
+	
+	if (newValue != floatcard){
+		g_form.setValue('corp_card', floatcard);
+	}
+	
+	var floatpaid = (parseFloat(floatadvance) + parseFloat(floatcard));
+		
+	var floatsum = (parseFloat(floattotal) - parseFloat(floatpaid));
+	var floatowe = (parseFloat(floatpaid) - parseFloat(floattotal));
+	
+	if (parseFloat(floattotal) >= parseFloat(floatpaid)){
+		g_form.setValue('due_employee', parseFloat(floatsum).toFixed(2));
+		g_form.setValue('due_integris', parseFloat(0).toFixed(2));
+	}
+	
+	else{
+		g_form.setValue('due_integris', parseFloat(floatowe).toFixed(2));
+		g_form.setValue('due_employee', parseFloat(0).toFixed(2));
+	}
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-06-06 18:32:23</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>0d474466137b560003febc122244b0d2</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Balance Due 1</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_client_0d474466137b560003febc122244b0d2</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-07-05 13:46:57</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

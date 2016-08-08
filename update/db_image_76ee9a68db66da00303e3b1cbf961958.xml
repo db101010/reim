@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <format>gif</format>
+        <height>40</height>
+        <image/>
+        <name>add_mileage.gif</name>
+        <size_bytes>1521</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 21:09:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>76ee9a68db66da00303e3b1cbf961958</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>add_mileage.gif</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>db_image_76ee9a68db66da00303e3b1cbf961958</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-30 21:09:47</sys_updated_on>
+        <thumbnail/>
+        <width>91</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <file_name>image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1521</size_bytes>
+        <size_compressed>1252</size_compressed>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 21:09:47</sys_created_on>
+        <sys_id>9b2fd668db66da00303e3b1cbf96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-30 21:09:47</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>76ee9a68db66da00303e3b1cbf961958</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="9b2fd668db66da00303e3b1cbf96191f">9b2fd668db66da00303e3b1cbf96191f</sys_attachment>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 21:09:47</sys_created_on>
+        <sys_id>db2fd668db66da00303e3b1cbf96191f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>c/d0s7BMjGbQYChnYFD8ycLIAAQ6IAIk1v7//38TW3dzBy8rZx9rFz87twBHz2Bn7xBX3zB3/wiPgEifkFi/sDj/8ISAiMSgyKTg6OSQmJSw2LTw+PSIhIyoxMzopKyY5OzYlJz4tLzEjILkzMKU7OLUnOL0vNKM/LKsworsosqc4qrc4uq80pr8stqiyobiyobS6qaymqby2paKutbK+taqhrbqxo6apo66lq761u7Gtt6m9t6Wzv627okdvZO7JkztmTi9b/LMCVNnTZw2e9L0OdNmL5g1b/Gs+UtmL1gyd+GyuYuWz1+8YsGSlQuXrlq4bNXSlWuXrly3bNX65avXr1izYdW6TRu37Ni4deembTu3bN+9deeenXv279xzYNfeg3v2H9p74Mi+g0cOHj52+NjJYydPHz919uSZc2fPXzx74dL5i5cvXL568fK1S1eA6Prlq9evXLtx7cat6zdv3wCiW3du3bl35+79O/ce3L3/4N6Dh/cfPHrw8PGDR48fPX766MnTx0+ePnn2/OmzF8+ev3jx8vXLV69fvX7z+s3bN2/evn33/t37D+8/AMHHDx8/ffz06fPnL1++fP3y9evXb0Dw/fv3HyDwEwh+AcGfP3/+/v37798/YHwxjALqAY5/DIwcMh4bFhxs5hDWijmxYeHhdgFlrzkeGxcd7ZYwzmrRSO+e2q/g3CXjuWnJyckawXV3lI4/mGPQYnbqjIeGj3dTNNfZO5UTL0xrCqvgWisxJeHiQg95OdEdJisvt/jOtpubJaJxdXXY6qS7UqXa19cI/U/JCJrQzu3Cf1fnxaQtq52MWFskRLynLYjcwiCw88IDd4W57DYMEgsT3HWjl+QJqzUWOKk77ko9z3VF+8GGKQyN36dkpuzQvdHc6ufB2OimMFtAwERCwdvDvZmHT+V5aaCCu7KLPgdL3qSH/um2+lINBswKZ7m4eFfYMCW4uTQzCHTpOH1SYJriFmAv7XL44bleFYYf/0ocHmmca1brrZohMMWjLWevsd2LQuVHR97da2NuVVif6rLAPN1mUitLKcung0I9DwRalJ3XLD/OnpCyXNTJ584FD1ENiUOuLKUMDuHyEiGKF2In71zQwh1pMtGZ7/vPbdfEWZgutLMvtX3kLsJRcjFSWO/BxsaO/hcMck6dkikcXDwpDI1MWR++tbcnl7IxdG42VXTl0S456NzdZmrYwCoZYeAgXtAQwCRoyWfE1GTBsVCMRTJlgkOCS5b7BCmpkhXiwpEhE9in+D4JdBRT3vfcSbi+VuDENAaLzIj59VwlS/j7SsyOMgrsudC+oMUoJMXR5tHUFu7sgAdHlJN0LhxRMj2QwKFwQUPiFouyCctHjsV9664eb+zVcWpXUJB5eEKUtUSQgzOL58oJfg2GTx2ynR4WE0JU+TgZJAW2PDzKyjvDQIzhgOYBR65Nt64+UtDbU3BCVteGoVGgK8HxIIuFzQVXZWsVAXXuTBUnF2ahFQXtW3wqTSdKKLxgdFA2O7Cgw3m+1J0AUVUWpgYFNYmFU+YK6adwCAgkTDgo3J1jk3h83tyeTwGC6/cEn9Y7zVJ8Ruqsj7Gb79OSz352oibHJQzfrgn0NRe8MtHLQ33tl0tKG1W+XA5w1/16xZiVhcEaAOK9ZU3xBQAA</data>
+        <length>1656</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="9b2fd668db66da00303e3b1cbf96191f">9b2fd668db66da00303e3b1cbf96191f</sys_attachment>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 21:09:47</sys_created_on>
+        <sys_id>5f2fd668db66da00303e3b1cbf96191f</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="fc8b469c2b249a002ba4c71317da155c" sys_domain="global" table="x_inhe_reim_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-14 20:16:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a6c2239d13beda00a2723e7f3244b02d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-14 20:16:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-14 19:01:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a791df5913beda00a2723e7f3244b02a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Travel Authorization Information" display_value="Travel Authorization Information" name="x_inhe_reim_table" sys_domain="global" view="Default view">3c8b469c2b249a002ba4c71317da155c</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-14 20:00:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-17 21:36:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>46e1db9e133e1e00a2723e7f3244b0ad</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Registration Payment Request" display_value="Registration Payment Request" name="x_inhe_reim_table" sys_domain="global" view="Default view">358257102ba49a002ba4c71317da15e7</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-06 12:39:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-17 21:22:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>23ae039e133e1e00a2723e7f3244b04f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Estimated Travel Cost" display_value="Estimated Travel Cost" name="x_inhe_reim_table" sys_domain="global" view="Default view">6fae039e133e1e00a2723e7f3244b04e</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-06 12:39:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-17 23:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>945fef16137e1e00a2723e7f3244b046</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Meals" display_value="Meals" name="x_inhe_reim_table" sys_domain="global" view="Default view">85846a8213a69600f9513ff18144b026</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-14 20:00:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-06-15 14:42:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>18f8a995130ce28032eb3e276144b0b9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="Default view">54f8a995130ce28032eb3e276144b0b9</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:42:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 00:53:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f8ee3b1a137e1e00a2723e7f3244b068</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="Default view">2d799381132a5600f9513ff18144b0fc</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:42:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 04:42:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9343742613be1e00a2723e7f3244b003</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Reimbursable Expenses" display_value="Reimbursable Expenses" name="x_inhe_reim_table" sys_domain="global" view="Default view">24d8569a2b2152002ba4c71317da155a</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:42:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-19 14:12:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>aa8f3ffe13365e00a2723e7f3244b0fb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Approvals " display_value="Approvals " name="x_inhe_reim_table" sys_domain="global" view="Default view">d68f3ffe13365e00a2723e7f3244b0fb</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:42:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-04 20:23:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9d242e7313cb5240a2723e7f3244b0aa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="Default view">fc8b469c2b249a002ba4c71317da155c</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_inhe_reim_table" sys_domain="global" view="Default view">c9242e7313cb5240a2723e7f3244b0aa</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:42:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_inhe_reim_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2015-12-21 14:59:47</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>fc8b469c2b249a002ba4c71317da155c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_inhe_reim_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_fc8b469c2b249a002ba4c71317da155c</sys_update_name>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2015-12-21 14:59:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="to" table="x_inhe_reim_location_choice" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5300 Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7224962d130f560003febc122244b019</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>5300 Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5400 Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e724962d130f560003febc122244b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:03</sys_updated_on>
+            <value>5400 Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AAA Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5034962d130f560003febc122244b03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:06</sys_updated_on>
+            <value>AAA Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Advanced Food Clinic - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6a24962d130f560003febc122244b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Advanced Food Clinic - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building A</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0624922d130f560003febc122244b09c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Baptist Medical Center - Building A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building B</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c034962d130f560003febc122244b03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:05</sys_updated_on>
+            <value>Baptist Medical Center - Building B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building C</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>df24962d130f560003febc122244b01d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:02</sys_updated_on>
+            <value>Baptist Medical Center - Building C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building D</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2224922d130f560003febc122244b0a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Baptist Medical Center - Building D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Main</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1224922d130f560003febc122244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Baptist Medical Center - Main</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Regional Associates - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb24962d130f560003febc122244b03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:04</sys_updated_on>
+            <value>Baptist Regional Associates - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Regional Health Center - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4324962d130f560003febc122244b01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:01</sys_updated_on>
+            <value>Baptist Regional Health Center - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Retirement Village - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f624962d130f560003febc122244b019</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>Baptist Retirement Village - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Baptist Health Center - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0a24922d130f560003febc122244b09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Bass Baptist Health Center - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Counseling Services - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb24962d130f560003febc122244b021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:04</sys_updated_on>
+            <value>Bass Counseling Services - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Home Service Plus - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e324962d130f560003febc122244b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:03</sys_updated_on>
+            <value>Bass Home Service Plus - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Pavilion - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6624962d130f560003febc122244b018</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Bass Pavilion - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Behavioral Health - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8624922d130f560003febc122244b09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Behavioral Health - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bethany Deaconess - Pavillion</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d834962d130f560003febc122244b03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:06</sys_updated_on>
+            <value>Bethany Deaconess - Pavillion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bone &amp; Joint Clinic - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4834962d130f560003febc122244b03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:05</sys_updated_on>
+            <value>Bone &amp; Joint Clinic - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brookline Tower</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7a24962d130f560003febc122244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>Brookline Tower</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Caldwell Family Clinic-Kansas</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5724962d130f560003febc122244b01e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:02</sys_updated_on>
+            <value>Caldwell Family Clinic-Kansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley - Mob</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e624962d130f560003febc122244b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Canadian Valley - Mob</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley Regional Hospital  - Annex</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9624922d130f560003febc122244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Canadian Valley Regional Hospital  - Annex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley Regional Hospital - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7324962d130f560003febc122244b03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:05</sys_updated_on>
+            <value>Canadian Valley Regional Hospital - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley Regional Hospital Surgical Associates</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c724962d130f560003febc122244b01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:01</sys_updated_on>
+            <value>Canadian Valley Regional Hospital Surgical Associates</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Central Warehouse</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7e24962d130f560003febc122244b019</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>Central Warehouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cherokee Family Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9e24922d130f560003febc122244b09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Cherokee Family Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Childrens Place BMC</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7324962d130f560003febc122244b022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:04</sys_updated_on>
+            <value>Childrens Place BMC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cochlear Implant</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0e24922d130f560003febc122244b09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Cochlear Implant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DLO Core Lab</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ee24962d130f560003febc122244b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>DLO Core Lab</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Duncan Cardiology Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9224922d130f560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Duncan Cardiology Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Durable Medical Equipment</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c624922d130f560003febc122244b09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Durable Medical Equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Edgewater Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5b24962d130f560003febc122244b01d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:02</sys_updated_on>
+            <value>Edgewater Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Assist Program</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>dc34962d130f560003febc122244b03d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:06</sys_updated_on>
+            <value>Employee Assist Program</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enid Health Center</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>db24962d130f560003febc122244b01e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:02</sys_updated_on>
+            <value>Enid Health Center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fun &amp; Fit</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1e24922d130f560003febc122244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Fun &amp; Fit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Anesthesia Services</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c434962d130f560003febc122244b03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:05</sys_updated_on>
+            <value>General Anesthesia Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grand Lake Area Clinics</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4f24962d130f560003febc122244b01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:01</sys_updated_on>
+            <value>Grand Lake Area Clinics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grand Lake Family Medicine</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e224962d130f560003febc122244b017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Grand Lake Family Medicine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove EMS</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8e24922d130f560003febc122244b09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Grove EMS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove General Hospital</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f224962d130f560003febc122244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>Grove General Hospital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove Medical Clinic - Dr. Ferra</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1624922d130f560003febc122244b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Grove Medical Clinic - Dr. Ferra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove Practice Management Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fe24962d130f560003febc122244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>Grove Practice Management Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove Trinity Medical Equipment</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f724962d130f560003febc122244b022</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:04</sys_updated_on>
+            <value>Grove Trinity Medical Equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hennessey Medical Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fa24962d130f560003febc122244b018</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:00</sys_updated_on>
+            <value>Hennessey Medical Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hobby Lobby Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8224922d130f560003febc122244b09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Hobby Lobby Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hospice House</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9e24922d130f560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Hospice House</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hough Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8a24922d130f560003febc122244b09c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Hough Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICIO Integris Diagnosis And Treatment Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5434962d130f560003febc122244b03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:06</sys_updated_on>
+            <value>ICIO Integris Diagnosis And Treatment Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICIO Medical Office Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5324962d130f560003febc122244b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:02</sys_updated_on>
+            <value>ICIO Medical Office Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Express Care - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>aa24922d130f560003febc122244b0a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Integris Express Care - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Altus</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6e24962d130f560003febc122244b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:59</sys_updated_on>
+            <value>Integris Family Care - Altus</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Coffee Creek</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4c34962d130f560003febc122244b03c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:05</sys_updated_on>
+            <value>Integris Family Care - Coffee Creek</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Mustang</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ef24962d130f560003febc122244b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:03</sys_updated_on>
+            <value>Integris Family Care - Mustang</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cb24962d130f560003febc122244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:01</sys_updated_on>
+            <value>Integris Family Care - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Health Edmond - MOB</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6f24962d130f560003febc122244b01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:03</sys_updated_on>
+            <value>Integris Health Edmond - MOB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jim Thorpe Outpatient Rehab - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c324962d130f560003febc122244b01d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:01</sys_updated_on>
+            <value>Jim Thorpe Outpatient Rehab - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lakeside Women's Hospital</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0224922d130f560003febc122244b09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:57</sys_updated_on>
+            <value>Lakeside Women's Hospital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Performance Excellence - LEAN</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4724962d130f560003febc122244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:01</sys_updated_on>
+            <value>Performance Excellence - LEAN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Physician Clinic - Ogle Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d434962d130f560003febc122244b03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:07</sys_updated_on>
+            <value>Physician Clinic - Ogle Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Practice Management</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6b24962d130f560003febc122244b020</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:03</sys_updated_on>
+            <value>Practice Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pulmonology Associates - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9a24922d130f560003febc122244b09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Pulmonology Associates - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sleep Lab - Edmond</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6724962d130f560003febc122244b021</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:03</sys_updated_on>
+            <value>Sleep Lab - Edmond</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sleep Lab - North</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1624922d130f560003febc122244b0a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Sleep Lab - North</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sleep Lab - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1a24922d130f560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:26:58</sys_updated_on>
+            <value>Sleep Lab - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>to</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Two Corporate Plaza Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_location_choice</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-04-27 19:27:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6c34962d130f560003febc122244b03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-04-27 19:27:07</sys_updated_on>
+            <value>Two Corporate Plaza Building</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>to</element>
+            <name>x_inhe_reim_location_choice</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-04-27 19:22:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0208298d1340e28032eb3e276144b047</sys_id>
+            <sys_mod_count>72</sys_mod_count>
+            <sys_name>to</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_location_choice_to</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:11:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

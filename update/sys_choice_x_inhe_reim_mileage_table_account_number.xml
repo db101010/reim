@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="account_number" table="x_inhe_reim_mileage_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>67200</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-06-15 14:56:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1c1cad19130ce28032eb3e276144b0bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:56:06</sys_updated_on>
+            <value>67200</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>67205</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-06-15 14:56:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>501cad19130ce28032eb3e276144b0bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-15 14:56:06</sys_updated_on>
+            <value>67205</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>account_number</element>
+            <name>x_inhe_reim_mileage_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-06-15 14:56:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>dc1cad19130ce28032eb3e276144b0bb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>account_number</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_mileage_table_account_number</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:12:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

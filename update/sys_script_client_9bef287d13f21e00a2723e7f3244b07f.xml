@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>registration_cost</field>
+        <global>true</global>
+        <messages/>
+        <name>Add Estimate Expences Registration</name>
+        <order>100</order>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+// 	var floatEMileage = (parseFloat(g_form.getValue('estimated_mileage_cost')).toFixed(2));
+// 	var boolEMileage = isNaN(floatEMileage);
+
+	var floatERegistration = (parseFloat(g_form.getValue('registration_cost')).toFixed(2));
+	var boolERegistration= isNaN(floatERegistration);
+
+	var floatEAirfare = (parseFloat(g_form.getValue('estimated_airfare_cost')).toFixed(2));
+	var boolEAirfare = isNaN(floatEAirfare);
+
+	var floatEMeal = (parseFloat(g_form.getValue('estimated_meal_cost')).toFixed(2));
+	var boolEMeal = isNaN(floatEMeal);
+
+	var floatEHotel = (parseFloat(g_form.getValue('estimated_hotel_cost')).toFixed(2));
+	var boolEHotel= isNaN(floatEHotel);
+
+	var floatEETC = (parseFloat(g_form.getValue('estimated_taxi_rental_car_etc_cost')).toFixed(2));
+	var boolEETC = isNaN(floatEETC);
+	
+	if (boolERegistration || boolEAirfare || boolEMeal || boolEHotel || boolEETC){
+	
+		if (boolERegistration){
+			g_form.setValue('registration_cost', '');
+			g_form.showFieldMsg('registration_cost',"A Number is required for this field", 'error');
+			return;
+			//floatERegistration = 0;
+		}
+		if (boolEAirfare){
+			
+			floatEAirfare = 0;
+		}
+		if (boolEMeal){
+			
+			floatEMeal = 0;
+		}
+		if (boolEHotel){
+			
+			floatEHotel = 0;
+		}
+		if (boolEETC){
+			
+			floatEETC = 0;
+		}
+	}
+	
+	if (newValue != floatERegistration){
+		g_form.setValue('registration_cost', floatERegistration);
+	}
+	
+	
+	addFields(floatERegistration, floatEAirfare, floatEMeal, floatEHotel, floatEETC);
+	
+	function addFields(floatERegistration, floatEAirfare, floatEMeal, floatEHotel, floatEETC){
+		var floatSum = (parseFloat(floatERegistration) + parseFloat(floatEAirfare) + parseFloat(floatEMeal) + parseFloat(floatEHotel) + parseFloat(floatEETC));
+		g_form.setValue('total_estimated_cost', parseFloat(floatSum).toFixed(2));
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-04-15 20:35:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>9bef287d13f21e00a2723e7f3244b07f</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Add Estimate Expences Registration</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_client_9bef287d13f21e00a2723e7f3244b07f</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-07-05 16:05:30</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

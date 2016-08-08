@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Travel Authorization ">f05eb1c32bf012402ba4c71317da15be</catalog_item>
+        <catalog_variable>IO:bacc2e0f2bf012402ba4c71317da159a</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-01-18 14:42:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2be3d6512b8192402ba4c71317da1595</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>estimated_mileage_cost</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_2be3d6512b8192402ba4c71317da1595</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-01-18 14:42:11</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide mileage">db1392512b8192402ba4c71317da158c</ui_policy>
+        <variable>estimated_mileage_cost</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

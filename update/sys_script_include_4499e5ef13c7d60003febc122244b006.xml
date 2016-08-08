@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_inhe_reim.apApprovalButton</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>apApprovalButton</name>
+        <script><![CDATA[function apApprovalButton(){
+		var ourUser = gs.getUserID();
+	    var canApp = false;
+		if(ourUser == current.approver) {
+			canApp = true;
+		}
+		
+		if (current.state == '1' && (gs.hasRole('admin') || canApp == true)) {
+			return true;
+		} else {
+			return false;
+		}
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-05-03 21:33:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4499e5ef13c7d60003febc122244b006</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>apApprovalButton</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_include_4499e5ef13c7d60003febc122244b006</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-05-04 15:17:18</sys_updated_on>
+    </sys_script_include>
+</record_update>

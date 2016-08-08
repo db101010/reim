@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>account_number</field>
+        <global>true</global>
+        <messages/>
+        <name>Set Transaction Identifier </name>
+        <order>50</order>
+        <script><![CDATA[function onLoad() {
+	var num = g_form.getValue('number');
+	var rNum = g_form.getValue('reg_ta');
+	var aNum = g_form.getValue('adv_id');
+	var reNum = g_form.getValue('reim_id');
+	
+	//alert(num  + ' and ' + rNum + ' and ' + aNum + ' and ' + reNum)
+	if(num != ''){
+		if(rNum == '' || aNum == '' || reNum == '') {
+			
+			var reg_num = num + 'REG';
+			//alert(reg_num);
+			g_form.setValue('reg_ta', reg_num);
+			
+			var adv_num = num + 'ADV';
+			g_form.setValue('adv_id', adv_num);
+			
+			var reim_num = num + 'REIM';
+			g_form.setValue('reim_id', reim_num);
+			
+			g_form.save();
+		}
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-06-06 13:05:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>458bbe5a13f7560003febc122244b0a6</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>Set Transaction Identifier </sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_client_458bbe5a13f7560003febc122244b0a6</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-28 14:56:00</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

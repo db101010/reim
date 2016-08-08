@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Expense Temp" max_length="40" name="x_inhe_reim_expense_temp" type="collection">
+        <element attributes="import_attribute_name=Discription,edge_encryption_enabled=true" label="Discription" max_length="40" name="u_discription" type="string"/>
+        <element attributes="import_attribute_name=Effective Date,edge_encryption_enabled=true" label="Effective Date" max_length="40" name="u_effective_date" type="string"/>
+        <element attributes="import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="integer"/>
+        <element attributes="import_attribute_name=Short Description,edge_encryption_enabled=true" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="import_attribute_name=Type,edge_encryption_enabled=true" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

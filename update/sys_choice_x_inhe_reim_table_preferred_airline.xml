@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="preferred_airline" table="x_inhe_reim_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>American Airlines</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9a2ce5712bb0de002ba4c71317da1563</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:23</sys_updated_on>
+            <value>American Airlines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delta Airlines</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>de2ce5712bb0de002ba4c71317da1563</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:24</sys_updated_on>
+            <value>Delta Airlines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Southwest Airlines</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>922ce5712bb0de002ba4c71317da1564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:24</sys_updated_on>
+            <value>Southwest Airlines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United Airlines</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>562ce5712bb0de002ba4c71317da1564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:24</sys_updated_on>
+            <value>United Airlines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US Airways</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1a2ce5712bb0de002ba4c71317da1564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:24</sys_updated_on>
+            <value>US Airways</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JetBlue</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>da2ce5712bb0de002ba4c71317da1564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:24</sys_updated_on>
+            <value>JetBlue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_airline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Allegiant</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9e2ce5712bb0de002ba4c71317da1564</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:24</sys_updated_on>
+            <value>Allegiant</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>preferred_airline</element>
+            <name>x_inhe_reim_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2818698d1340e28032eb3e276144b03c</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>preferred_airline</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_table_preferred_airline</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:11:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

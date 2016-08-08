@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_label/>
+        <action_name/>
+        <action_query>false</action_query>
+        <action_run_at>server</action_run_at>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <application/>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_inhe_reim_ap_approvals</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Approval Process</name>
+        <onclick/>
+        <order>100</order>
+        <priority>100</priority>
+        <read_access_action>false</read_access_action>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	if (current.state == '2') {
+		if (current.next_approver == "") {
+			var apr = new GlideRecord("x_inhe_reim_table");
+			apr.addQuery("sys_id", current.rei_number);
+			apr.query();
+			if (apr.next()) {
+				var yay = GlideDateTime().getDisplayValue();
+				apr.approval_state = '3';
+				if(apr.state == '9') {
+                apr.approvals_completed = yay;}
+				else {
+                apr.r_approvals_completed = yay;
+}
+				apr.current_approver = '';
+				apr.update();
+			}
+		} else if(current.next_approver != '') {
+			var aOrder = (parseFloat(current.order) + parseFloat('1')).toFixed(0);
+			var app = new GlideRecord("x_inhe_reim_ap_approvals");
+			app.rei_number = current.rei_number;
+			app.approver = current.next_approver;
+			app.state = '1';
+			app.order = aOrder;
+			app.approval_type = current.approval_type;
+			app.approval_for = current.approval_for;
+			app.insert();
+		}
+	} else if (current.state == '3') {
+		var rjt = new GlideRecord("x_inhe_reim_table");
+		rjt.addQuery("sys_id", current.rei_number);
+		rjt.query();
+		if (rjt.next()) {
+			rjt.approval_state = '4';
+			rjt.update();
+		}
+	}
+	
+	
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-28 18:56:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ff96dbb51343960003febc122244b0ec</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Approval Process</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_ff96dbb51343960003febc122244b0ec</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-05-31 18:46:32</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+</record_update>

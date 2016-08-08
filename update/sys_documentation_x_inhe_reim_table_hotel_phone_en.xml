@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="hotel_phone" label="Hotel Phone" language="en" table="x_inhe_reim_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hotel_phone</element>
+            <help/>
+            <hint/>
+            <label>Hotel Phone</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <plural>Hotel Phones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2015-12-21 20:00:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>be301fdc2b649a002ba4c71317da1503</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hotel Phone</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_documentation_x_inhe_reim_table_hotel_phone_en</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2015-12-21 20:00:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

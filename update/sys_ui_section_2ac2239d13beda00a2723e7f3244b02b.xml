@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption=" " section_id="2ac2239d13beda00a2723e7f3244b02b" sys_domain="global" table="x_inhe_reim_table" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>cb9fcc6113586e8032eb3e276144b001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <text/>
+            <type/>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cb9fcc6113586e8032eb3e276144b001</element>
+            <position>0</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>0f9fcc6113586e8032eb3e276144b001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>4f9fcc6113586e8032eb3e276144b001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee</element>
+            <position>2</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>8f9fcc6113586e8032eb3e276144b001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medical_staff</element>
+            <position>3</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>cf9fcc6113586e8032eb3e276144b001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>board_member</element>
+            <position>4</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>039fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>created_for</element>
+            <position>5</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>439fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>6</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>839fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>7</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>c39fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_number</element>
+            <position>8</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>079fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mailing_address</element>
+            <position>9</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>479fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_unit</element>
+            <position>10</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>879fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>11</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>c79fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_reimbursement</element>
+            <position>12</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>0b9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>4b9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>14</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>8b9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cme_travel</element>
+            <position>15</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>cb9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_advance_check_required</element>
+            <position>16</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>0f9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>registration_payment_required</element>
+            <position>17</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>4f9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>18</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>8f9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>19</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>cf9fcc6113586e8032eb3e276144b002</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_state</element>
+            <position>20</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>039fcc6113586e8032eb3e276144b003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>21</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>439fcc6113586e8032eb3e276144b003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>22</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>839fcc6113586e8032eb3e276144b003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_center</element>
+            <position>23</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 13:06:19</sys_created_on>
+            <sys_id>c39fcc6113586e8032eb3e276144b003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 13:06:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>24</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-06-30 14:28:49</sys_created_on>
+            <sys_id>c7a53e0e1314a200339d50128144b05c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="Default view">2ac2239d13beda00a2723e7f3244b02b</sys_ui_section>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-30 14:28:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption> </caption>
+            <header>false</header>
+            <name>x_inhe_reim_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-14 20:16:19</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>2ac2239d13beda00a2723e7f3244b02b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name> </sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_section_2ac2239d13beda00a2723e7f3244b02b</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-14 20:16:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

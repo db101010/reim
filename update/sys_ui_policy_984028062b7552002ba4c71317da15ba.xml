@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_inhe_reim_table">state=4^ORstate=9^ORstate=2^type=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="4"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="9"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="2"/>
+            <item endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+g_form.setSectionDisplay('expenses', true);
+g_form.setSectionDisplay('reimbursable_expenses', true);
+g_form.setSectionDisplay('mileage_information', true);
+g_form.setSectionDisplay('meals', true);
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+g_form.setSectionDisplay('expenses', false);
+g_form.setSectionDisplay('reimbursable_expenses', false);
+g_form.setSectionDisplay('mileage_information', false);
+g_form.setSectionDisplay('meals', false);
+}]]></script_true>
+        <set_values/>
+        <short_description>Travel (hide non travel tabs)</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-02-26 21:15:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>984028062b7552002ba4c71317da15ba</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Travel (hide non travel tabs)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_policy_984028062b7552002ba4c71317da15ba</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-05-11 16:12:38</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

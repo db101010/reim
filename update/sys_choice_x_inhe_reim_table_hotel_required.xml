@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="hotel_required" table="x_inhe_reim_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2015-12-22 20:27:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8c20a8fc2ba89a002ba4c71317da15b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2015-12-22 20:27:35</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>hotel_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2015-12-22 20:27:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1420a8fc2ba89a002ba4c71317da15b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2015-12-22 20:27:35</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>hotel_required</element>
+            <name>x_inhe_reim_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2015-12-22 20:27:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ec18698d1340e28032eb3e276144b039</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>hotel_required</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_table_hotel_required</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:12:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

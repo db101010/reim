@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_content">
+    <sc_cat_item_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <content_type>external</content_type>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <kb_article/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <module/>
+        <name>Reimbursement Center</name>
+        <no_cart>false</no_cart>
+        <no_order>true</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./expert_shell.do?sysparm_initial=true&amp;sysparm_sys_id=a5c4378013139240a2723e7f3244b01c&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description/>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_content</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 20:34:23</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1de61624db66da00303e3b1cbf961990</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Reimbursement Center</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sc_cat_item_content_1de61624db66da00303e3b1cbf961990</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-07-08 16:21:15</sys_updated_on>
+        <target>internal</target>
+        <template/>
+        <type>item</type>
+        <u_bypass>false</u_bypass>
+        <u_director_approval>false</u_director_approval>
+        <u_item_approval>false</u_item_approval>
+        <u_management_approval>false</u_management_approval>
+        <u_vp_approval>false</u_vp_approval>
+        <url>expert_shell.do?sysparm_initial=true&amp;sysparm_sys_id=a5c4378013139240a2723e7f3244b01c</url>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=1de61624db66da00303e3b1cbf961990"/>
+    <fx_price action="delete_multiple" query="id=1de61624db66da00303e3b1cbf961990"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>1de61624db66da00303e3b1cbf961990</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 20:34:23</sys_created_on>
+        <sys_id>89175224db66da00303e3b1cbf961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-30 20:34:23</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>1de61624db66da00303e3b1cbf961990</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 20:34:23</sys_created_on>
+        <sys_id>0d175224db66da00303e3b1cbf961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-30 20:34:23</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>858</size_bytes>
+        <size_compressed>881</size_compressed>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 20:51:55</sys_created_on>
+        <sys_id>a91bdea4db66da00303e3b1cbf9619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-30 20:51:55</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_content</table_name>
+        <table_sys_id>1de61624db66da00303e3b1cbf961990</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="a91bdea4db66da00303e3b1cbf9619f2">a91bdea4db66da00303e3b1cbf9619f2</sys_attachment>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 20:51:55</sys_created_on>
+        <sys_id>e91bdea4db66da00303e3b1cbf9619f2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AVoDpfyJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMMSURBVDiNdZVLa1NREMdv827eryZNqA2GaGy0VSxIVSRqF4obC5IPIGqoIiiKqCB2JfgBBEE3LpTWqKhFClXRRatFtO3Gne76QervH+6Ui6QXhjlnzsx/nudcp9lsBmZmZgLinU7H32q1uoTMp/3Q0FB/tVpN1ev1RK1WC0vXzkSuvc+4Y2AiAYlns9lkKBQ619fXN+vz+Vbgf6E/7nqWs7O5XC5hdu12Ozg+Ph6UA8dABCxhOBw+heEaho8jkciReDyeDwQCN6Ar7vooZ0+gVb/fP2lgFpgjVAm0AegOivPQIsAnTRH5NWjajDg7jc4C9AH5TYFaUN0IG41GCM+3UXgKSJRI9rBeQimi80KhUBwYGBiUA9WRs2XS3oUsTpTPAL2LXkjnXUC+4wiXVRd5kycMRqTkNmirJG6ENaufGoaDLyqPdJ1KpRIB7DvC30R5S6AG4q1trwZgm1bKgB3D/quidwA5xOZNuVzOwR8S2Zlenbd6Gudrov8Dfs8Naj4YDB50ED4AZMoUvV03rhobOHOZxeYRAB9jsdio6VC2FrL7AlygJlUbanFLS4QzNeitsiCCNnyNqKZLpVLU9KWXSCR2a0IE+BOaw8NzaMrbAJFqo/Q0c0SwgYO6OXfndhId2XbgKwJcoqhNvB8oFosFbwM0Qpz/Un2JKC/nGiVLU5kQWU62AJ6QcwevSmXvdg1w09QUrLA+36vz2nO2H9A5AV5nc0kHw8PDmWQymTVwa0w+ny+JvFdMadOseCqVykgXnKvQZQeAGt6/sbkAX1e9ZDAxMdGfyWRSmjWM0nowmLOk1jqTDt9h2RDQRY1QOp2uOKoDGxX0M7XcYa8NDj6po/BVPQQi99EQX7TXBpuKRgj5C92s7tWjUzsRrkej0UGlwnzt05hYreTU7qrb+ffqttYAlxUl2XSDcayoUhgbG4tpTwqjFPjldg0A4B0PyIjWeiA0g1Z3x/NCb91Vd0TWNQHw13DRK61dWlXz/r+OXUB7zr3Xza6YxkmREH1DZHuB2S9Aupubmz7hiP4B/Mw20OkvaCcAAAAASUVORK5CYIKRn3giWgMAAA==</data>
+        <length>1164</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="a91bdea4db66da00303e3b1cbf9619f2">a91bdea4db66da00303e3b1cbf9619f2</sys_attachment>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-30 20:51:55</sys_created_on>
+        <sys_id>6d1bdea4db66da00303e3b1cbf9619f2</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_inhe_reim.ReiAccess</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>ReiAccess</name>
+        <script><![CDATA[var ReiAccess = Class.create();
+ReiAccess.prototype = {
+	initialize: function() {
+	},
+	canRead: function() {
+		var userID = gs.getUserID();
+		var ur = new GlideRecord('x_inhe_reim_ap_approvals');
+		ur.addQuery('rei_number', current.sys_id);
+		ur.addQuery('approver', userID);
+		ur.query();
+		if(ur.next()) {
+			return true;
+		} else {		
+		return false;
+		}
+	},
+	type: 'ReiAccess'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-08 21:09:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6c3efa031337960003febc122244b04f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>ReiAccess</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_include_6c3efa031337960003febc122244b04f</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-08 21:32:23</sys_updated_on>
+    </sys_script_include>
+</record_update>

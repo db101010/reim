@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="m_from" table="x_inhe_reim_mileage_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5300 Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e356084013661600f9513ff18144b0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>5300 Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5400 Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6b56084013661600f9513ff18144b0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>5400 Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AAA Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2f56084013661600f9513ff18144b0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>AAA Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Advanced Food Clinic - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ef56084013661600f9513ff18144b0c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Advanced Food Clinic - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building A</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a356084013661600f9513ff18144b0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Medical Center - Building A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building B</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6756084013661600f9513ff18144b0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Medical Center - Building B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building C</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2b56084013661600f9513ff18144b0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Medical Center - Building C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Building D</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb56084013661600f9513ff18144b0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Medical Center - Building D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Medical Center - Main</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>8</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>af56084013661600f9513ff18144b0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Medical Center - Main</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Regional Associates - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>9</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6356084013661600f9513ff18144b0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Regional Associates - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Regional Health Center - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>10</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2756084013661600f9513ff18144b0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Regional Health Center - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baptist Retirement Village - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>11</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e756084013661600f9513ff18144b0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Baptist Retirement Village - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Baptist Health Center - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>12</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ab56084013661600f9513ff18144b0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Bass Baptist Health Center - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Counseling Services - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>13</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6f56084013661600f9513ff18144b0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Bass Counseling Services - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Home Service Plus - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>14</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2356084013661600f9513ff18144b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Bass Home Service Plus - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bass Pavilion - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>15</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e356084013661600f9513ff18144b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Bass Pavilion - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Behavioral Health - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>16</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a756084013661600f9513ff18144b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Behavioral Health - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bethany Deaconess - Pavillion</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>17</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6b56084013661600f9513ff18144b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Bethany Deaconess - Pavillion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bone &amp; Joint Clinic - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>18</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2f56084013661600f9513ff18144b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Bone &amp; Joint Clinic - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brookline Tower</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>19</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ef56084013661600f9513ff18144b0c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Brookline Tower</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Caldwell Family Clinic-Kansas</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>20</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a356084013661600f9513ff18144b0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Caldwell Family Clinic-Kansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley - Mob</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>21</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7756084013661600f9513ff18144b0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Canadian Valley - Mob</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley Regional Hospital  - Annex</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>22</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3b56084013661600f9513ff18144b0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Canadian Valley Regional Hospital  - Annex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley Regional Hospital - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>23</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb56084013661600f9513ff18144b0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Canadian Valley Regional Hospital - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canadian Valley Regional Hospital Surgical Associates</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>24</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bf56084013661600f9513ff18144b0c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Canadian Valley Regional Hospital Surgical Associates</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Central Warehouse</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>25</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7356084013661600f9513ff18144b0c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Central Warehouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cherokee Family Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>26</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3756084013661600f9513ff18144b0c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Cherokee Family Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Childrens Place BMC</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>27</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f756084013661600f9513ff18144b0c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Childrens Place BMC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cochlear Implant</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>28</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb56084013661600f9513ff18144b0c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Cochlear Implant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DLO Core Lab</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>29</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7f56084013661600f9513ff18144b0c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>DLO Core Lab</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Duncan Cardiology Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>30</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3356084013661600f9513ff18144b0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Duncan Cardiology Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Durable Medical Equipment</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>31</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f356084013661600f9513ff18144b0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Durable Medical Equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Edgewater Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>32</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b756084013661600f9513ff18144b0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Edgewater Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Assist Program</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>33</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7b56084013661600f9513ff18144b0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Employee Assist Program</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enid Health Center</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>34</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f56084013661600f9513ff18144b0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Enid Health Center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fun &amp; Fit</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>35</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ff56084013661600f9513ff18144b0c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Fun &amp; Fit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Anesthesia Services</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>36</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b356084013661600f9513ff18144b0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>General Anesthesia Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grand Lake Area Clinics</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>37</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7756084013661600f9513ff18144b0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grand Lake Area Clinics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grand Lake Family Medicine</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>38</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3b56084013661600f9513ff18144b0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grand Lake Family Medicine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove EMS</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>39</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb56084013661600f9513ff18144b0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grove EMS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove General Hospital</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>40</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bf56084013661600f9513ff18144b0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grove General Hospital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove Medical Clinic - Dr. Ferra</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>41</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7356084013661600f9513ff18144b0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grove Medical Clinic - Dr. Ferra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove Practice Management Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>42</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3756084013661600f9513ff18144b0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grove Practice Management Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grove Trinity Medical Equipment</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>43</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f756084013661600f9513ff18144b0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Grove Trinity Medical Equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hennessey Medical Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>44</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb56084013661600f9513ff18144b0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Hennessey Medical Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hobby Lobby Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>45</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7f56084013661600f9513ff18144b0c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Hobby Lobby Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hospice House</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>46</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3356084013661600f9513ff18144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Hospice House</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hough Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>47</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f356084013661600f9513ff18144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Hough Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICIO Integris Diagnosis And Treatment Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>48</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b756084013661600f9513ff18144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>ICIO Integris Diagnosis And Treatment Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICIO Medical Office Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>49</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7b56084013661600f9513ff18144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>ICIO Medical Office Building</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Express Care - Miami</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>50</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f56084013661600f9513ff18144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Integris Express Care - Miami</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Altus</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>51</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ff56084013661600f9513ff18144b0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Integris Family Care - Altus</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Coffee Creek</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>52</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b356084013661600f9513ff18144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Integris Family Care - Coffee Creek</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Mustang</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>53</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7756084013661600f9513ff18144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Integris Family Care - Mustang</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Family Care - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>54</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3b56084013661600f9513ff18144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Integris Family Care - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integris Health Edmond - MOB</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>55</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb56084013661600f9513ff18144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Integris Health Edmond - MOB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jim Thorpe Outpatient Rehab - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>56</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bf56084013661600f9513ff18144b0ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Jim Thorpe Outpatient Rehab - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lakeside Women's Hospital</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>57</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7356084013661600f9513ff18144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Lakeside Women's Hospital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Performance Excellence - LEAN</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>58</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3756084013661600f9513ff18144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Performance Excellence - LEAN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Physician Clinic - Ogle Clinic</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>59</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f756084013661600f9513ff18144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Physician Clinic - Ogle Clinic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Practice Management</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>60</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb56084013661600f9513ff18144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Practice Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pulmonology Associates - Enid</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>61</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7f56084013661600f9513ff18144b0cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Pulmonology Associates - Enid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sleep Lab - Edmond</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>62</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3356084013661600f9513ff18144b0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Sleep Lab - Edmond</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sleep Lab - North</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>63</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f356084013661600f9513ff18144b0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Sleep Lab - North</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sleep Lab - Yukon</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>64</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b756084013661600f9513ff18144b0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Sleep Lab - Yukon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>m_from</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Two Corporate Plaza Building</label>
+            <language>en</language>
+            <name>x_inhe_reim_mileage_table</name>
+            <sequence>65</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7b56084013661600f9513ff18144b0cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-03-28 20:45:11</sys_updated_on>
+            <value>Two Corporate Plaza Building</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>m_from</element>
+            <name>x_inhe_reim_mileage_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-03-28 20:45:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2a08298d1340e28032eb3e276144b09a</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>m_from</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_mileage_table_m_from</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:11:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

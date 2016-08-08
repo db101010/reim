@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Expenses" section_id="3280a62213325e00a2723e7f3244b0db" sys_domain="global" table="x_inhe_reim_table" version="3" view="Expense">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>a97b438a13d0ee8032eb3e276144b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <text/>
+            <type display_value="Blank Annotation">bbf7f46613be1e00a2723e7f3244b023</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_inhe_reim_expense_col_embedded.xml</element>
+            <position>0</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>e97b438a13d0ee8032eb3e276144b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Expense Formatter">3279e45cdba69a00303e3b1cbf961958</sys_ui_formatter>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>2d7b438a13d0ee8032eb3e276144b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>g_total_cost</element>
+            <position>2</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>6d7b438a13d0ee8032eb3e276144b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>ad7b438a13d0ee8032eb3e276144b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a97b438a13d0ee8032eb3e276144b046</element>
+            <position>4</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>ed7b438a13d0ee8032eb3e276144b046</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>217b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_inhe_reim_approve_reject.xml</element>
+            <position>6</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>617b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Approve or Reject">2de798e913935a0003febc122244b0d8</sys_ui_formatter>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>7</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>a17b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>adv_id</element>
+            <position>8</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>e17b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reg_ta</element>
+            <position>9</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>257b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reim_id</element>
+            <position>10</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>657b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>g_cost</element>
+            <position>11</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
+            <sys_id>a57b438a13d0ee8032eb3e276144b047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses" display_value="Expenses" name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">3280a62213325e00a2723e7f3244b0db</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Expenses</caption>
+            <header>false</header>
+            <name>x_inhe_reim_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 12:39:17</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>3280a62213325e00a2723e7f3244b0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Expenses</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_section_3280a62213325e00a2723e7f3244b0db</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-18 12:39:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Expense" name="Expense">0e312495136a5600f9513ff18144b05e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

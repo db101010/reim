@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>catalog</category>
+        <client_script><![CDATA[function updateTicket() {
+	var num =  g_form.getValue('number');
+	var gr = new GlideRecord("x_inhe_reim_table");
+	gr.addQuery("sys_id", num);
+	gr.query();
+	if (gr.next()) {
+		gr.actual_expences = true;
+		gr.travel_authorization = false;
+		gr.lunch_1 = g_form.getValue('lunch_1');
+		gr.m_date_1 = g_form.getValue('m_date_1');
+		gr.breakfast_1 = g_form.getValue('breakfast_1');
+		gr.lunch_1 = g_form.getValue('lunch_1');
+		gr.dinner_1 = g_form.getValue('dinner_1');
+		gr.m_date_2 = g_form.getValue('m_date_2');
+		gr.breakfast_2 = g_form.getValue('breakfast_2');
+		gr.lunch_2 = g_form.getValue('lunch_2');
+		gr.dinner_2 = g_form.getValue('dinner_2');
+		gr.m_date_3 = g_form.getValue('m_date_3');
+		gr.breakfast_3 = g_form.getValue('breakfast_3');
+		gr.lunch_3 = g_form.getValue('lunch_3');
+		gr.dinner_3 = g_form.getValue('dinner_3');
+		gr.m_date_4 = g_form.getValue('m_date_4');
+		gr.breakfast_4 = g_form.getValue('breakfast_4');
+		gr.lunch_4 = g_form.getValue('lunch_4');
+		gr.dinner_4 = g_form.getValue('dinner_4');
+		gr.m_date_5 = g_form.getValue('m_date_5');
+		gr.breakfast_5 = g_form.getValue('breakfast_5');
+		gr.lunch_5 = g_form.getValue('lunch_5');
+		gr.dinner_5 = g_form.getValue('dinner_5');
+		gr.m_date_6 = g_form.getValue('m_date_6');
+		gr.breakfast_6 = g_form.getValue('breakfast_6');
+		gr.lunch_6 = g_form.getValue('lunch_6');
+		gr.dinner_6 = g_form.getValue('dinner_6');
+		gr.m_date_7 = g_form.getValue('m_date_7');
+		gr.breakfast_7 = g_form.getValue('breakfast_7');
+		gr.lunch_7 = g_form.getValue('lunch_7');
+		gr.dinner_7 = g_form.getValue('dinner_7');
+		gr.m_expense_1 = g_form.getValue('m_expense_1');
+		gr.m_cost_1 = g_form.getValue('m_cost_1');
+		gr.m_expense_2 = g_form.getValue('m_expense_2');
+		gr.m_cost_2 = g_form.getValue('m_cost_2');
+		gr.m_expense_3 = g_form.getValue('m_expense_3');
+		gr.m_cost_3 = g_form.getValue('m_cost_3');
+		gr.mileage_estimate = g_form.getValue('mileage_estimate');
+		gr.estimated_mileage_cost = g_form.getValue('estimated_mileage_cost');
+		gr.r_airfare = g_form.getValue('r_airfare');
+		gr.r_total = g_form.getValue('r_total');
+		gr.r_hotel = g_form.getValue('r_hotel');
+		gr.advance_corporate_paid = g_form.getValue('advance_corporate_paid');
+		gr.r_reimbursable_meal = g_form.getValue('r_reimbursable_meal');
+		gr.r_balance_integris = g_form.getValue('r_balance_integris');
+		gr.r_taxi_etc = g_form.getValue('r_taxi_etc');
+		gr.r_balance_employee = g_form.getValue('r_balance_employee');
+		gr.r_mileage_cost = g_form.getValue('r_mileage_cost');
+		
+		gr.update();
+	}
+	var newURL = window.location.protocol + "//" + window.location.host;
+	
+	window.location.href = newURL + '/catalog_home.do?sysparm_view=catalog_default';
+}]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_inhe_reim_Reimbursement Submit.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<html>
+<head>
+<style>
+.button {
+    background-color: #24549C;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 8px 4px;
+    cursor: pointer;
+	border-radius: 12px;
+	padding: 4px 8px;
+}
+.btn:hover {
+   color: white
+}
+
+</style>
+</head>
+	
+<body>
+<button class="button btn" onclick="saveCatAttachment(gel('sysparm_item_guid').value, 'x_inhe_capital_bud_capital_budget')">Add Attachment</button>
+<p align="right">
+<button class="button btn" onClick="updateTicket()">Submit</button>
+</p>
+</body>
+</html>
+
+</j:jelly>]]></html>
+        <name>Reimbursement Submit</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-22 14:24:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1413f33513d69200f9513ff18144b0b1</sys_id>
+        <sys_mod_count>32</sys_mod_count>
+        <sys_name>Reimbursement Submit</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_page_1413f33513d69200f9513ff18144b0b1</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-23 14:46:27</sys_updated_on>
+    </sys_ui_page>
+</record_update>

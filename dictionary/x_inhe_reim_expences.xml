@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Expense" max_length="40" name="x_inhe_reim_expences" type="collection">
+        <element default="0.00" label="Alcohol Cost" max_length="40" name="alcohol_cost" type="string"/>
+        <element choice="2" label="Account Number" max_length="32" name="g_account" reference="x_inhe_reim_expense_account" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" display="true" label="Expense Catagory" mandatory="true" max_length="40" name="g_catagory" type="choice">
+            <choice>
+                <element label="Books &amp; Publishing" sequence="100" value="67090"/>
+                <element label="Dues &amp; Membership" sequence="200" value="67100"/>
+                <element label="Employee Paid Airfare" sequence="300" value="67200"/>
+                <element label="Employee Paid Hotel" sequence="400" value="67200.3"/>
+                <element label="Group Meals" sequence="500" value="67210"/>
+                <element label="Miscellaneous Expense" sequence="1800" value="68350"/>
+                <element label="Office &amp; Admin Supplies" sequence="600" value="65000"/>
+                <element label="Other" sequence="700" value="Other"/>
+                <element label="Other Supplies and Materials" sequence="800" value="65080"/>
+                <element label="Parking Tolls" sequence="900" value="67200.1"/>
+                <element label="Physician Books/Publications" sequence="150" value="67095"/>
+                <element label="Physician Dues &amp; Memberships" sequence="1500" value="67105"/>
+                <element label="Physician Licenses/Permits" sequence="1600" value="67165"/>
+                <element label="Physician Minor IT Equipment" sequence="1400" value="67095.1"/>
+                <element label="Physician Training/Continuing Ed/Seminars" sequence="1700" value="67195"/>
+                <element label="Physician Travel" sequence="1900" value="67205"/>
+                <element label="RentalCar" sequence="1000" value="67200.2"/>
+                <element label="Reward &amp; Recognition" sequence="2000" value="68350.1"/>
+                <element label="Telephone" sequence="1100" value="67070"/>
+                <element label="Tips" sequence="1200" value="67200.4"/>
+                <element label="Training / Continuing Ed / Seminars" sequence="1300" value="67190.1"/>
+            </choice>
+        </element>
+        <element label="Cost" mandatory="true" max_length="40" name="g_cost" type="string"/>
+        <element label="Date" mandatory="true" max_length="40" name="g_date" type="glide_date"/>
+        <element label="Description of Expense" mandatory="true" max_length="40" name="g_expence" type="string"/>
+        <element label="Number" max_length="32" name="rei_number" reference="x_inhe_reim_table" type="reference"/>
+        <index name="index">
+            <element name="rei_number"/>
+        </index>
+        <index name="index2">
+            <element name="g_account"/>
+        </index>
+    </element>
+</database>

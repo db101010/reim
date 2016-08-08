@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="expert_panel_t_fields">
+    <expert_panel_t_fields action="INSERT_OR_UPDATE">
+        <field>business_unit</field>
+        <pretty_name>Set business_unit to the value of business_unit</pretty_name>
+        <sys_class_name>expert_panel_t_fields</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-05-13 20:04:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>623634b213d71640a2723e7f3244b0cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set business_unit to the value of business_unit</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>expert_panel_t_fields_623634b213d71640a2723e7f3244b0cb</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-05-13 20:04:39</sys_updated_on>
+        <template display_value="New Append Request">5cbb3f0413139240a2723e7f3244b07f</template>
+        <type>variable</type>
+        <value/>
+        <variable>IO:cc3fff4413139240a2723e7f3244b033</variable>
+    </expert_panel_t_fields>
+</record_update>

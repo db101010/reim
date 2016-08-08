@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_inhe_reim_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reimbursement</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 15:14:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b0c0e2ab13be5e00a2723e7f3244b060</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Reimbursement</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-28 21:12:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e9d53bfd13cfde00a2723e7f3244b049</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Travel Approval</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-28 21:52:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>deeeff7113031240a2723e7f3244b00a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-28 19:34:23</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 15:07:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a43f16eb13be5e00a2723e7f3244b0a5</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending approval</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 15:07:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>df1f16eb13be5e00a2723e7f3244b0a4</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved Travel</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 15:06:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>78f9126b13be5e00a2723e7f3244b06b</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved Reimbursement</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 14:44:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e9e992ab13be5e00a2723e7f3244b041</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 15:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb80eaeb13be5e00a2723e7f3244b032</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Rejected</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 15:14:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6cb0aaab13be5e00a2723e7f3244b065</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-29 12:50:23</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_inhe_reim_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-21 14:44:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9518698d1340e28032eb3e276144b081</sys_id>
+            <sys_mod_count>41</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_table_state</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:12:14</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

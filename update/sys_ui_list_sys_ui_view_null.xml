@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_ui_view" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c179690a0a3c7400e28bfc38607493</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c1796a0a0a3c7400a6ac9d2d323821</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hidden</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c1796b0a0a3c7400ef8d1dd2cf023f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>roles</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c1796c0a0a3c7400031ad14399ab9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c1796c0a0a3c7401d62f5918e83aff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>group</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c1796d0a0a3c74001daeef4023df0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sys_ui_view" element="NULL" name="sys_ui_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84c179680a0a3c7400530f5e7934da12</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2010-05-11 00:26:31</sys_created_on>
+            <sys_id>84c1796e0a0a3c7400ee7ed41836427d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2010-05-11 00:26:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_ui_view</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2016-06-28 14:38:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>61b4a0ad13586200339d50128144b0d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_ui_view</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_list_sys_ui_view_null</sys_update_name>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-28 14:38:31</sys_updated_on>
+            <sys_user display_value="Brent Peters (PeteBL)">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

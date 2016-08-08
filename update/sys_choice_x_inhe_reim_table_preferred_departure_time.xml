@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="preferred_departure_time" table="x_inhe_reim_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_departure_time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Early Morning</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>862ce5712bb0de002ba4c71317da1562</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:23</sys_updated_on>
+            <value>Early Morning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_departure_time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Morning</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0e2ce5712bb0de002ba4c71317da1562</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:23</sys_updated_on>
+            <value>Morning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_departure_time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Noon</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ce2ce5712bb0de002ba4c71317da1562</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:23</sys_updated_on>
+            <value>Noon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_departure_time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Afternoon</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>822ce5712bb0de002ba4c71317da1563</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:23</sys_updated_on>
+            <value>Afternoon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>preferred_departure_time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Evening</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>462ce5712bb0de002ba4c71317da1563</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-01-07 14:49:23</sys_updated_on>
+            <value>Evening</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>preferred_departure_time</element>
+            <name>x_inhe_reim_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-01-07 14:49:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ec18698d1340e28032eb3e276144b03f</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>preferred_departure_time</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_table_preferred_departure_time</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:12:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

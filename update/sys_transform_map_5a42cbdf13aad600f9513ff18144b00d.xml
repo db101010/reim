@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>Transform Map Expense Account</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[/**
+ * For variables go to: http://wiki.service-now.com/index.php?title=Import_Sets_portal
+ **/ 
+]]></script>
+        <source_table>x_inhe_reim_expense_temp</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-04-08 12:47:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5a42cbdf13aad600f9513ff18144b00d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transform Map Expense Account</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_transform_map_5a42cbdf13aad600f9513ff18144b00d</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-04-08 12:47:24</sys_updated_on>
+        <target_table>x_inhe_reim_expense_account</target_table>
+    </sys_transform_map>
+</record_update>

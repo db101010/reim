@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>account_number</field>
+        <global>true</global>
+        <messages/>
+        <name>Mileage total</name>
+        <order>100</order>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   	//var ticID = g_form.getUniqueValue();
+	alert('ticID');
+// 	var mile  = new GlideAjax('QueryData2');
+// 	mile.addParam('sysparm_name', 'calcMileage');
+// 	mile.addParam('sysparm_v_num', ticID);
+// 	mile.getXML(doSomething);
+	
+// 	function doSomething(response) {
+// 		var total = response.responseXML.documentElement.getAttribute("answer");
+// 		alert(total);
+// 	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-15 22:00:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>303409b113361e00a2723e7f3244b00a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Mileage total</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_client_303409b113361e00a2723e7f3244b00a</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-04-21 14:25:59</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <type>onLoad</type>
+        <ui_type>5</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="AP Approvals" max_length="40" name="x_inhe_reim_ap_approvals" type="collection">
+        <element choice="1" label="Approval For" max_length="40" name="approval_for" type="choice">
+            <choice>
+                <element label="Reimbursement" sequence="20" value="2"/>
+                <element label="Travel" sequence="10" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval Type" max_length="40" name="approval_type" type="choice">
+            <choice>
+                <element label="Reimbursement" sequence="1" value="2"/>
+                <element label="Travel Authorization" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="Comments" max_length="1000" name="comments" type="journal_input"/>
+        <element label="Next Approver" max_length="32" name="next_approver" reference="sys_user" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Order" max_length="40" name="order" type="string"/>
+        <element label="REI Number" max_length="32" name="rei_number" reference="x_inhe_reim_table" type="reference"/>
+        <element choice="3" default="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element label="Approved" sequence="1" value="2"/>
+                <element label="Cancelled" sequence="3" value="4"/>
+                <element label="Rejected" sequence="2" value="3"/>
+                <element label="Requested" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+        <index name="index2">
+            <element name="next_approver"/>
+        </index>
+        <index name="index3">
+            <element name="rei_number"/>
+        </index>
+    </element>
+</database>

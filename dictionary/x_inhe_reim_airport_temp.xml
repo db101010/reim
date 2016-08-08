@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Airport_temp" max_length="40" name="x_inhe_reim_airport_temp" type="collection">
+        <element attributes="import_attribute_name=Airport Code,edge_encryption_enabled=true" label="Airport Code" max_length="40" name="u_airport_code" type="string"/>
+        <element attributes="import_attribute_name=Airport Name,edge_encryption_enabled=true" label="Airport Name" max_length="40" name="u_airport_name" type="string"/>
+        <element attributes="import_attribute_name=City,edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=State,edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>

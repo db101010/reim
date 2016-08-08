@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Location Choice" max_length="40" name="x_inhe_reim_location_choice" type="collection">
+        <element label="Distance" max_length="40" name="distance" type="string"/>
+        <element choice="1" label="From" max_length="40" name="from" type="choice">
+            <choice>
+                <element label="5300 Building" value="5300 Building"/>
+                <element label="5400 Building" value="5400 Building"/>
+                <element label="AAA Building" value="AAA Building"/>
+                <element label="Advanced Food Clinic - Enid" value="Advanced Food Clinic - Enid"/>
+                <element label="Baptist Medical Center - Building A" value="Baptist Medical Center - Building A"/>
+                <element label="Baptist Medical Center - Building B" value="Baptist Medical Center - Building B"/>
+                <element label="Baptist Medical Center - Building C" value="Baptist Medical Center - Building C"/>
+                <element label="Baptist Medical Center - Building D" value="Baptist Medical Center - Building D"/>
+                <element label="Baptist Medical Center - Main" value="Baptist Medical Center - Main"/>
+                <element label="Baptist Regional Associates - Miami" value="Baptist Regional Associates - Miami"/>
+                <element label="Baptist Regional Health Center - Miami" value="Baptist Regional Health Center - Miami"/>
+                <element label="Baptist Retirement Village - Miami" value="Baptist Retirement Village - Miami"/>
+                <element label="Bass Baptist Health Center - Enid" value="Bass Baptist Health Center - Enid"/>
+                <element label="Bass Counseling Services - Enid" value="Bass Counseling Services - Enid"/>
+                <element label="Bass Home Service Plus - Enid" value="Bass Home Service Plus - Enid"/>
+                <element label="Bass Pavilion - Enid" value="Bass Pavilion - Enid"/>
+                <element label="Behavioral Health - Miami" value="Behavioral Health - Miami"/>
+                <element label="Bethany Deaconess - Pavillion" value="Bethany Deaconess - Pavillion"/>
+                <element label="Bone &amp; Joint Clinic - Miami" value="Bone &amp; Joint Clinic - Miami"/>
+                <element label="Brookline Tower" value="Brookline Tower"/>
+                <element label="Caldwell Family Clinic-Kansas" value="Caldwell Family Clinic-Kansas"/>
+                <element label="Canadian Valley - Mob" value="Canadian Valley - Mob"/>
+                <element label="Canadian Valley Regional Hospital  - Annex" value="Canadian Valley Regional Hospital  - Annex"/>
+                <element label="Canadian Valley Regional Hospital - Yukon" value="Canadian Valley Regional Hospital - Yukon"/>
+                <element label="Canadian Valley Regional Hospital Surgical Associates" value="Canadian Valley Regional Hospital Surgical Associates"/>
+                <element label="Central Warehouse" value="Central Warehouse"/>
+                <element label="Cherokee Family Clinic" value="Cherokee Family Clinic"/>
+                <element label="Childrens Place BMC" value="Childrens Place BMC"/>
+                <element label="Cochlear Implant" value="Cochlear Implant"/>
+                <element label="DLO Core Lab" value="DLO Core Lab"/>
+                <element label="Duncan Cardiology Clinic" value="Duncan Cardiology Clinic"/>
+                <element label="Durable Medical Equipment" value="Durable Medical Equipment"/>
+                <element label="Edgewater Clinic" value="Edgewater Clinic"/>
+                <element label="Employee Assist Program" value="Employee Assist Program"/>
+                <element label="Enid Health Center" value="Enid Health Center"/>
+                <element label="Fun &amp; Fit" value="Fun &amp; Fit"/>
+                <element label="General Anesthesia Services" value="General Anesthesia Services"/>
+                <element label="Grand Lake Area Clinics" value="Grand Lake Area Clinics"/>
+                <element label="Grand Lake Family Medicine" value="Grand Lake Family Medicine"/>
+                <element label="Grove EMS" value="Grove EMS"/>
+                <element label="Grove General Hospital" value="Grove General Hospital"/>
+                <element label="Grove Medical Clinic - Dr. Ferra" value="Grove Medical Clinic - Dr. Ferra"/>
+                <element label="Grove Practice Management Building" value="Grove Practice Management Building"/>
+                <element label="Grove Trinity Medical Equipment" value="Grove Trinity Medical Equipment"/>
+                <element label="Hennessey Medical Clinic" value="Hennessey Medical Clinic"/>
+                <element label="Hobby Lobby Clinic" value="Hobby Lobby Clinic"/>
+                <element label="Hospice House" value="Hospice House"/>
+                <element label="Hough Building" value="Hough Building"/>
+                <element label="ICIO Integris Diagnosis And Treatment Building" value="ICIO Integris Diagnosis And Treatment Building"/>
+                <element label="ICIO Medical Office Building" value="ICIO Medical Office Building"/>
+                <element label="Integris Express Care - Miami" value="Integris Express Care - Miami"/>
+                <element label="Integris Family Care - Altus" value="Integris Family Care - Altus"/>
+                <element label="Integris Family Care - Coffee Creek" value="Integris Family Care - Coffee Creek"/>
+                <element label="Integris Family Care - Mustang" value="Integris Family Care - Mustang"/>
+                <element label="Integris Family Care - Yukon" value="Integris Family Care - Yukon"/>
+                <element label="Integris Health Edmond - MOB" value="Integris Health Edmond - MOB"/>
+                <element label="Jim Thorpe Outpatient Rehab - Yukon" value="Jim Thorpe Outpatient Rehab - Yukon"/>
+                <element label="Lakeside Women's Hospital" value="Lakeside Women's Hospital"/>
+                <element label="Performance Excellence - LEAN" value="Performance Excellence - LEAN"/>
+                <element label="Physician Clinic - Ogle Clinic" value="Physician Clinic - Ogle Clinic"/>
+                <element label="Practice Management" value="Practice Management"/>
+                <element label="Pulmonology Associates - Enid" value="Pulmonology Associates - Enid"/>
+                <element label="Sleep Lab - Edmond" value="Sleep Lab - Edmond"/>
+                <element label="Sleep Lab - North" value="Sleep Lab - North"/>
+                <element label="Sleep Lab - Yukon" value="Sleep Lab - Yukon"/>
+                <element label="Two Corporate Plaza Building" value="Two Corporate Plaza Building"/>
+            </choice>
+        </element>
+        <element choice="1" label="To" max_length="40" name="to" type="choice">
+            <choice>
+                <element label="5300 Building" value="5300 Building"/>
+                <element label="5400 Building" value="5400 Building"/>
+                <element label="AAA Building" value="AAA Building"/>
+                <element label="Advanced Food Clinic - Enid" value="Advanced Food Clinic - Enid"/>
+                <element label="Baptist Medical Center - Building A" value="Baptist Medical Center - Building A"/>
+                <element label="Baptist Medical Center - Building B" value="Baptist Medical Center - Building B"/>
+                <element label="Baptist Medical Center - Building C" value="Baptist Medical Center - Building C"/>
+                <element label="Baptist Medical Center - Building D" value="Baptist Medical Center - Building D"/>
+                <element label="Baptist Medical Center - Main" value="Baptist Medical Center - Main"/>
+                <element label="Baptist Regional Associates - Miami" value="Baptist Regional Associates - Miami"/>
+                <element label="Baptist Regional Health Center - Miami" value="Baptist Regional Health Center - Miami"/>
+                <element label="Baptist Retirement Village - Miami" value="Baptist Retirement Village - Miami"/>
+                <element label="Bass Baptist Health Center - Enid" value="Bass Baptist Health Center - Enid"/>
+                <element label="Bass Counseling Services - Enid" value="Bass Counseling Services - Enid"/>
+                <element label="Bass Home Service Plus - Enid" value="Bass Home Service Plus - Enid"/>
+                <element label="Bass Pavilion - Enid" value="Bass Pavilion - Enid"/>
+                <element label="Behavioral Health - Miami" value="Behavioral Health - Miami"/>
+                <element label="Bethany Deaconess - Pavillion" value="Bethany Deaconess - Pavillion"/>
+                <element label="Bone &amp; Joint Clinic - Miami" value="Bone &amp; Joint Clinic - Miami"/>
+                <element label="Brookline Tower" value="Brookline Tower"/>
+                <element label="Caldwell Family Clinic-Kansas" value="Caldwell Family Clinic-Kansas"/>
+                <element label="Canadian Valley - Mob" value="Canadian Valley - Mob"/>
+                <element label="Canadian Valley Regional Hospital  - Annex" value="Canadian Valley Regional Hospital  - Annex"/>
+                <element label="Canadian Valley Regional Hospital - Yukon" value="Canadian Valley Regional Hospital - Yukon"/>
+                <element label="Canadian Valley Regional Hospital Surgical Associates" value="Canadian Valley Regional Hospital Surgical Associates"/>
+                <element label="Central Warehouse" value="Central Warehouse"/>
+                <element label="Cherokee Family Clinic" value="Cherokee Family Clinic"/>
+                <element label="Childrens Place BMC" value="Childrens Place BMC"/>
+                <element label="Cochlear Implant" value="Cochlear Implant"/>
+                <element label="DLO Core Lab" value="DLO Core Lab"/>
+                <element label="Duncan Cardiology Clinic" value="Duncan Cardiology Clinic"/>
+                <element label="Durable Medical Equipment" value="Durable Medical Equipment"/>
+                <element label="Edgewater Clinic" value="Edgewater Clinic"/>
+                <element label="Employee Assist Program" value="Employee Assist Program"/>
+                <element label="Enid Health Center" value="Enid Health Center"/>
+                <element label="Fun &amp; Fit" value="Fun &amp; Fit"/>
+                <element label="General Anesthesia Services" value="General Anesthesia Services"/>
+                <element label="Grand Lake Area Clinics" value="Grand Lake Area Clinics"/>
+                <element label="Grand Lake Family Medicine" value="Grand Lake Family Medicine"/>
+                <element label="Grove EMS" value="Grove EMS"/>
+                <element label="Grove General Hospital" value="Grove General Hospital"/>
+                <element label="Grove Medical Clinic - Dr. Ferra" value="Grove Medical Clinic - Dr. Ferra"/>
+                <element label="Grove Practice Management Building" value="Grove Practice Management Building"/>
+                <element label="Grove Trinity Medical Equipment" value="Grove Trinity Medical Equipment"/>
+                <element label="Hennessey Medical Clinic" value="Hennessey Medical Clinic"/>
+                <element label="Hobby Lobby Clinic" value="Hobby Lobby Clinic"/>
+                <element label="Hospice House" value="Hospice House"/>
+                <element label="Hough Building" value="Hough Building"/>
+                <element label="ICIO Integris Diagnosis And Treatment Building" value="ICIO Integris Diagnosis And Treatment Building"/>
+                <element label="ICIO Medical Office Building" value="ICIO Medical Office Building"/>
+                <element label="Integris Express Care - Miami" value="Integris Express Care - Miami"/>
+                <element label="Integris Family Care - Altus" value="Integris Family Care - Altus"/>
+                <element label="Integris Family Care - Coffee Creek" value="Integris Family Care - Coffee Creek"/>
+                <element label="Integris Family Care - Mustang" value="Integris Family Care - Mustang"/>
+                <element label="Integris Family Care - Yukon" value="Integris Family Care - Yukon"/>
+                <element label="Integris Health Edmond - MOB" value="Integris Health Edmond - MOB"/>
+                <element label="Jim Thorpe Outpatient Rehab - Yukon" value="Jim Thorpe Outpatient Rehab - Yukon"/>
+                <element label="Lakeside Women's Hospital" value="Lakeside Women's Hospital"/>
+                <element label="Performance Excellence - LEAN" value="Performance Excellence - LEAN"/>
+                <element label="Physician Clinic - Ogle Clinic" value="Physician Clinic - Ogle Clinic"/>
+                <element label="Practice Management" value="Practice Management"/>
+                <element label="Pulmonology Associates - Enid" value="Pulmonology Associates - Enid"/>
+                <element label="Sleep Lab - Edmond" value="Sleep Lab - Edmond"/>
+                <element label="Sleep Lab - North" value="Sleep Lab - North"/>
+                <element label="Sleep Lab - Yukon" value="Sleep Lab - Yukon"/>
+                <element label="Two Corporate Plaza Building" value="Two Corporate Plaza Building"/>
+            </choice>
+        </element>
+    </element>
+</database>

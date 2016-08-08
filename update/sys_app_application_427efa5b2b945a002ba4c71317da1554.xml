@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Reimbursement Center</name>
+        <order>109</order>
+        <roles>x_inhe_reim.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>gibsjt</sys_created_by>
+        <sys_created_on>2015-12-18 16:08:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>427efa5b2b945a002ba4c71317da1554</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Reimbursement Center</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_app_application_427efa5b2b945a002ba4c71317da1554</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2015-12-28 14:37:01</sys_updated_on>
+        <title>Reimbursement Center</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

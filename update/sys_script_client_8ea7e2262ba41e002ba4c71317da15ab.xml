@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>account_number</field>
+        <global>true</global>
+        <messages/>
+        <name>onLoadEvents</name>
+        <order/>
+        <script><![CDATA[function onLoad(control, oldValue, newValue, isLoading) {
+}	
+function calculateAuthorizationTotal (fieldName) {
+	var floatregistration = (parseFloat(g_form.getValue('registration_estimate')).toFixed(2));
+	var boolregistration = isNaN(floatregistration);
+
+	var floatairfare = (parseFloat(g_form.getValue('airfare_estimate')).toFixed(2));
+	var boolairfare = isNaN(floatairfare);
+
+	var floathotel = (parseFloat(g_form.getValue('hotel_estimate')).toFixed(2));
+	var boolhotel = isNaN(floathotel);
+
+	var floatrental = (parseFloat(g_form.getValue('taxi_rental_estimate')).toFixed(2));
+	var boolrental = isNaN(floatrental);
+
+	var floatmeal = (parseFloat(g_form.getValue('meal_estimate')).toFixed(2));
+	var boolmeal = isNaN(floatmeal);
+
+	var floatparking = (parseFloat(g_form.getValue('parking_estimate')).toFixed(2));
+	var boolparking = isNaN(floatparking);
+	
+	var floatEstimatedMileage = (parseFloat(g_form.getValue('mileage_estimate')).toFixed(1));
+	var floatmileage = (parseFloat(g_form.getValue('estimated_mileage_cost')).toFixed(2));
+	var boolmileage = isNaN(floatmileage);
+	
+	if (boolregistration || boolairfare || boolhotel || boolrental || boolmeal || boolparking || boolmileage){
+		if (boolregistration){
+			floatregistration = 0;
+		}
+		if (boolairfare){
+			floatairfare = 0;
+		}
+		if (boolhotel){
+			floathotel = 0;
+		}
+		if (boolrental){
+			floatrental = 0;
+		}
+		if (boolmeal){
+			floatmeal = 0;
+		}
+		if (boolparking){
+			floatparking = 0;
+		}
+		if (boolmileage){
+			floatEstimatedMileage = 0;
+			floatmileage = 0;
+		}		
+	}
+
+	switch(fieldName){
+		case 'registration_estimate':
+			if (g_form.getValue('registration_estimate')!=parseFloat(floatregistration).toFixed(2)){
+				g_form.setValue('registration_estimate', parseFloat(floatregistration).toFixed(2));
+			}
+			break;			
+		case 'airfare_estimate':
+			if (g_form.getValue('airfare_estimate')!=parseFloat(floatairfare).toFixed(2)){
+				g_form.setValue('airfare_estimate', parseFloat(floatairfare).toFixed(2));
+			}
+			break;
+		case 'hotel_estimate':
+			if (g_form.getValue('hotel_estimate')!=parseFloat(floathotel).toFixed(2)){
+				g_form.setValue('hotel_estimate', parseFloat(floathotel).toFixed(2));
+			}
+			break;
+		case 'taxi_rental_estimate':
+			if (g_form.getValue('taxi_rental_estimate')!=parseFloat(floatrental).toFixed(2)){
+				g_form.setValue('taxi_rental_estimate', parseFloat(floatrental).toFixed(2));
+			}
+			break;
+		case 'meal_estimate':
+			if (g_form.getValue('meal_estimate')!=parseFloat(floatmeal).toFixed(2)){
+				g_form.setValue('meal_estimate', parseFloat(floatmeal).toFixed(2));
+			}
+			break;
+		case 'parking_estimate':
+			if (g_form.getValue('parking_estimate')!=parseFloat(floatparking).toFixed(2)){
+				g_form.setValue('parking_estimate', parseFloat(floatparking).toFixed(2));
+			}
+			break;
+		case 'estimated_mileage_cost':
+			if (g_form.getValue('estimated_mileage_cost')!=parseFloat(floatmileage).toFixed(2)){
+				g_form.setValue('estimated_mileage_cost', parseFloat(floatmileage).toFixed(2));
+			}
+			break;
+		default:
+			break;
+	}	
+	var floatSum = (parseFloat(floatmileage) + parseFloat(floatregistration) + parseFloat(floatmeal) + parseFloat(floathotel) + parseFloat(floatrental) + parseFloat(floatairfare) + parseFloat(floatparking));
+	g_form.setValue('total_estimated', parseFloat(floatSum).toFixed(2));
+	g_form.setValue('advance_check', parseFloat(floatSum).toFixed(2));
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2015-12-28 16:50:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>8ea7e2262ba41e002ba4c71317da15ab</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>onLoadEvents</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_client_8ea7e2262ba41e002ba4c71317da15ab</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-07 19:36:47</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

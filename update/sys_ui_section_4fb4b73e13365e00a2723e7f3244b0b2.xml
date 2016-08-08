@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="4fb4b73e13365e00a2723e7f3244b0b2" sys_domain="global" table="x_inhe_reim_elt_approvers" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bruce_lawrence</element>
+            <position>1</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-19 13:27:30</sys_created_on>
+            <sys_id>3625337e13365e00a2723e7f3244b090</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_elt_approvers" sys_domain="global" view="Default view">4fb4b73e13365e00a2723e7f3244b0b2</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-19 13:27:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_inhe_reim_elt_approvers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-19 13:25:36</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>4fb4b73e13365e00a2723e7f3244b0b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_inhe_reim_elt_approvers</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_section_4fb4b73e13365e00a2723e7f3244b0b2</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-19 13:25:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

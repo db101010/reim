@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>mileage_col_embedded_function</name>
+        <scoped_name>x_inhe_reim_mileage_col_embedded_function</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-29 18:17:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b89a24dcdba69a00303e3b1cbf9619f3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>mileage_col_embedded_function</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_macro_b89a24dcdba69a00303e3b1cbf9619f3</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-03-29 19:09:41</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+        <j:set var="jvar_use_name_for_list_id" value="true" />
+	<g:list_relationship parentTable="x_inhe_reim_table" related="REL:e21eac90dbe69a00303e3b1cbf961939" view="" isEmbedded="true" />
+	<g:evaluate>
+		ListProperties.setHasTitle(true);
+		ListProperties.setHasTitleContextMenu(true);
+		ListProperties.setHasTopVCR(true);
+		ListProperties.setBottomNav(false);
+		ListProperties.setHasHeader(true);
+		ListProperties.setHasHeaderContextMenu(true);
+		ListProperties.setHasListMechanic(true);
+		ListProperties.setHasTopNavActionButtons(true);
+		ListProperties.setHasTopNav(true);
+		ListProperties.setShowNoRecordsMessage(false);
+		ListProperties.setShowLinks(true);
+		ListProperties.setHasRowContextMenu(true);
+		ListProperties.setCanHideNav(false);
+		ListProperties.setHasActions(false);
+		ListProperties.setHasFilter(true);
+		ListProperties.setHasPopup(true);
+		ListProperties.setCanChangeView(false);
+		ListProperties.setEmbedded(true);
+		ListProperties.setCssName("embedded");
+		ListProperties.setHasSearch(true);
+		ListProperties.setHasBreadcrumbs(true);
+		ListProperties.setShowEmpty(true);
+		ListProperties.setToggleHeader(false);
+	</g:evaluate>
+
+	<tr>
+		<td colspan="99" style="margin: 0px; padding: 0px;">
+			<table class="wide" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="100%" nowrap="true" class="form_cell_decoration">
+						<table class="list_embedded" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="list_embedded">
+									<div class="list_embedded">
+										<j:set var="jvar_list_type" value="embedded" />
+										<j:set var="jvar_related_list_type" value="REL" />
+										<g2:list_record_relationship properties="${ListProperties.serialize()}" parentID="$[jvar_sys_id]" query="">
+											<g:inline template="list2.xml" />
+										</g2:list_record_relationship>
+										<j:set var="jvar_list_type" value="" />
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<j:if test="${ListProperties.getListControlID() != ''}">
+		<j:set var="jvar_list_control_sys_id" value="${ListProperties.getListControlID()}" />
+		<j2:set var="jvar_list_id" value="$[sysparm_list_id]" />
+		<g:inline template="list_save_with_form_scripts.xml"/>
+	</j:if>
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

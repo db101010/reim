@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Advance" section_id="c12ccce6137b560003febc122244b0a0" sys_domain="global" table="x_inhe_reim_table" version="3" view="justin">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_advance_payable_to</element>
+            <position>0</position>
+            <sys_created_by>ClasJR</sys_created_by>
+            <sys_created_on>2016-06-06 18:53:42</sys_created_on>
+            <sys_id>992ccce6137b560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advance" display_value="Advance" name="x_inhe_reim_table" sys_domain="global" view="737a08a6137b560003febc122244b0d5">c12ccce6137b560003febc122244b0a0</sys_ui_section>
+            <sys_updated_by>ClasJR</sys_updated_by>
+            <sys_updated_on>2016-06-06 18:53:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reg_voucher</element>
+            <position>1</position>
+            <sys_created_by>ClasJR</sys_created_by>
+            <sys_created_on>2016-06-06 18:53:42</sys_created_on>
+            <sys_id>d92ccce6137b560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advance" display_value="Advance" name="x_inhe_reim_table" sys_domain="global" view="737a08a6137b560003febc122244b0d5">c12ccce6137b560003febc122244b0a0</sys_ui_section>
+            <sys_updated_by>ClasJR</sys_updated_by>
+            <sys_updated_on>2016-06-06 18:53:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>ClasJR</sys_created_by>
+            <sys_created_on>2016-06-06 18:53:42</sys_created_on>
+            <sys_id>1d2ccce6137b560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advance" display_value="Advance" name="x_inhe_reim_table" sys_domain="global" view="737a08a6137b560003febc122244b0d5">c12ccce6137b560003febc122244b0a0</sys_ui_section>
+            <sys_updated_by>ClasJR</sys_updated_by>
+            <sys_updated_on>2016-06-06 18:53:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_advance_date_needed</element>
+            <position>3</position>
+            <sys_created_by>ClasJR</sys_created_by>
+            <sys_created_on>2016-06-06 18:53:42</sys_created_on>
+            <sys_id>5d2ccce6137b560003febc122244b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advance" display_value="Advance" name="x_inhe_reim_table" sys_domain="global" view="737a08a6137b560003febc122244b0d5">c12ccce6137b560003febc122244b0a0</sys_ui_section>
+            <sys_updated_by>ClasJR</sys_updated_by>
+            <sys_updated_on>2016-06-06 18:53:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Advance</caption>
+            <header>false</header>
+            <name>x_inhe_reim_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ClasJR</sys_created_by>
+            <sys_created_on>2016-06-06 18:53:41</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>c12ccce6137b560003febc122244b0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Advance</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_section_c12ccce6137b560003febc122244b0a0</sys_update_name>
+            <sys_updated_by>ClasJR</sys_updated_by>
+            <sys_updated_on>2016-06-06 18:53:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Justin" name="justin">737a08a6137b560003febc122244b0d5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

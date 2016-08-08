@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="manager_approval" label="Approval Manager " language="en" table="x_inhe_reim_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>manager_approval</element>
+            <help/>
+            <hint/>
+            <label>Approval Manager </label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <plural>Approval Manager s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-26 18:54:41</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>7b23cd151387de00a2723e7f3244b068</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Approval Manager </sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_documentation_x_inhe_reim_table_manager_approval_en</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-27 15:50:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

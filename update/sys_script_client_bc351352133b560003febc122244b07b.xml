@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>g_catagory</field>
+        <global>true</global>
+        <messages/>
+        <name>Update account number</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+	
+	if(newValue == 'Books & Publishing') {
+		g_form.setValue('g_account', '54cd06ea13fe1e00a2723e7f3244b074');
+	}
+	if(newValue == 'Dues & Membership') {
+		g_form.setValue('g_account', '18cd06ea13fe1e00a2723e7f3244b074');
+	}
+	if(newValue == 'Group Meals') {
+		g_form.setValue('g_account', '54cd06ea13fe1e00a2723e7f3244b075');
+	}
+	if(newValue == 'Office & Admin Supplies') {
+		g_form.setValue('g_account', '50cd06ea13fe1e00a2723e7f3244b074');
+	}
+	if(newValue == 'Other') {
+		g_form.setValue('g_account', '');
+	}
+	if(newValue == 'Other Supplies and Materials') {
+		g_form.setValue('g_account', '90cd06ea13fe1e00a2723e7f3244b074');
+	}
+	if(newValue == 'paid_airfare') {
+		g_form.setValue('g_account', 'd0cd06ea13fe1e00a2723e7f3244b075');
+	}
+	if(newValue == 'paid_hotel') {
+		g_form.setValue('g_account', 'd0cd06ea13fe1e00a2723e7f3244b075');
+	}
+	if(newValue == 'Parking Tolls') {
+		g_form.setValue('g_account', 'd0cd06ea13fe1e00a2723e7f3244b075');
+	}
+	if(newValue == 'RentalCar') {
+		g_form.setValue('g_account', 'd0cd06ea13fe1e00a2723e7f3244b075');
+	}
+	if(newValue == 'Telephone') {
+		g_form.setValue('g_account', '14cd06ea13fe1e00a2723e7f3244b074');
+	}
+	if(newValue == 'Tips') {
+		g_form.setValue('g_account', 'd0cd06ea13fe1e00a2723e7f3244b075');
+	}
+	if(newValue == 'Training / Continuing Ed / Seminars') {
+		g_form.setValue('g_account', '10cd06ea13fe1e00a2723e7f3244b075');
+	}
+	
+if(newValue == 'Physician Books/Publications') {
+		g_form.setValue('g_account', '10cd06ea13fe1e00a2723e7f3244b075');
+	}	
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-06 15:08:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>bc351352133b560003febc122244b07b</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Update account number</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_client_bc351352133b560003febc122244b07b</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-06-16 13:25:25</sys_updated_on>
+        <table>x_inhe_reim_expences</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Mileage Reimbursement">51a05b582be11a402ba4c71317da15bf</catalog_item>
+        <catalog_variable>IO:eaf2ab5c2be11a402ba4c71317da157c</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>gibsjt</sys_created_by>
+        <sys_created_on>2016-02-09 14:48:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c248efdc2be11a402ba4c71317da1524</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>date_3</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c248efdc2be11a402ba4c71317da1524</sys_update_name>
+        <sys_updated_by>gibsjt</sys_updated_by>
+        <sys_updated_on>2016-02-09 14:48:05</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Mileage only info 2">e6f76fdc2be11a402ba4c71317da1557</ui_policy>
+        <variable>date_3</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

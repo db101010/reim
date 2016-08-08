@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description>Reimbursement center - current.operation() == 'update'</description>
+        <event_name>x_inhe_reim.rei.updated</event_name>
+        <fired_by>Reimbursement Events</fired_by>
+        <queue/>
+        <suffix>rei.updated</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-05-05 20:09:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d4ba274c13df5240a2723e7f3244b000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_inhe_reim.rei.updated</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sysevent_register_d4ba274c13df5240a2723e7f3244b000</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-05-05 20:09:50</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+    </sysevent_register>
+</record_update>

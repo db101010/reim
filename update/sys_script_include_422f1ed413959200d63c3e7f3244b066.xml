@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_inhe_reim.Locations</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>Locations</name>
+        <script><![CDATA[var Locations = Class.create();
+Locations.prototype = {
+	initialize : function() {
+	},
+	
+	getLocation: function(){
+		
+		var loc = new GlideRecord('cmn_location');
+		loc.addQuery('latitude', '!=', '');
+		loc.addQuery('longitude', '!=', '');
+		loc.query();
+		while(loc.next()){
+
+			var ch = new GlideRecord('sys_choice');
+			ch.addQuery('label',loc.name);
+			ch.addQuery('name','x_inhe_reim_location_choice');
+			ch.addQuery('element','to');
+			ch.query();
+			if(ch.next()){
+					gs.info('An update was made for ' + loc.name);
+					ch.name = 'x_inhe_reim_location_choice';
+					ch.element = 'to';
+					ch.label = loc.name;
+					ch.value = loc.name;
+					ch.update();
+				} else {
+					gs.info('An insert was made for ' + loc.name);
+					ch.name = 'x_inhe_reim_location_choice';
+					ch.element = 'to';
+					ch.label = loc.name;
+					ch.value = loc.name;
+					ch.insert();
+					}
+		}
+
+		var locFr = new GlideRecord('cmn_location');
+		locFr.addQuery('latitude', '!=', '');
+		locFr.addQuery('longitude', '!=', '');
+		locFr.query();
+		while(locFr.next()){
+
+			var chFr = new GlideRecord('sys_choice');
+			chFr.addQuery('label',locFr.name);
+			chFr.addQuery('name','x_inhe_reim_location_choice');
+			chFr.addQuery('element','from');
+			chFr.query();
+			if(chFr.next()){
+					gs.info('An update was made for ' + locFr.name);
+					chFr.name = 'x_inhe_reim_location_choice';
+					chFr.element = 'from';
+					chFr.label = locFr.name;
+					chFr.value = locFr.name;
+					chFr.update();
+				} else {
+					gs.info('An insert was made for ' + locFr.name);
+					chFr.name = 'x_inhe_reim_location_choice';
+					chFr.element = 'from';
+					chFr.label = locFr.name;
+					chFr.value = locFr.name;
+					chFr.insert();
+					}
+		}
+	},
+			type: 'Locations'
+		};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-01-27 23:13:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>422f1ed413959200d63c3e7f3244b066</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Locations</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_include_422f1ed413959200d63c3e7f3244b066</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-02-05 20:56:02</sys_updated_on>
+    </sys_script_include>
+</record_update>

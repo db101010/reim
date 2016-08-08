@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>expense_label_2</name>
+        <scoped_name>x_inhe_reim_expense_label_2</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-03-02 19:41:13</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f4bd79af2b71d2002ba4c71317da156e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>expense_label_2</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_macro_f4bd79af2b71d2002ba4c71317da156e</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-03-02 19:41:13</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+  <div class="label_span_macro">Expense Information </div>
+  <style>
+     .label_span_macro{
+        background: #24549C;
+        color: #ffffff;
+        padding: 5px;
+        font-weight: bold;
+		
+     }
+  </style>
+</j:jelly>
+]]></xml>
+    </sys_ui_macro>
+</record_update>

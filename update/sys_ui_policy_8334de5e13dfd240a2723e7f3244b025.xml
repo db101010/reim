@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <conditions table="x_inhe_reim_table">approval_state=1^EQ<item endquery="false" field="approval_state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+	var elements = document.getElementsByClassName('custom-form-group form-group');
+	for(var i = 0; i < elements.length; i++){
+		elements[i].style.display='';
+	}
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	//document.getElementsByClassName('col-xs-12').style.display = 'none';
+	var elements = document.getElementsByClassName('custom-form-group form-group');
+	for(var i = 0; i < elements.length; i++){
+		elements[i].style.display='none';
+	}
+}]]></script_true>
+        <set_values/>
+        <short_description>Hide Approval</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-05-12 13:41:00</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>8334de5e13dfd240a2723e7f3244b025</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Hide Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_policy_8334de5e13dfd240a2723e7f3244b025</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-05-13 20:36:40</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <ui_type>0</ui_type>
+        <view>authorization</view>
+    </sys_ui_policy>
+</record_update>

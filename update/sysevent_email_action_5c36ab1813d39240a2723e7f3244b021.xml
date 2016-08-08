@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <collection>x_inhe_reim_table</collection>
+        <condition table="x_inhe_reim_table">state=6^type=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="6"/>
+            <item endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <description/>
+        <event_name>x_inhe_reim.create</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>event</generation_type>
+        <group/>
+        <group_field/>
+        <importance/>
+        <include_attachments>true</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <list/>
+        <list_field/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><br /><font size="7">INTEGRIS Health</font></p>
+<p>&nbsp;</p>
+<p>A ${type} request has been created for you. To view this request click here ${URI_REF}. &nbsp;</p>
+<p>Reimbursement Instructions</p>
+<ul>
+<li>Reply to this email and attach receipt images or other documentation in order to attach them to your reimbursement request.&nbsp;</li>
+<li>Include the description in the subject line.</li>
+<li>When travel has been completed&nbsp;click here&nbsp;<span style="text-align: start;">${URI_REF} to finish the request.&nbsp;</span></li>
+<li><span style="text-align: start;">Make sure all of you&nbsp;receipt images and other documentation are attached.</span></li>
+<li><span style="text-align: start;">Fill out reimbursement request.</span></li>
+<li><span style="text-align: start;">Submit for approval.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p>To print request click here: <a title="Print&nbsp;${type}" href="https://integristest.service-now.com/x_inhe_reim_table.do?sysparm_record_target=x_inhe_reim_table&amp;sysparm_record_rows=1&amp;sysparm_record_row=1&amp;sys_id=${sys_id}&amp;sysparm_record_list=u_status%3D1&amp;sysparm_stack=no&amp;sysparm_force_row_count=999999999&amp;sysparm_media=print">Print&nbsp;${type}</a></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Reimbursement create</name>
+        <omit_watermark>false</omit_watermark>
+        <order/>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>created_for,opened_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>A ${type} request has been created for you.</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-05-06 14:28:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>5c36ab1813d39240a2723e7f3244b021</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Reimbursement create</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sysevent_email_action_5c36ab1813d39240a2723e7f3244b021</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-30 14:42:59</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <user/>
+        <user_field/>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

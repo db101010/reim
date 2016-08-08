@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Meals" max_length="40" name="x_inhe_reim_reimeals" type="collection">
+        <element label="Breakfast Location" max_length="40" name="b_location" type="string"/>
+        <element label="Dinner Location" max_length="40" name="d_location" type="string"/>
+        <element default="0.00" label="Daily Total" max_length="40" name="d_total" type="string"/>
+        <element label="Lunch Location" max_length="40" name="l_location" type="string"/>
+        <element default="0.00" label="Breakfast Cost" max_length="40" name="m_breakfast" type="string"/>
+        <element label="Date" max_length="40" name="m_date" type="glide_date"/>
+        <element default="0.00" label="Dinner Cost" max_length="40" name="m_dinner" type="string"/>
+        <element default="0.00" label="Lunch Cost" max_length="40" name="m_lunch" type="string"/>
+        <element label="Number" max_length="32" name="rei_number" reference="x_inhe_reim_table" type="reference"/>
+        <index name="index">
+            <element name="rei_number"/>
+        </index>
+    </element>
+</database>

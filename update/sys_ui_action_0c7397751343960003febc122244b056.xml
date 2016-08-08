@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>t_approval_request</action_name>
+        <active>true</active>
+        <client>true</client>
+        <comments>Approval for Travel</comments>
+        <condition>current.approval_state == '1' &amp;&amp; current.state == '4'</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <hint/>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <name>Submit for Approval</name>
+        <onclick>tapprovalrequest()</onclick>
+        <order>100</order>
+        <script><![CDATA[function tapprovalrequest(){
+	var mail = g_form.getValue('mailing_address');
+	var contact = g_form.getValue('contact_number');
+	var account = g_form.getValue('account_number');
+	
+		if( mail == '' || contact =='' || account == ''){
+			
+			if (mail == '') {
+			try{g_form.hideFieldMsg('mailing_address');}catch(e){}
+			g_form.setMandatory('mailing_address', true);
+			g_form.flash("x_inhe_reim_table.mailing_address", "pink", 0);
+			}
+			
+			if (contact == '') {
+			try{g_form.hideFieldMsg('contact_number');}catch(e){}
+			g_form.setMandatory('contact_number', true);
+			g_form.flash("x_inhe_reim_table.contact_number", "pink", 0);
+			}			
+			
+			if (account == '') {
+			try{g_form.hideFieldMsg('account_number');}catch(e){}
+			g_form.setMandatory('account_number', true);
+			g_form.flash("x_inhe_reim_table.account_number", "pink", 0);
+			}
+					
+			
+			return false;  //Abort submission
+		}
+		
+	gsftSubmit(null, g_form.getFormElement(), 't_approval_request'); //MUST call the 'Action name' set in this UI Action
+}
+if(typeof window == 'undefined'){
+	travelApproval();
+}
+
+function travelApproval(){
+	
+	if (current.type == '1') {
+		var aType = '1';
+	} else {
+		var aType = '2';
+	}
+	
+	
+	var app = new GlideRecord("x_inhe_reim_ap_approvals");
+	app.rei_number = current.sys_id;
+	app.approver = current.manager_approval;
+	app.state = '1';
+	app.order = '1';
+	app.approval_type = aType;
+	app.approval_for = '1';
+	app.insert();
+	current.approval_state = '2';
+	current.state = '9';
+	current.current_approver = current.manager_approval;
+	current.update();
+	
+	var url = 'com.glideapp.servicecatalog_category_view.do?sysparm_parent=e15706fc0a0a0aa7007fc21e1ab70c2f&sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4';
+	
+	
+	action.setRedirectURL(url);
+	// }
+}
+]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-28 18:44:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>0c7397751343960003febc122244b056</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>Submit for Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_action_0c7397751343960003febc122244b056</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-28 18:58:17</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

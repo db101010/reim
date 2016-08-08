@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Airport" max_length="40" name="x_inhe_reim_airport" type="collection">
+        <element label="Airport Code" max_length="40" name="airport_code" type="string"/>
+        <element display="true" label="Airport Name" max_length="40" name="airport_name" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="State" max_length="40" name="state" type="string"/>
+    </element>
+</database>

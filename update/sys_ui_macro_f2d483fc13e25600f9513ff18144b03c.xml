@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>expense_col_embedded</name>
+        <scoped_name>x_inhe_reim_expense_col_embedded</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-03-31 18:32:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f2d483fc13e25600f9513ff18144b03c</sys_id>
+        <sys_mod_count>51</sys_mod_count>
+        <sys_name>expense_col_embedded</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_macro_f2d483fc13e25600f9513ff18144b03c</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-28 18:18:04</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<j2:set var="jvar_num" value="$[sys_id]" />
+
+<g2:evaluate jelly="true">
+		var nume = jelly.jvar_num;
+	var ex = new GlideRecord("x_inhe_reim_table");
+    ex.addQuery("sys_id", nume);
+    ex.query();
+	
+ // remember, any variables defined here are automatically added to the global scope
+  var num = jelly.jvar_num;
+  
+  var exp = new GlideRecord('x_inhe_reim_expences');
+  exp.addQuery('rei_number', num);
+  exp.query();
+  
+
+  var numb = jelly.jvar_num;
+  var ach = '0';
+  var cexp = new GlideRecord('x_inhe_reim_expences');
+  cexp.addQuery('rei_number', numb);
+  cexp.query();
+  while(cexp.next()) {
+    if(cexp.g_catagory == 'Group Meals') {
+    ach++;
+    }
+  }
+
+</g2:evaluate>
+
+<g2:evaluate var="jvar_ecount" jelly="true">
+	  var numb = jelly.jvar_num;
+  var ach = '0';
+  var cexp = new GlideRecord('x_inhe_reim_expences');
+  cexp.addQuery('rei_number', numb);
+  cexp.query();
+  while(cexp.next()) {
+    if(cexp.g_catagory == 'Group Meals') {
+    ach++;
+    }
+  }
+  ach;
+</g2:evaluate>
+	
+<style>
+  table#t01 th {
+      background-color: #24549C;
+      color: white;
+      font-weight: bold;
+  }
+   h1 {
+    padding: 0% 0% 0% 10%;
+  }
+   p.solid {border-style: solid;
+      margin: auto;
+      width: 80%;
+      center: 0px;
+      padding: 6px;
+      background: #24549C;
+      color: white;
+      font-size: 13px;
+  }
+	a {
+	padding: 0% 0% 0% 10%;
+	}
+  
+</style>
+
+<left>
+<!-- <h1>Related Expenses</h1> -->
+<p class="solid">Expense Information</p>
+<table id="t01" border="1" style="width:79.5%" align="center">
+
+<j2:if test="$[!exp.hasNext()]">
+  <tr><td>No records found.</td></tr>
+</j2:if>
+
+<!-- Add header cells if we have records to display -->
+<j2:if test="$[exp.hasNext()]">
+	<j2:if test="$[jvar_ecount != 0]">
+	<tr>
+      <th>Date</th>
+      <th>Account Number</th>
+      <th>Expense Catagory</th>
+      <th>Description of Expense</th>
+      <th>Cost</th>
+	  <th>Alcohol Cost</th>
+    </tr>
+	</j2:if>
+	<j2:if test="$[jvar_ecount == 0]">
+	<tr>
+      <th>Date</th>
+      <th>Account Number</th>
+      <th>Expense Catagory</th>
+      <th>Description of Expense</th>
+      <th>Cost</th>
+    </tr>
+	</j2:if>
+  </j2:if>
+
+<j2:while test="$[exp.next()]">
+  <j2:if test="$[jvar_ecount != 0]">
+  <tr>
+  <td style="cursor:pointer;color:blue" onclick="editExp('$[exp.sys_id]')"><u>$[exp.g_date]</u></td>
+    <td>$[exp.g_account.getDisplayValue()]</td>
+    <td>$[exp.g_catagory]</td>
+    <td>$[exp.g_expence]</td>
+    <td>$[exp.g_cost]</td>
+    <td>$[exp.alcohol_cost]</td>	 
+  </tr>
+  </j2:if>
+  <j2:if test="$[jvar_ecount == 0]">
+  <tr>
+  <td style="cursor:pointer;color:blue" onclick="editExp('$[exp.sys_id]')"><u>$[exp.g_date]</u></td>
+    <td>$[exp.g_account.getDisplayValue()]</td>
+    <td>$[exp.g_catagory.getDisplayValue()]</td>
+    <td>$[exp.g_expence]</td>
+    <td>$[exp.g_cost]</td>
+  </tr>
+	</j2:if>
+</j2:while>
+
+</table>
+
+<j2:while test="$[ex.next()]">
+  <j2:set var="jvar_enum" value="$[ex.state]" />
+  <j2:if test="$[jvar_enum == 6]">
+	<a onclick="addExpense()">
+		  <img border="0" src="Add_expense.gif" title="${gs.getMessage('Add Expense')}" alt="${gs.getMessage('Add Expense')}"/>
+	   </a>
+  </j2:if>
+</j2:while>
+
+      <script>
+      //OnClick function for UI macro
+      function addExpense(){
+         var v = g_form.getUniqueValue();
+
+            var dialog = new GlideDialogForm('Add Expense', 'x_inhe_reim_expences');
+            dialog.setSysID('-1'); //Pass in -1 to create a new record
+         
+         dialog.addParm('sysparm_view', 'default'); //Specify a form view
+         dialog.addParm('sysparm_form_only', 'true'); //Remove related lists
+		 dialog.setLoadCallback(function(iframeDoc) {
+       // To get the iframe: document.defaultView in non-IE, document.parentWindow in IE
+		 var dialogFrame = 'defaultView' in iframeDoc ? iframeDoc.defaultView : iframeDoc.parentWindow;
+		 dialogFrame.addLoadEvent(function() {
+		 dialogFrame.g_form.setValue('rei_number', v);
+		 dialogFrame = null;  
+       });
+       });
+         dialog.render(); //Open the dialog
+
+         }
+		 function editExp(expNum){
+         var ID = expNum;
+         //g_form.save();
+         var dialog = new GlideDialogForm('Edit Expense', 'x_inhe_reim_expences');
+         dialog.setSysID(ID); //Pass in -1 to create a new record         
+         dialog.addParm('sysparm_view', 'default'); //Specify a form view
+         dialog.addParm('sysparm_form_only', 'true'); //Remove related lists
+         dialog.render(); //Open the dialog
+		  }
+		   
+		  
+    </script>
+</left>
+
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

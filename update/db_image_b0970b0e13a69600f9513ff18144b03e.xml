@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <format>gif</format>
+        <height>39</height>
+        <image/>
+        <name>Add_expense.gif</name>
+        <size_bytes>1468</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-04 15:57:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b0970b0e13a69600f9513ff18144b03e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Add_expense.gif</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>db_image_b0970b0e13a69600f9513ff18144b03e</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-04-04 15:58:03</sys_updated_on>
+        <thumbnail/>
+        <width>96</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <file_name>image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1468</size_bytes>
+        <size_compressed>1135</size_compressed>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-04 15:57:52</sys_created_on>
+        <sys_id>c7b7cf0e13a69600f9513ff18144b0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-04-04 15:57:52</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>b0970b0e13a69600f9513ff18144b03e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="c7b7cf0e13a69600f9513ff18144b0b2">c7b7cf0e13a69600f9513ff18144b0b2</sys_attachment>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-04 15:57:52</sys_created_on>
+        <sys_id>0bb7cf0e13a69600f9513ff18144b0b2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>c/d0s7BMTGBQZyhnYFD8ycLIAAQ6IAIk1v7//38TW3c7twBHz2Bn7xB3/wiPgEjv4GifkFi/sDj/8ISAiMSgyKTg6OSQmJSw2LTw+PSIhIyoxMzopKyY5OzYlJz4tLzEjIKU7OLUnOK0nJKM/LLMgvKsworsosrc4ur8stqiyobiyobS6qaymqbK+taqhraqhvbqxo6apo7a5s66lq7Gtt627ontPZO6JkztmTi9b/KMCVNnTZo+Z+qs+dOAaPaCWfMWz120fP7iFUtXrlu2av2qdZtWr9+8btO2jVt2bNy6c8v23Tv37N+97+Ce/Yf2Hjhy4PDRw8dOHj1x+tjJ08dPnT155tyZcxfPnr949sKlC5evXrx87dKVa5euXr989fqVazeu37x94+btW3fu3bl7/869B3fvP7j34OGDR48fPn7y6PHTx0+ePnn67Mmz50+fvXj2/MXzFy9fvHz18tXrV6/fvHnz9s3bt2/fvX//AQg+fvj46eOnT58+A8GXL1++fvn69eu3b9+//wCBn0Dw68+fP3///v337x8wwBlGwaABHP8YGDlkPDYsONjMIawVc2LDwsPtAspeczw2LjraLWGcdWfFhe5JSgrOXTKem5acnKwRvEpm5RFuJ/2ARwVzVhryiUxnm3piycnPSTKq7N1fZLICVzgudpns5OI1YeWl5VxzuaZwbc26vCBss9zRVVu1GVaF7NVi9S7sbZVnTV+wQLlMMbI1mOWBQYaYruPWHMYLjoEHmu4r5u4v8t2xuJHDkvX1sljtgvc9B8K3q01RdvJg12baXJFRkMhwy8JIJCLiQIR+13Gmhx0nFrJ7thoZW0154MPqIKcoJPBkRfI2tzYmvWcPNO88YJtze2e5ek33Ba42Q/0yBofJju5yejx1DzYKHvKVFVsq+0+451PDKY4txmoJJxcnO89WFD1yxlDxyJoui2gRk5mffp0Tt/1w0v1+UbPskcPcFQKGh2S8LQTYGEpXBjIKMj28KhFfdzSBXc5A4IOjNEPEDFaWwDUG4gx2eyYcixSYV8rK7HSHsUFWjWuKkhyHYfoFGWWVBEdmtpiPzazZW34cFuMwCUysWC5a4sJgq3NSbJJbxIPFUzUmHEyKrQphPMTouKYilWmpZ1hABENM4cHm6o8FLSxpEpltLO4elYpZK3s3OLKlt5y4IcLjIdhUwqy5TIKhSuXgAeFmsyXJjvZTtjFzRbgwtMgFKnw4LKu7xoBdWtmgU53BuUbhWFbVmQcHJcv3bAgTmC1ew3hAMl+iKkzc50mgG2vwAS3ttSyzIi/EtTAZuDJHWTg2MiluqHDjYktwYJpc+9PVma10UvtRHu6MBQ5ctY8EjzDzFwS0rrVvKDzEzPumoX3Hk1nSb2bmRv64sjjypnVYY9TL2SL7JvCyFhyw4fX54MMmvyfwEFf6kYLD4oFLhY/Y/C0R8LEOjLnsq1+75dJxhXadIk/dzJxPJzWW2wQ4MFgDAFqcreO8BQAA</data>
+        <length>1500</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="c7b7cf0e13a69600f9513ff18144b0b2">c7b7cf0e13a69600f9513ff18144b0b2</sys_attachment>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-04 15:57:52</sys_created_on>
+        <sys_id>8bb7cf0e13a69600f9513ff18144b0b2</sys_id>
+    </sys_attachment_doc>
+</record_update>

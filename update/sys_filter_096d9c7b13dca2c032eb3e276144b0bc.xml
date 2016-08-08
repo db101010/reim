@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="x_inhe_reim_table">sys_id=086d14bb13dca2c032eb3e276144b0bd^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="086d14bb13dca2c032eb3e276144b0bd"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2016-07-05 13:58:17</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>VuTT</sys_created_by>
+        <sys_created_on>2016-07-05 13:52:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>096d9c7b13dca2c032eb3e276144b0bc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_filter_096d9c7b13dca2c032eb3e276144b0bc</sys_update_name>
+        <sys_updated_by>VuTT</sys_updated_by>
+        <sys_updated_on>2016-07-05 13:58:17</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <title>mobile</title>
+        <user display_value="Teresa Vu (VuTT)">662a3c2b13711200d63c3e7f3244b0ef</user>
+    </sys_filter>
+</record_update>

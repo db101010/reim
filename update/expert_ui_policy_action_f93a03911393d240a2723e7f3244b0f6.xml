@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="expert_ui_policy_action">
+    <expert_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <expert display_value="Reimbursement Center">a5c4378013139240a2723e7f3244b01c</expert>
+        <expert_variable>IO:a9ef378413139240a2723e7f3244b0ee</expert_variable>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>expert_ui_policy_action</sys_class_name>
+        <sys_created_by>GibsJT</sys_created_by>
+        <sys_created_on>2016-05-09 15:00:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f93a03911393d240a2723e7f3244b0f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IO:a9ef378413139240a2723e7f3244b0ee</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>expert_ui_policy_action_f93a03911393d240a2723e7f3244b0f6</sys_update_name>
+        <sys_updated_by>GibsJT</sys_updated_by>
+        <sys_updated_on>2016-05-09 15:00:20</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Autopopulated fields">b1b9c3911393d240a2723e7f3244b0e7</ui_policy>
+        <variable>employee_num</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </expert_ui_policy_action>
+</record_update>

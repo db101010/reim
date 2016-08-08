@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Mileage Information" section_id="72ea5faa1392d200f9513ff18144b088" sys_domain="global" table="x_inhe_reim_table" version="3" view="Mileage">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_inhe_reim_mileage_col_embedded.xml</element>
+            <position>0</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>efb8f961135c6e8032eb3e276144b015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Mileage Formatter">326447bc13e25600f9513ff18144b0f2</sys_ui_formatter>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>23b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mileage_estimate</element>
+            <position>2</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>63b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>a3b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_mileage_cost</element>
+            <position>4</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>e3b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>27b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_inhe_reim_approve_reject.xml</element>
+            <position>6</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>67b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Approve or Reject">2de798e913935a0003febc122244b0d8</sys_ui_formatter>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>7</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>a7b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>adv_id</element>
+            <position>8</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>e7b8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reg_ta</element>
+            <position>9</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>2bb8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reim_id</element>
+            <position>10</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>6bb8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>r_mileage_cost</element>
+            <position>11</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-28 20:45:39</sys_created_on>
+            <sys_id>abb8f961135c6e8032eb3e276144b016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-06-28 20:45:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Mileage Information</caption>
+            <header>false</header>
+            <name>x_inhe_reim_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 12:33:21</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>72ea5faa1392d200f9513ff18144b088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mileage Information</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_section_72ea5faa1392d200f9513ff18144b088</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-18 12:33:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Mileage" name="Mileage">b6ea5faa1392d200f9513ff18144b087</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

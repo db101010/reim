@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="expert_ui_policy">
+    <expert_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>expert</applies_to>
+        <conditions/>
+        <description/>
+        <expert display_value="Reimbursement Center">a5c4378013139240a2723e7f3244b01c</expert>
+        <expert_conditions>IO:6635b78013139240a2723e7f3244b0c5=4^EQ</expert_conditions>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>test</short_description>
+        <sys_class_name>expert_ui_policy</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-05-09 14:50:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>77c78b5913535a0003febc122244b01a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>expert_ui_policy_77c78b5913535a0003febc122244b01a</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-05-09 14:50:25</sys_updated_on>
+        <table/>
+        <ui_type>0</ui_type>
+        <variable_set/>
+        <view/>
+    </expert_ui_policy>
+</record_update>

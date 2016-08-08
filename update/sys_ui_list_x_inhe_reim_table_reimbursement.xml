@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_inhe_reim_table" version="2" view="Reimbursement">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>bc12f5ec137fd20003febc122244b0d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>created_for</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>fc12f5ec137fd20003febc122244b0d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>department</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>3012f5ec137fd20003febc122244b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>7012f5ec137fd20003febc122244b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>b012f5ec137fd20003febc122244b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approvals_completed</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>f012f5ec137fd20003febc122244b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>r_approvals_completed</element>
+            <list_id display_value="x_inhe_reim_table" element="NULL" name="x_inhe_reim_table" parent="NULL" relationship="NULL" sys_domain="global" view="96416a2213325e00a2723e7f3244b0d0">f812f5ec137fd20003febc122244b0d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_id>3412f5ec137fd20003febc122244b0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_inhe_reim_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-05-31 21:11:12</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>f812f5ec137fd20003febc122244b0d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_inhe_reim_table</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_list_x_inhe_reim_table_Reimbursement</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-05-31 21:11:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reimbursement" name="Reimbursement">96416a2213325e00a2723e7f3244b0d0</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

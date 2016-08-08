@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>mileage_col_embedded</name>
+        <scoped_name>x_inhe_reim_mileage_col_embedded</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-03-29 18:01:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>121a20dcdba69a00303e3b1cbf961905</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>mileage_col_embedded</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_ui_macro_121a20dcdba69a00303e3b1cbf961905</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-15 20:36:51</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<j2:set var="jvar_num" value="$[sys_id]" />
+
+<g2:evaluate jelly="true">
+	
+	var numm = jelly.jvar_num;
+	var mr = new GlideRecord("x_inhe_reim_table");
+    mr.addQuery("sys_id", numm);
+    mr.query();
+	
+ // remember, any variables defined here are automatically added to the global scope
+  var num = jelly.jvar_num;
+  var mile = new GlideRecord('x_inhe_reim_mileage_table');
+  mile.addQuery('rei_number', num);
+  mile.query();
+</g2:evaluate>
+
+<style>
+  table#t01 th {
+      background-color: #24549C;
+      color: white;
+      font-weight: bold;
+  }
+   h1 {
+    padding: 0% 0% 0% 10%;
+  }
+   p.solid {border-style: solid;
+      margin: auto;
+      width: 80%;
+      center: 0px;
+      padding: 6px;
+      background: #24549C;
+      color: white;
+      font-size: 13px;
+  }
+	a {
+	padding: 0% 0% 0% 10%;
+	}
+  
+</style>
+
+<left>
+<!-- <h1>Related Mileage</h1> -->
+<p class="solid">Mileage Information</p>
+<table id="t01" border="1" style="width:79.5%" align="center">
+
+<j2:if test="$[!mile.hasNext()]">
+  <tr><td>No records found.</td></tr>
+</j2:if>
+
+<!-- Add header cells if we have records to display -->
+<j2:if test="$[mile.hasNext()]">
+  <tr>
+    <th>Date</th>
+    <th>From</th>
+    <th>To</th>
+    <th>Purpose of travel</th>
+    <th>Round trip</th>
+    <th>Total Miles Driven</th>
+	<th>Account Number</th>
+  </tr>
+</j2:if>
+
+<j2:while test="$[mile.next()]">
+	  <tr>
+		  <td style="cursor:pointer;color:blue" onclick="editMile('$[mile.sys_id]')"><u>$[mile.m_date]</u></td>
+		<td>$[mile.m_from]</td>
+		<td>$[mile.m_to]</td>
+		<td>$[mile.m_purpose_of_travel]</td>
+		<td>$[mile. m_round_trip]</td>
+		<td>$[mile. miles_driven]</td>
+		<td>$[mile.account_number]</td>
+
+	  </tr>
+</j2:while>
+
+</table>
+
+<j2:while test="$[mr.next()]">
+  <j2:set var="jvar_rnum" value="$[mr.state]" />
+  <j2:if test="$[jvar_rnum == 6]">  
+	<a onclick="addMilage()">
+      <img border="0" src="add_mileage.gifx" title="${gs.getMessage('Add Mileage')}" alt="${gs.getMessage('Add Mileage')}"/>
+    </a>
+  </j2:if>
+</j2:while>
+
+      <script>
+      //OnClick function for UI macro
+      function addMilage(){
+		var v = g_form.getUniqueValue();
+
+            var dialog = new GlideDialogForm('Add Mileage', 'x_inhe_reim_mileage_table');
+            dialog.setSysID('-1'); //Pass in -1 to create a new record
+         
+         dialog.addParm('sysparm_view', 'default'); //Specify a form view
+         dialog.addParm('sysparm_form_only', 'true'); //Remove related lists
+     dialog.setLoadCallback(function(iframeDoc) {
+       // To get the iframe: document.defaultView in non-IE, document.parentWindow in IE
+     var dialogFrame = 'defaultView' in iframeDoc ? iframeDoc.defaultView : iframeDoc.parentWindow;
+     dialogFrame.addLoadEvent(function() {
+     dialogFrame.g_form.setValue('rei_number', v);
+     dialogFrame = null;  
+       });
+       });
+         dialog.render(); //Open the dialog
+
+         }
+		  
+		        function editMile(mileNum){
+         var ID = mileNum;
+         //g_form.save();
+         var dialog = new GlideDialogForm('Edit Meal', 'x_inhe_reim_mileage_table');
+         dialog.setSysID(ID); //Pass in -1 to create a new record         
+         dialog.addParm('sysparm_view', 'default'); //Specify a form view
+         dialog.addParm('sysparm_form_only', 'true'); //Remove related lists
+         dialog.render(); //Open the dialog
+
+         }
+    </script>
+</left>
+
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reg_status" table="x_inhe_reim_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reg_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-06 12:52:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8d89f25a13f7560003febc122244b0fd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-07 19:43:05</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reg_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed via Online Registration</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-06 12:52:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0589f25a13f7560003febc122244b0fe</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-07 19:43:04</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reg_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed via Check</label>
+            <language>en</language>
+            <name>x_inhe_reim_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-06 12:52:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8189f25a13f7560003febc122244b0fe</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2016-06-07 19:43:05</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reg_status</element>
+            <name>x_inhe_reim_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-06-06 12:52:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>dd18698d1340e28032eb3e276144b076</sys_id>
+            <sys_mod_count>11</sys_mod_count>
+            <sys_name>reg_status</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_x_inhe_reim_table_reg_status</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-07-05 20:12:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

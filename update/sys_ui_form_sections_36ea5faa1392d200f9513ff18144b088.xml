@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="36ea5faa1392d200f9513ff18144b088" sys_domain="global" table="x_inhe_reim_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 12:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bf2f122213325e00a2723e7f3244b03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">36ea5faa1392d200f9513ff18144b088</sys_ui_form>
+            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">372f122213325e00a2723e7f3244b03e</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-18 12:33:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 12:33:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ff2f122213325e00a2723e7f3244b03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_inhe_reim_table" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">36ea5faa1392d200f9513ff18144b088</sys_ui_form>
+            <sys_ui_section caption="Mileage Information" display_value="Mileage Information" name="x_inhe_reim_table" sys_domain="global" view="b6ea5faa1392d200f9513ff18144b087">72ea5faa1392d200f9513ff18144b088</sys_ui_section>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-18 12:33:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_inhe_reim_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>GibsJT</sys_created_by>
+            <sys_created_on>2016-04-18 12:33:21</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>36ea5faa1392d200f9513ff18144b088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_inhe_reim_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_36ea5faa1392d200f9513ff18144b088</sys_update_name>
+            <sys_updated_by>GibsJT</sys_updated_by>
+            <sys_updated_on>2016-04-18 12:33:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mileage" name="Mileage">b6ea5faa1392d200f9513ff18144b087</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

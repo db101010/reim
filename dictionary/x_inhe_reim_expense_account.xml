@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Expense Account" max_length="40" name="x_inhe_reim_expense_account" type="collection">
+        <element label="Discription" max_length="40" name="discription" type="string"/>
+        <element label="Effective Date" max_length="40" name="effective_date" type="string"/>
+        <element display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short Discription" max_length="40" name="short_discription" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

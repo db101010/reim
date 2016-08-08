@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="wf_workflow_version">
+    <wf_workflow_version action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_stages>{"activities":{},"subflows":[],"stages":{},"ends":["8649acdd13546200339d50128144b081"]}</activity_stages>
+        <after_business_rules>false</after_business_rules>
+        <checked_out/>
+        <checked_out_by/>
+        <column_renderer display_value="Workflow-driven">a56213111b030100adca1e094f0713ac</column_renderer>
+        <condition/>
+        <condition_type>run_match</condition_type>
+        <description/>
+        <expected_sequences>c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,ce49acdd13546200339d50128144b081,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b080,0a49acdd13546200339d50128144b081,4249acdd13546200339d50128144b07f,8649acdd13546200339d50128144b081</expected_sequences>
+        <expected_time>1970-01-01 14:00:00</expected_time>
+        <expected_time_type/>
+        <full_sequences>c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,ce49acdd13546200339d50128144b081,82492cdd13546200339d50128144b010,4a492cdd13546200339d50128144b010,0649acdd13546200339d50128144b080,4e49acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b082|c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,ce49acdd13546200339d50128144b081,82492cdd13546200339d50128144b010,4a492cdd13546200339d50128144b010,0649acdd13546200339d50128144b080,4e49acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b080,0a49acdd13546200339d50128144b081,4249acdd13546200339d50128144b07f,8649acdd13546200339d50128144b081|c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,ce49acdd13546200339d50128144b081,82492cdd13546200339d50128144b010,4a492cdd13546200339d50128144b010,42492cdd13546200339d50128144b00f|c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,ce49acdd13546200339d50128144b081,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b082|c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,ce49acdd13546200339d50128144b081,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b080,0a49acdd13546200339d50128144b081,4249acdd13546200339d50128144b07f,8649acdd13546200339d50128144b081|c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b082|c249acdd13546200339d50128144b081,0a492cdd13546200339d50128144b00f,8e49acdd13546200339d50128144b080,8649acdd13546200339d50128144b07f,8e49acdd13546200339d50128144b082,4a49acdd13546200339d50128144b080,0a49acdd13546200339d50128144b081,4249acdd13546200339d50128144b07f,8649acdd13546200339d50128144b081</full_sequences>
+        <journal/>
+        <max_activity_count>100</max_activity_count>
+        <name>Reimbursement Center</name>
+        <not_cacheable>false</not_cacheable>
+        <on_cancel><![CDATA[// This script executes if the workflow is cancelled.// The global variable context_sys_id contains the sys_id of the cancelled workflow context.]]></on_cancel>
+        <order>100</order>
+        <pin_type>set_by_activity</pin_type>
+        <published>true</published>
+        <relative_duration/>
+        <requires_ert>true</requires_ert>
+        <run_multiple>false</run_multiple>
+        <schedule/>
+        <stage_field/>
+        <stage_order>computed</stage_order>
+        <start display_value="Begin">c249acdd13546200339d50128144b081</start>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8a492cdd13546200339d50128144b00e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:21:40</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <timezone/>
+        <validated>true</validated>
+        <workflow display_value="Reimbursement Center">f75caff91343960003febc122244b08e</workflow>
+    </wf_workflow_version>
+    <wf_workflow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <description/>
+        <name>Reimbursement Center</name>
+        <preview/>
+        <sys_class_name>wf_workflow</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-04-28 20:30:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>f75caff91343960003febc122244b08e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Reimbursement Center</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>true</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>wf_workflow_f75caff91343960003febc122244b08e</sys_update_name>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-05-23 21:37:34</sys_updated_on>
+        <table>x_inhe_reim_table</table>
+        <template>false</template>
+        <vars/>
+    </wf_workflow>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="If">98f621ca0a0a0b5900f7c291f5e45a0e</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>17</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Advance Check completed?</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ce49acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>400</x>
+        <y>53</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>ce49acdd13546200339d50128144b081</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0249acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>a_payment_status=2^EQ</value>
+        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>ce49acdd13546200339d50128144b081</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8249acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>ce49acdd13546200339d50128144b081</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0649acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// This script needs to set answer to 'yes' or 'no' to indicate the state of the activity.&#13;
+//&#13;
+// For example,&#13;
+//&#13;
+//   answer = ifScript();&#13;
+//&#13;
+//   function ifScript() {&#13;
+//      if (condition is true) {&#13;
+//         return 'yes';&#13;
+//      }&#13;
+//      return 'no';&#13;
+//   }&#13;
+</value>
+        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Advance Check completed?">ce49acdd13546200339d50128144b081</activity>
+        <condition>activity.result == 'no'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>No</name>
+        <order>200</order>
+        <short_description/>
+        <skip_during_generate>true</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c649acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Advance Check completed?">ce49acdd13546200339d50128144b081</activity>
+        <condition>activity.result == 'yes'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Yes</name>
+        <order>100</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8649acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="If">98f621ca0a0a0b5900f7c291f5e45a0e</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>4</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Approved or not approved that is the question</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>734</x>
+        <y>217</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4a492cdd13546200339d50128144b010</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8a492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>approval_state=3^EQ</value>
+        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4a492cdd13546200339d50128144b010</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0e492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4a492cdd13546200339d50128144b010</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0e49acdd13546200339d50128144b07e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// This script needs to set answer to 'yes' or 'no' to indicate the state of the activity.&#13;
+//&#13;
+// For example,&#13;
+//&#13;
+answer = ifScript();&#13;
+&#13;
+function ifScript() {&#13;
+	if (current.approval_state == '3') {&#13;
+		return 'yes';&#13;
+	} else if(current.approval_state == '4'){&#13;
+		return 'no';&#13;
+	} else if(current.approval_state == '5') {&#13;
+		return 'cancelled';&#13;
+	}&#13;
+}&#13;
+</value>
+        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Approved or not approved that is the question">4a492cdd13546200339d50128144b010</activity>
+        <condition>activity.result == 'yes'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Approved</name>
+        <order>100</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ce49acdd13546200339d50128144b07e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Approved or not approved that is the question">4a492cdd13546200339d50128144b010</activity>
+        <condition>activity.result == 'no'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>Rejected</name>
+        <order>200</order>
+        <short_description/>
+        <skip_during_generate>true</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8e49acdd13546200339d50128144b07e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="If">98f621ca0a0a0b5900f7c291f5e45a0e</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>8</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Approved or not approved that is the question</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8e49acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>613</x>
+        <y>580</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>8e49acdd13546200339d50128144b082</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ce49acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>approval_state=3^EQ</value>
+        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>8e49acdd13546200339d50128144b082</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4249acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>8e49acdd13546200339d50128144b082</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c249acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// This script needs to set answer to 'yes' or 'no' to indicate the state of the activity.&#13;
+//&#13;
+// For example,&#13;
+//&#13;
+//   answer = ifScript();&#13;
+//&#13;
+//   function ifScript() {&#13;
+//      if (condition is true) {&#13;
+//         return 'yes';&#13;
+//      }&#13;
+//      return 'no';&#13;
+//   }&#13;
+</value>
+        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Approved or not approved that is the question">8e49acdd13546200339d50128144b082</activity>
+        <condition>activity.result == 'yes'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Approved</name>
+        <order>100</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8649acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Approved or not approved that is the question">8e49acdd13546200339d50128144b082</activity>
+        <condition>activity.result == 'no'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>Rejected</name>
+        <order>200</order>
+        <short_description/>
+        <skip_during_generate>true</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4649acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Begin">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>1</databus_lookup_id>
+        <height/>
+        <input/>
+        <is_parent>false</is_parent>
+        <name>Begin</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c249acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width>80</width>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>20</x>
+        <y>20</y>
+    </wf_activity>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Begin">c249acdd13546200339d50128144b081</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0649acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>15</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Closing Ticket</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4249acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>1170</x>
+        <y>758</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4249acdd13546200339d50128144b07f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8249acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>state=7^active=false^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Closing Ticket">4249acdd13546200339d50128144b07f</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0649acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="End">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>2</databus_lookup_id>
+        <height/>
+        <input/>
+        <is_parent>false</is_parent>
+        <name>End</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8649acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width>80</width>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>1382</x>
+        <y>850</y>
+    </wf_activity>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>14</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Reimbursement Approved</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a49acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>887</x>
+        <y>617</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4a49acdd13546200339d50128144b080</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8a49acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>state=3^r_payment_status=1^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Reimbursement Approved">4a49acdd13546200339d50128144b080</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0e49acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>9</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Reimbursement time?</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4e49acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>1030</x>
+        <y>403</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4e49acdd13546200339d50128144b07f</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0249acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>a_payment_status=2^NQtravel_advance_check_required=false^registration_payment_required=false^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4e49acdd13546200339d50128144b07f</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8e49acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>answer = true;</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Reimbursement time?">4e49acdd13546200339d50128144b07f</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8249acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="If">98f621ca0a0a0b5900f7c291f5e45a0e</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>6</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Request Type?</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0a492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>197</x>
+        <y>73</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>0a492cdd13546200339d50128144b00f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>type=1^EQ</value>
+        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>0a492cdd13546200339d50128144b00f</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ca492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>0</value>
+        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>0a492cdd13546200339d50128144b00f</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4e492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// This script needs to set answer to 'yes' or 'no' to indicate the state of the activity.&#13;
+//&#13;
+// For example,&#13;
+//&#13;
+//   answer = ifScript();&#13;
+//&#13;
+//   function ifScript() {&#13;
+//      if (condition is true) {&#13;
+//         return 'yes';&#13;
+//      }&#13;
+//      return 'no';&#13;
+//   }&#13;
+</value>
+        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Request Type?">0a492cdd13546200339d50128144b00f</activity>
+        <condition>activity.result == 'no'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>No</name>
+        <order>200</order>
+        <short_description/>
+        <skip_during_generate>true</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ce492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Request Type?">0a492cdd13546200339d50128144b00f</activity>
+        <condition>activity.result == 'yes'</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Yes</name>
+        <order>100</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>02492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>5</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Reset Request</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>42492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:32</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>608</x>
+        <y>37</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>42492cdd13546200339d50128144b00f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>82492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:32</sys_updated_on>
+        <value>approval_state=1^state=4^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Reset Request">42492cdd13546200339d50128144b00f</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>06492cdd13546200339d50128144b00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>11</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Reset Request</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a49acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:49</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>387</x>
+        <y>721</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>4a49acdd13546200339d50128144b082</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8a49acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:49</sys_updated_on>
+        <value>approval_state=1^state=6^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Reset Request">4a49acdd13546200339d50128144b082</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0e49acdd13546200339d50128144b082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>10</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Set too Reimbursement</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8e49acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>245</x>
+        <y>386</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>8e49acdd13546200339d50128144b080</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ce49acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>state=6^approval_state=1^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Set too Reimbursement">8e49acdd13546200339d50128144b080</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4249acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>16</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Travel Approved</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0649acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>957</x>
+        <y>214</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>0649acdd13546200339d50128144b080</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4649acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>state=2^a_payment_status=1^EQ</value>
+        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Travel Approved">0649acdd13546200339d50128144b080</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c649acdd13546200339d50128144b080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>12</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Wait for Payment</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0a49acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>947</x>
+        <y>741</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>0a49acdd13546200339d50128144b081</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ca49acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>r_payment_statusIN2,3^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>0a49acdd13546200339d50128144b081</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a49acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
+answer = true;&#13;
+</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Wait for Payment">0a49acdd13546200339d50128144b081</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4e49acdd13546200339d50128144b081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>7</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Waiting for Reimbursement Approval</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8649acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>310</x>
+        <y>473</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>8649acdd13546200339d50128144b07f</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a49acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>approval_stateIN3,4^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>8649acdd13546200339d50128144b07f</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c649acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
+answer = true;&#13;
+</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Waiting for Reimbursement Approval">8649acdd13546200339d50128144b07f</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ca49acdd13546200339d50128144b07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Wait for condition">d93a02ae0a0a0aa30077abad3fdac035</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>3</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Waiting for Travel Auth Approval</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>82492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+        <x>485</x>
+        <y>228</y>
+    </wf_activity>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>82492cdd13546200339d50128144b010</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>46492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>approval_stateIN3,4^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>82492cdd13546200339d50128144b010</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c2492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
+answer = true;&#13;
+</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Waiting for Travel Auth Approval">82492cdd13546200339d50128144b010</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c6492cdd13546200339d50128144b010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+    </wf_condition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">0649acdd13546200339d50128144b07f</condition>
+        <from display_value="Closing Ticket">4249acdd13546200339d50128144b07f</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0249acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="End">8649acdd13546200339d50128144b081</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="No">c649acdd13546200339d50128144b082</condition>
+        <from display_value="Advance Check completed?">ce49acdd13546200339d50128144b081</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0649acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Waiting for Travel Auth Approval">82492cdd13546200339d50128144b010</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">c649acdd13546200339d50128144b080</condition>
+        <from display_value="Travel Approved">0649acdd13546200339d50128144b080</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0a49acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Reimbursement time?">4e49acdd13546200339d50128144b07f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Yes">02492cdd13546200339d50128144b010</condition>
+        <from display_value="Request Type?">0a492cdd13546200339d50128144b00f</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0e49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Advance Check completed?">ce49acdd13546200339d50128144b081</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Approved">ce49acdd13546200339d50128144b07e</condition>
+        <from display_value="Approved or not approved that is the question">4a492cdd13546200339d50128144b010</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4249acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Travel Approved">0649acdd13546200339d50128144b080</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Yes">8649acdd13546200339d50128144b082</condition>
+        <from display_value="Advance Check completed?">ce49acdd13546200339d50128144b081</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4649acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Set too Reimbursement">8e49acdd13546200339d50128144b080</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">06492cdd13546200339d50128144b00f</condition>
+        <from display_value="Reset Request">42492cdd13546200339d50128144b00f</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Waiting for Travel Auth Approval">82492cdd13546200339d50128144b010</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">0e49acdd13546200339d50128144b082</condition>
+        <from display_value="Reset Request">4a49acdd13546200339d50128144b082</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4a49acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Waiting for Reimbursement Approval">8649acdd13546200339d50128144b07f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">4e49acdd13546200339d50128144b081</condition>
+        <from display_value="Wait for Payment">0a49acdd13546200339d50128144b081</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>4e49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Closing Ticket">4249acdd13546200339d50128144b07f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Rejected">8e49acdd13546200339d50128144b07e</condition>
+        <from display_value="Approved or not approved that is the question">4a492cdd13546200339d50128144b010</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8249acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Reset Request">42492cdd13546200339d50128144b00f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">0649acdd13546200339d50128144b081</condition>
+        <from display_value="Begin">c249acdd13546200339d50128144b081</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8649acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Request Type?">0a492cdd13546200339d50128144b00f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">c6492cdd13546200339d50128144b010</condition>
+        <from display_value="Waiting for Travel Auth Approval">82492cdd13546200339d50128144b010</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8a49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Approved or not approved that is the question">4a492cdd13546200339d50128144b010</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Approved">8649acdd13546200339d50128144b083</condition>
+        <from display_value="Approved or not approved that is the question">8e49acdd13546200339d50128144b082</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8a49acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Reimbursement Approved">4a49acdd13546200339d50128144b080</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">0e49acdd13546200339d50128144b080</condition>
+        <from display_value="Reimbursement Approved">4a49acdd13546200339d50128144b080</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>8e49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Wait for Payment">0a49acdd13546200339d50128144b081</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">4249acdd13546200339d50128144b081</condition>
+        <from display_value="Set too Reimbursement">8e49acdd13546200339d50128144b080</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c249acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Waiting for Reimbursement Approval">8649acdd13546200339d50128144b07f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">ca49acdd13546200339d50128144b07f</condition>
+        <from display_value="Waiting for Reimbursement Approval">8649acdd13546200339d50128144b07f</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>c649acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Approved or not approved that is the question">8e49acdd13546200339d50128144b082</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="No">ce492cdd13546200339d50128144b00f</condition>
+        <from display_value="Request Type?">0a492cdd13546200339d50128144b00f</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ca49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Set too Reimbursement">8e49acdd13546200339d50128144b080</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Rejected">4649acdd13546200339d50128144b083</condition>
+        <from display_value="Approved or not approved that is the question">8e49acdd13546200339d50128144b082</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ca49acdd13546200339d50128144b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Reset Request">4a49acdd13546200339d50128144b082</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">8249acdd13546200339d50128144b080</condition>
+        <from display_value="Reimbursement time?">4e49acdd13546200339d50128144b07f</from>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>ce49acdd13546200339d50128144b083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <to display_value="Set too Reimbursement">8e49acdd13546200339d50128144b080</to>
+    </wf_transition>
+    <wf_estimated_runtime_config action="INSERT_OR_UPDATE">
+        <estimated_run_time/>
+        <no_of_data_points>1</no_of_data_points>
+        <percentage_threshold_ert>20</percentage_threshold_ert>
+        <sys_created_by>PeteBL</sys_created_by>
+        <sys_created_on>2016-06-27 20:20:00</sys_created_on>
+        <sys_id>0e492cdd13546200339d50128144b00e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2016-06-27 20:20:00</sys_updated_on>
+        <workflow_version display_value="Reimbursement Center">8a492cdd13546200339d50128144b00e</workflow_version>
+    </wf_estimated_runtime_config>
+    <wf_workflow_version action="update_multiple" query="workflow=f75caff91343960003febc122244b08e^sys_id!=8a492cdd13546200339d50128144b00e">
+        <published>false</published>
+    </wf_workflow_version>
+</record_update>

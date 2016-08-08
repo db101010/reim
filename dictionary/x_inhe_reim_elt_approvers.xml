@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ELT approvers" max_length="40" name="x_inhe_reim_elt_approvers" type="collection">
+        <element default="Bruce Lawrence" label="Bruce Lawrence" max_length="32" name="bruce_lawrence" read_only="true" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="bruce_lawrence"/>
+        </index>
+    </element>
+</database>
