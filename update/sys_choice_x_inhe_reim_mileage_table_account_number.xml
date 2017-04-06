@@ -13,6 +13,7 @@
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-06-15 14:56:06</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>1c1cad19130ce28032eb3e276144b0bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>PeteBL</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-06-15 14:56:06</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>501cad19130ce28032eb3e276144b0bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>PeteBL</sys_updated_by>
@@ -44,7 +46,7 @@
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-06-15 14:56:06</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>dc1cad19130ce28032eb3e276144b0bb</sys_id>
+            <sys_id>d589f7b24f12220007c26b628110c73a</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>account_number</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

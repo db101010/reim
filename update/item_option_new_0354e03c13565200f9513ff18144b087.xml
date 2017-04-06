@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-18 20:38:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0354e03c13565200f9513ff18144b087</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Taxi, Rental Car, ETC Cost</sys_name>

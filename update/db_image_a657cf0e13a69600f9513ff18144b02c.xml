@@ -11,7 +11,7 @@
         <sys_class_name>db_image</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-04-04 15:56:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a657cf0e13a69600f9513ff18144b02c</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Add_Meals.gif</sys_name>
@@ -29,6 +29,7 @@
         <average_image_color/>
         <compressed>true</compressed>
         <content_type>image/gif</content_type>
+        <encryption_context/>
         <file_name>image</file_name>
         <image_height/>
         <image_width/>

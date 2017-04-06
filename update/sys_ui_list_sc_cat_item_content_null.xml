@@ -4,137 +4,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f55580a0a3c74002511ecb18aec9c</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>2f7ea150d7301100f20024837e6103db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f555a0a0a3c7400af9c11c6435cad</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>6f7ea150d7301100f20024837e6103db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f555c0a0a3c74012d5e0c200cf006</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>af7ea150d7301100f20024837e6103db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>roles</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f555d0a0a3c74002c8c1f86e42fb9</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>ef7ea150d7301100f20024837e6103db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>category</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <element>sc_catalogs</element>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f555f0a0a3c7400f19a38b9e9e9d7</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>237ea150d7301100f20024837e6103dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>price</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <element>category</element>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f55600a0a3c74005964cfc1b51811</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>637ea150d7301100f20024837e6103dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>type</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <element>content_type</element>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f55610a0a3c740171c601f9168904</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>a37ea150d7301100f20024837e6103dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_by</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
+            <element>sys_updated_on</element>
+            <list_id display_value="sc_cat_item_content" element="NULL" name="sc_cat_item_content" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">677ea150d7301100f20024837e6103db</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f55620a0a3c74000c3dbd0dfb8866</sys_id>
+            <sys_created_on>2013-10-29 14:24:05</sys_created_on>
+            <sys_id>e37ea150d7301100f20024837e6103dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="sc_cat_item" element="NULL" name="sc_cat_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">845f55570a0a3c74018857c368186c86</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>8</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2010-05-10 22:39:19</sys_created_on>
-            <sys_id>845f55630a0a3c7401c7640481263345</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2010-05-10 22:39:19</sys_updated_on>
+            <sys_updated_on>2013-10-29 14:24:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -149,8 +134,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-07-08 16:24:42</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e2ecd4f813ac220032eb7e276144b0b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sc_cat_item_content</sys_name>
@@ -161,7 +147,7 @@
             <sys_update_name>sys_ui_list_sc_cat_item_content_null</sys_update_name>
             <sys_updated_by>GibsJT</sys_updated_by>
             <sys_updated_on>2016-07-08 16:24:42</sys_updated_on>
-            <sys_user display_value="Jason Gibson (GibsJT)">2004e3cc89bfb50414593454d2fa8171</sys_user>
+            <sys_user display_value="">2004e3cc89bfb50414593454d2fa8171</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

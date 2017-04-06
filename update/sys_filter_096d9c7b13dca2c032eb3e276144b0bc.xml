@@ -13,6 +13,7 @@
         <sys_created_on>2016-07-05 13:52:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>096d9c7b13dca2c032eb3e276144b0bc</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-07-05 13:58:17</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <title>mobile</title>
-        <user display_value="Teresa Vu (VuTT)">662a3c2b13711200d63c3e7f3244b0ef</user>
+        <user display_value="">662a3c2b13711200d63c3e7f3244b0ef</user>
     </sys_filter>
 </record_update>

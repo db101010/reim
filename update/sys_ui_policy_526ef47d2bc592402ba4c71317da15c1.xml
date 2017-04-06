@@ -38,8 +38,9 @@ g_form.setSectionDisplay('meals', false);
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-01-19 21:45:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>526ef47d2bc592402ba4c71317da15c1</sys_id>
         <sys_mod_count>36</sys_mod_count>
         <sys_name>Mileage Only</sys_name>

@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-02-25 17:46:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>18ba26e92bfd12002ba4c71317da1593</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>description_of_expense_6</sys_name>

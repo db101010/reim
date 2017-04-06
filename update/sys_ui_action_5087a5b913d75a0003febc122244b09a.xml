@@ -21,16 +21,13 @@
         <name>Submit for Approval</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[if (current.type == '1') {
-	var aType = '1';
-} else {
-	var aType = '2';
-}
+        <script><![CDATA[var aType = '2';
 
+var manager_approval = current.created_for.manager;
 
 var app = new GlideRecord("x_inhe_reim_ap_approvals");
 app.rei_number = current.sys_id;
-app.approver = current.manager_approval;
+app.approver = manager_approval;
 app.state = '1';
 app.order = '1';
 app.approval_type = aType;
@@ -38,12 +35,12 @@ app.approval_for = '2';
 app.insert();
 current.approval_state = '2';
 current.state = '1';
-current.current_approver = current.manager_approval;
+current.current_approver = manager_approval;
 current.update();
 
 var url = 'com.glideapp.servicecatalog_category_view.do?sysparm_parent=e15706fc0a0a0aa7007fc21e1ab70c2f&sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4';
 
-	
+
 action.setRedirectURL(url);
 // }
 
@@ -57,8 +54,9 @@ action.setRedirectURL(url);
         <sys_created_on>2016-05-10 21:06:03</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>5087a5b913d75a0003febc122244b09a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Submit for Approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -67,7 +65,7 @@ action.setRedirectURL(url);
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_ui_action_5087a5b913d75a0003febc122244b09a</sys_update_name>
         <sys_updated_by>PeteBL</sys_updated_by>
-        <sys_updated_on>2016-05-31 18:44:17</sys_updated_on>
+        <sys_updated_on>2017-02-10 22:21:37</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

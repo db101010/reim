@@ -56,8 +56,9 @@
         <sys_created_on>2016-04-18 14:39:57</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>135bf6e613325e00a2723e7f3244b0ab</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Balence Due</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -65,11 +66,11 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_script_client_135bf6e613325e00a2723e7f3244b0ab</sys_update_name>
-        <sys_updated_by>GibsJT</sys_updated_by>
-        <sys_updated_on>2016-07-05 13:48:44</sys_updated_on>
+        <sys_updated_by>PeteBL</sys_updated_by>
+        <sys_updated_on>2017-02-14 19:40:16</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <type>onChange</type>
-        <ui_type>0</ui_type>
+        <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
 </record_update>

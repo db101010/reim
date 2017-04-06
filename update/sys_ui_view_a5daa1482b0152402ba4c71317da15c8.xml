@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-14 14:29:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a5daa1482b0152402ba4c71317da15c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,new</sys_name>

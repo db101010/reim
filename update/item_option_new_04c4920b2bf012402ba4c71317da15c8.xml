@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-11 15:00:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>04c4920b2bf012402ba4c71317da15c8</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Registration Payment Required</sys_name>

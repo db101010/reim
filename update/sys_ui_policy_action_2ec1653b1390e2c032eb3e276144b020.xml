@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-07-05 18:51:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2ec1653b1390e2c032eb3e276144b020</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>d_total</sys_name>

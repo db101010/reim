@@ -31,8 +31,9 @@ var mileage_required = g_form.getValue('u_choice_2');
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-18 17:27:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>78e572592b8192402ba4c71317da154e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Mileage Warning</sys_name>

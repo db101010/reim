@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-31 18:32:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f2d483fc13e25600f9513ff18144b03c</sys_id>
         <sys_mod_count>51</sys_mod_count>
         <sys_name>expense_col_embedded</sys_name>

@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-10 14:22:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6632ca8a13469200d63c3e7f3244b062</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>description_of_expense_5</sys_name>

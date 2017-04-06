@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-31 18:52:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>824291e4137fd20003febc122244b03e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inhe_reim_table.admin</sys_name>

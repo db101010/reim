@@ -13,6 +13,7 @@
         <sys_created_on>2016-07-05 13:49:59</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>bebc9c7b13dca2c032eb3e276144b0b7</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-07-05 16:14:49</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <title>mobile</title>
-        <user display_value="Jason Gibson (GibsJT)">2004e3cc89bfb50414593454d2fa8171</user>
+        <user display_value="">2004e3cc89bfb50414593454d2fa8171</user>
     </sys_filter>
 </record_update>

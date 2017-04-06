@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2015-12-21 20:14:20</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>d4839b102ba49a002ba4c71317da1541</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_name>Estimated Taxi, Car Rental, ETC Cost</sys_name>

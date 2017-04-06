@@ -13,6 +13,7 @@
         <sys_created_on>2016-06-15 15:13:03</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e4ff611d130ce28032eb3e276144b081</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-07-05 14:26:12</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <title>mobile</title>
-        <user display_value="Joe Employee (employee)">681ccaf9c0a8016400b98a06818d57c7</user>
+        <user display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</user>
     </sys_filter>
 </record_update>

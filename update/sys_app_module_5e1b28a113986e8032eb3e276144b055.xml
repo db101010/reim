@@ -25,8 +25,9 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-06-28 15:07:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>5e1b28a113986e8032eb3e276144b055</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>All</sys_name>

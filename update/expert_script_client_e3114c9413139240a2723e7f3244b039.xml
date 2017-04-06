@@ -34,8 +34,9 @@
         <sys_class_name>expert_script_client</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-05 21:52:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e3114c9413139240a2723e7f3244b039</sys_id>
         <sys_mod_count>7</sys_mod_count>
         <sys_name>Prepopulate fields</sys_name>

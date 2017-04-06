@@ -17,19 +17,13 @@
         <force_delivery>false</force_delivery>
         <from/>
         <generation_type>event</generation_type>
-        <group/>
-        <group_field/>
         <importance/>
         <include_attachments>true</include_attachments>
         <item>event.parm1</item>
         <item_table/>
-        <list/>
-        <list_field/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><br /><img style="align: baseline;" title="" src="integris_logo_white_small.jpgx" alt="" height="" align="baseline" border="" hspace="" vspace="" /></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+        <message_html><![CDATA[<p>&nbsp;</p>
 <p><br />Your ${type} request has been approved for travel.&nbsp;To view this request click here ${URI_REF}. &nbsp;Your Request is in ${state} status.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -54,8 +48,9 @@
         <sys_created_on>2016-05-06 12:54:31</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>51a01f1813d39240a2723e7f3244b0f8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Reimbursement center Approved Travel</sys_name>
         <sys_overrides/>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -63,13 +58,11 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sysevent_email_action_51a01f1813d39240a2723e7f3244b0f8</sys_update_name>
-        <sys_updated_by>PeteBL</sys_updated_by>
-        <sys_updated_on>2016-06-30 15:10:39</sys_updated_on>
+        <sys_updated_by>gibsjt</sys_updated_by>
+        <sys_updated_on>2017-02-10 19:44:59</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
-        <user/>
-        <user_field/>
         <weight>0</weight>
     </sysevent_email_action>
 </record_update>

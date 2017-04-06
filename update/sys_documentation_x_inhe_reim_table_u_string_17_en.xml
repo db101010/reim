@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-02-17 18:03:31</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>e9c1ad432ba952002ba4c71317da15db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>m_cost_3</sys_name>

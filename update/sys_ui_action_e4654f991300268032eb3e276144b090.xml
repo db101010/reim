@@ -60,8 +60,9 @@ function travelCancel(){
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-15 21:26:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e4654f991300268032eb3e276144b090</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Cancel Request</sys_name>

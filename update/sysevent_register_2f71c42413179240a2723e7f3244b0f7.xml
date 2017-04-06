@@ -9,7 +9,7 @@
         <sys_class_name>sysevent_register</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-06 16:32:22</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2f71c42413179240a2723e7f3244b0f7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inhe_reim.Approval Insert</sys_name>

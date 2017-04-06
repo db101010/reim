@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-11 16:23:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e2f7660f2bf012402ba4c71317da15f1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Hotel Name</sys_name>

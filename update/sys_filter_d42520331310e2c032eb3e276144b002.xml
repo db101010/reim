@@ -13,6 +13,7 @@
         <sys_created_on>2016-07-05 14:26:41</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d42520331310e2c032eb3e276144b002</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-07-05 14:26:41</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <title>mobile</title>
-        <user display_value="Angela Phillips (MitcAK)">6caaa682add82c00b18b42f74746103b</user>
+        <user display_value="">6caaa682add82c00b18b42f74746103b</user>
     </sys_filter>
 </record_update>

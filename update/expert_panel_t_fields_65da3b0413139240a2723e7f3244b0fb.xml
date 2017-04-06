@@ -6,7 +6,7 @@
         <sys_class_name>expert_panel_t_fields</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-05 21:20:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>65da3b0413139240a2723e7f3244b0fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Set created_for to the value of name</sys_name>

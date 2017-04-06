@@ -34,8 +34,9 @@
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-12 15:16:16</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c10223132b3812402ba4c71317da151f</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Destination city warning</sys_name>

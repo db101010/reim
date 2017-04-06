@@ -28,7 +28,7 @@ ReiAccess.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-08 21:09:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6c3efa031337960003febc122244b04f</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>ReiAccess</sys_name>

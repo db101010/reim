@@ -23,8 +23,9 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-06-21 20:56:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>3c61f1d313882a8032eb3e276144b01f</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>hide transaction ids (Reimbursement)</sys_name>
@@ -38,6 +39,6 @@
         <sys_updated_on>2016-06-28 14:48:17</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <ui_type>0</ui_type>
-        <view>Reimbursement</view>
+        <view display_value="Reimbursement" name="Reimbursement">Reimbursement</view>
     </sys_ui_policy>
 </record_update>

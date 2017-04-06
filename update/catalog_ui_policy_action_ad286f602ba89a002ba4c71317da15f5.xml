@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Copy of Travel Authorization">3918ab602ba89a002ba4c71317da1579</catalog_item>
+        <catalog_item display_value="">3918ab602ba89a002ba4c71317da1579</catalog_item>
         <catalog_variable>IO:77186f602ba89a002ba4c71317da15b9</catalog_variable>
         <disabled>ignore</disabled>
         <field/>
@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2015-12-22 16:23:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ad286f602ba89a002ba4c71317da15f5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>hotel_name</sys_name>

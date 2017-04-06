@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>street</col_name_string>
+        <index_col_name element="street" name="cmn_location">6ea883204f12220007c26b628110c7a1</index_col_name>
+        <logical_table_name>cmn_location</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>gibsjt</sys_created_by>
+        <sys_created_on>2017-02-15 17:49:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>0f41045c4f89720007c26b628110c754</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmn_location</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_index_cmn_location_street</sys_update_name>
+        <sys_updated_by>gibsjt</sys_updated_by>
+        <sys_updated_on>2017-02-15 17:49:38</sys_updated_on>
+        <table display_value="Location" name="cmn_location">aea883204f12220007c26b628110c7a0</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

@@ -13,6 +13,7 @@
         <sys_created_on>2016-05-13 15:59:33</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>842e77a213971640a2723e7f3244b0c0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-05-13 15:59:33</sys_updated_on>
         <table>incident</table>
         <title>mobile</title>
-        <user display_value="Kent Dickey (dickka)">ea83a3c2acae2000f974c8d39def323c</user>
+        <user display_value="">ea83a3c2acae2000f974c8d39def323c</user>
     </sys_filter>
 </record_update>

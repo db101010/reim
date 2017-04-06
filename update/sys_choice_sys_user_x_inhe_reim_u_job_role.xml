@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_inhe_reim_u_job_role" table="sys_user" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_inhe_reim_u_job_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>10</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-10 20:31:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d4672e24f78320007c26b628110c73a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:31:28</sys_updated_on>
+            <value>Employee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_inhe_reim_u_job_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manager</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>20</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-10 20:33:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ec6f2e24f78320007c26b628110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:33:13</sys_updated_on>
+            <value>Manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_inhe_reim_u_job_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Director</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>30</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-10 20:33:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ad676e24f78320007c26b628110c708</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:33:29</sys_updated_on>
+            <value>Director</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_inhe_reim_u_job_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vice President</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>40</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-10 20:33:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bae636e24f78320007c26b628110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:33:46</sys_updated_on>
+            <value>Vice President</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_inhe_reim_u_job_role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>President</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <sequence>50</sequence>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-10 20:34:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ef63ea24f78320007c26b628110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:34:00</sys_updated_on>
+            <value>President</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_inhe_reim_u_job_role</element>
+            <name>sys_user</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-10 20:31:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>896672e24f78320007c26b628110c73e</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>x_inhe_reim_u_job_role</sys_name>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+            <sys_update_name>sys_choice_sys_user_x_inhe_reim_u_job_role</sys_update_name>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:34:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

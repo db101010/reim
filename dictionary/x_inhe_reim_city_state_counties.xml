@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="city_state_counties_import" max_length="40" name="x_inhe_reim_city_state_counties" sizeclass="80167" type="collection">
+        <element attributes="import_attribute_name=City,edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=CityAliasAbbreviation,edge_encryption_enabled=true" label="CityAliasAbbreviation" max_length="40" name="u_cityaliasabbreviation" type="string"/>
+        <element attributes="import_attribute_name=CityAliasMixedCase,edge_encryption_enabled=true" label="CityAliasMixedCase" max_length="40" name="u_cityaliasmixedcase" type="string"/>
+        <element attributes="import_attribute_name=CityAliasName,edge_encryption_enabled=true" label="CityAliasName" max_length="40" name="u_cityaliasname" type="string"/>
+        <element attributes="import_attribute_name=CityMixedCase,edge_encryption_enabled=true" label="CityMixedCase" max_length="40" name="u_citymixedcase" type="string"/>
+        <element attributes="import_attribute_name=County,edge_encryption_enabled=true" label="County" max_length="40" name="u_county" type="string"/>
+        <element attributes="import_attribute_name=State,edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip" max_length="40" name="u_zip" type="string"/>
+        <element attributes="import_attribute_name=ZipCode" label="ZipCode" max_length="40" name="u_zipcode" type="integer"/>
+    </element>
+</database>

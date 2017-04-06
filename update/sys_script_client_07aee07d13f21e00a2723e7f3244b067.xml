@@ -73,8 +73,9 @@
         <sys_created_on>2016-04-15 20:27:06</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>07aee07d13f21e00a2723e7f3244b067</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Add Estimate Expences Airfare</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -83,10 +84,10 @@
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_script_client_07aee07d13f21e00a2723e7f3244b067</sys_update_name>
         <sys_updated_by>PeteBL</sys_updated_by>
-        <sys_updated_on>2016-07-05 16:06:36</sys_updated_on>
+        <sys_updated_on>2017-02-14 19:40:15</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <type>onChange</type>
-        <ui_type>0</ui_type>
+        <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
 </record_update>

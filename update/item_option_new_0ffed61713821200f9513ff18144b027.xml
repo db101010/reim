@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-14 13:40:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0ffed61713821200f9513ff18144b027</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Hotel Cost</sys_name>

@@ -1,159 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Mileage table" max_length="40" name="x_inhe_reim_mileage_table" type="collection">
-        <element attributes="edge_encryption_enabled=true" choice="3" default="67200" label="Account Number" max_length="40" name="account_number" type="string">
+        <element active="false" attributes="edge_encryption_enabled=true" choice="3" default="67200" label="Account Number" max_length="40" name="account_number" type="string">
             <choice>
                 <element label="67200" sequence="0" value="67200"/>
                 <element label="67205" sequence="1" value="67205"/>
             </choice>
         </element>
+        <element label="City" max_length="32" name="from_city" type="string"/>
+        <element label="Coordinates From" max_length="40" name="from_coordinates" type="string"/>
+        <element label="From Location" max_length="32" name="from_location" reference="cmn_location" type="reference"/>
+        <element label="State" max_length="32" name="from_state" type="string"/>
+        <element label="Enter Street Manually  " max_length="40" name="from_street_manually" type="boolean"/>
+        <element label="Zip" max_length="32" name="from_zip" type="string"/>
         <element label="Total Miles Driven" mandatory="true" max_length="255" name="miles_driven" type="string_full_utf8"/>
         <element label="Date" mandatory="true" max_length="40" name="m_date" type="glide_date"/>
-        <element choice="2" choice_field="from" choice_table="x_inhe_reim_location_choice" label="From" mandatory="true" max_length="255" name="m_from" type="string_full_utf8">
-            <choice>
-                <element label="5300 Building" sequence="0" value="5300 Building"/>
-                <element label="5400 Building" sequence="1" value="5400 Building"/>
-                <element label="AAA Building" sequence="2" value="AAA Building"/>
-                <element label="Advanced Food Clinic - Enid" sequence="3" value="Advanced Food Clinic - Enid"/>
-                <element label="Baptist Medical Center - Building A" sequence="4" value="Baptist Medical Center - Building A"/>
-                <element label="Baptist Medical Center - Building B" sequence="5" value="Baptist Medical Center - Building B"/>
-                <element label="Baptist Medical Center - Building C" sequence="6" value="Baptist Medical Center - Building C"/>
-                <element label="Baptist Medical Center - Building D" sequence="7" value="Baptist Medical Center - Building D"/>
-                <element label="Baptist Medical Center - Main" sequence="8" value="Baptist Medical Center - Main"/>
-                <element label="Baptist Regional Associates - Miami" sequence="9" value="Baptist Regional Associates - Miami"/>
-                <element label="Baptist Regional Health Center - Miami" sequence="10" value="Baptist Regional Health Center - Miami"/>
-                <element label="Baptist Retirement Village - Miami" sequence="11" value="Baptist Retirement Village - Miami"/>
-                <element label="Bass Baptist Health Center - Enid" sequence="12" value="Bass Baptist Health Center - Enid"/>
-                <element label="Bass Counseling Services - Enid" sequence="13" value="Bass Counseling Services - Enid"/>
-                <element label="Bass Home Service Plus - Enid" sequence="14" value="Bass Home Service Plus - Enid"/>
-                <element label="Bass Pavilion - Enid" sequence="15" value="Bass Pavilion - Enid"/>
-                <element label="Behavioral Health - Miami" sequence="16" value="Behavioral Health - Miami"/>
-                <element label="Bethany Deaconess - Pavillion" sequence="17" value="Bethany Deaconess - Pavillion"/>
-                <element label="Bone &amp; Joint Clinic - Miami" sequence="18" value="Bone &amp; Joint Clinic - Miami"/>
-                <element label="Brookline Tower" sequence="19" value="Brookline Tower"/>
-                <element label="Caldwell Family Clinic-Kansas" sequence="20" value="Caldwell Family Clinic-Kansas"/>
-                <element label="Canadian Valley - Mob" sequence="21" value="Canadian Valley - Mob"/>
-                <element label="Canadian Valley Regional Hospital  - Annex" sequence="22" value="Canadian Valley Regional Hospital  - Annex"/>
-                <element label="Canadian Valley Regional Hospital - Yukon" sequence="23" value="Canadian Valley Regional Hospital - Yukon"/>
-                <element label="Canadian Valley Regional Hospital Surgical Associates" sequence="24" value="Canadian Valley Regional Hospital Surgical Associates"/>
-                <element label="Central Warehouse" sequence="25" value="Central Warehouse"/>
-                <element label="Cherokee Family Clinic" sequence="26" value="Cherokee Family Clinic"/>
-                <element label="Childrens Place BMC" sequence="27" value="Childrens Place BMC"/>
-                <element label="Cochlear Implant" sequence="28" value="Cochlear Implant"/>
-                <element label="DLO Core Lab" sequence="29" value="DLO Core Lab"/>
-                <element label="Duncan Cardiology Clinic" sequence="30" value="Duncan Cardiology Clinic"/>
-                <element label="Durable Medical Equipment" sequence="31" value="Durable Medical Equipment"/>
-                <element label="Edgewater Clinic" sequence="32" value="Edgewater Clinic"/>
-                <element label="Employee Assist Program" sequence="33" value="Employee Assist Program"/>
-                <element label="Enid Health Center" sequence="34" value="Enid Health Center"/>
-                <element label="Fun &amp; Fit" sequence="35" value="Fun &amp; Fit"/>
-                <element label="General Anesthesia Services" sequence="36" value="General Anesthesia Services"/>
-                <element label="Grand Lake Area Clinics" sequence="37" value="Grand Lake Area Clinics"/>
-                <element label="Grand Lake Family Medicine" sequence="38" value="Grand Lake Family Medicine"/>
-                <element label="Grove EMS" sequence="39" value="Grove EMS"/>
-                <element label="Grove General Hospital" sequence="40" value="Grove General Hospital"/>
-                <element label="Grove Medical Clinic - Dr. Ferra" sequence="41" value="Grove Medical Clinic - Dr. Ferra"/>
-                <element label="Grove Practice Management Building" sequence="42" value="Grove Practice Management Building"/>
-                <element label="Grove Trinity Medical Equipment" sequence="43" value="Grove Trinity Medical Equipment"/>
-                <element label="Hennessey Medical Clinic" sequence="44" value="Hennessey Medical Clinic"/>
-                <element label="Hobby Lobby Clinic" sequence="45" value="Hobby Lobby Clinic"/>
-                <element label="Hospice House" sequence="46" value="Hospice House"/>
-                <element label="Hough Building" sequence="47" value="Hough Building"/>
-                <element label="ICIO Integris Diagnosis And Treatment Building" sequence="48" value="ICIO Integris Diagnosis And Treatment Building"/>
-                <element label="ICIO Medical Office Building" sequence="49" value="ICIO Medical Office Building"/>
-                <element label="Integris Express Care - Miami" sequence="50" value="Integris Express Care - Miami"/>
-                <element label="Integris Family Care - Altus" sequence="51" value="Integris Family Care - Altus"/>
-                <element label="Integris Family Care - Coffee Creek" sequence="52" value="Integris Family Care - Coffee Creek"/>
-                <element label="Integris Family Care - Mustang" sequence="53" value="Integris Family Care - Mustang"/>
-                <element label="Integris Family Care - Yukon" sequence="54" value="Integris Family Care - Yukon"/>
-                <element label="Integris Health Edmond - MOB" sequence="55" value="Integris Health Edmond - MOB"/>
-                <element label="Jim Thorpe Outpatient Rehab - Yukon" sequence="56" value="Jim Thorpe Outpatient Rehab - Yukon"/>
-                <element label="Lakeside Women's Hospital" sequence="57" value="Lakeside Women's Hospital"/>
-                <element label="Performance Excellence - LEAN" sequence="58" value="Performance Excellence - LEAN"/>
-                <element label="Physician Clinic - Ogle Clinic" sequence="59" value="Physician Clinic - Ogle Clinic"/>
-                <element label="Practice Management" sequence="60" value="Practice Management"/>
-                <element label="Pulmonology Associates - Enid" sequence="61" value="Pulmonology Associates - Enid"/>
-                <element label="Sleep Lab - Edmond" sequence="62" value="Sleep Lab - Edmond"/>
-                <element label="Sleep Lab - North" sequence="63" value="Sleep Lab - North"/>
-                <element label="Sleep Lab - Yukon" sequence="64" value="Sleep Lab - Yukon"/>
-                <element label="Two Corporate Plaza Building" sequence="65" value="Two Corporate Plaza Building"/>
-            </choice>
-        </element>
+        <element choice_field="from" choice_table="x_inhe_reim_location_choice" label="From Street" mandatory="true" max_length="255" name="m_from" type="string_full_utf8"/>
         <element label="Purpose of travel" mandatory="true" max_length="255" name="m_purpose_of_travel" type="string_full_utf8"/>
         <element label="Round-trip" max_length="40" name="m_round_trip" type="boolean"/>
-        <element choice="2" choice_field="to" choice_table="x_inhe_reim_location_choice" label="To" mandatory="true" max_length="255" name="m_to" type="string_full_utf8">
-            <choice>
-                <element label="5300 Building" sequence="0" value="5300 Building"/>
-                <element label="5400 Building" sequence="1" value="5400 Building"/>
-                <element label="AAA Building" sequence="2" value="AAA Building"/>
-                <element label="Advanced Food Clinic - Enid" sequence="3" value="Advanced Food Clinic - Enid"/>
-                <element label="Baptist Medical Center - Building A" sequence="4" value="Baptist Medical Center - Building A"/>
-                <element label="Baptist Medical Center - Building B" sequence="5" value="Baptist Medical Center - Building B"/>
-                <element label="Baptist Medical Center - Building C" sequence="6" value="Baptist Medical Center - Building C"/>
-                <element label="Baptist Medical Center - Building D" sequence="7" value="Baptist Medical Center - Building D"/>
-                <element label="Baptist Medical Center - Main" sequence="8" value="Baptist Medical Center - Main"/>
-                <element label="Baptist Regional Associates - Miami" sequence="9" value="Baptist Regional Associates - Miami"/>
-                <element label="Baptist Regional Health Center - Miami" sequence="10" value="Baptist Regional Health Center - Miami"/>
-                <element label="Baptist Retirement Village - Miami" sequence="11" value="Baptist Retirement Village - Miami"/>
-                <element label="Bass Baptist Health Center - Enid" sequence="12" value="Bass Baptist Health Center - Enid"/>
-                <element label="Bass Counseling Services - Enid" sequence="13" value="Bass Counseling Services - Enid"/>
-                <element label="Bass Home Service Plus - Enid" sequence="14" value="Bass Home Service Plus - Enid"/>
-                <element label="Bass Pavilion - Enid" sequence="15" value="Bass Pavilion - Enid"/>
-                <element label="Behavioral Health - Miami" sequence="16" value="Behavioral Health - Miami"/>
-                <element label="Bethany Deaconess - Pavillion" sequence="17" value="Bethany Deaconess - Pavillion"/>
-                <element label="Bone &amp; Joint Clinic - Miami" sequence="18" value="Bone &amp; Joint Clinic - Miami"/>
-                <element label="Brookline Tower" sequence="19" value="Brookline Tower"/>
-                <element label="Caldwell Family Clinic-Kansas" sequence="20" value="Caldwell Family Clinic-Kansas"/>
-                <element label="Canadian Valley - Mob" sequence="21" value="Canadian Valley - Mob"/>
-                <element label="Canadian Valley Regional Hospital  - Annex" sequence="22" value="Canadian Valley Regional Hospital  - Annex"/>
-                <element label="Canadian Valley Regional Hospital - Yukon" sequence="23" value="Canadian Valley Regional Hospital - Yukon"/>
-                <element label="Canadian Valley Regional Hospital Surgical Associates" sequence="24" value="Canadian Valley Regional Hospital Surgical Associates"/>
-                <element label="Central Warehouse" sequence="25" value="Central Warehouse"/>
-                <element label="Cherokee Family Clinic" sequence="26" value="Cherokee Family Clinic"/>
-                <element label="Childrens Place BMC" sequence="27" value="Childrens Place BMC"/>
-                <element label="Cochlear Implant" sequence="28" value="Cochlear Implant"/>
-                <element label="DLO Core Lab" sequence="29" value="DLO Core Lab"/>
-                <element label="Duncan Cardiology Clinic" sequence="30" value="Duncan Cardiology Clinic"/>
-                <element label="Durable Medical Equipment" sequence="31" value="Durable Medical Equipment"/>
-                <element label="Edgewater Clinic" sequence="32" value="Edgewater Clinic"/>
-                <element label="Employee Assist Program" sequence="33" value="Employee Assist Program"/>
-                <element label="Enid Health Center" sequence="34" value="Enid Health Center"/>
-                <element label="Fun &amp; Fit" sequence="35" value="Fun &amp; Fit"/>
-                <element label="General Anesthesia Services" sequence="36" value="General Anesthesia Services"/>
-                <element label="Grand Lake Area Clinics" sequence="37" value="Grand Lake Area Clinics"/>
-                <element label="Grand Lake Family Medicine" sequence="38" value="Grand Lake Family Medicine"/>
-                <element label="Grove EMS" sequence="39" value="Grove EMS"/>
-                <element label="Grove General Hospital" sequence="40" value="Grove General Hospital"/>
-                <element label="Grove Medical Clinic - Dr. Ferra" sequence="41" value="Grove Medical Clinic - Dr. Ferra"/>
-                <element label="Grove Practice Management Building" sequence="42" value="Grove Practice Management Building"/>
-                <element label="Grove Trinity Medical Equipment" sequence="43" value="Grove Trinity Medical Equipment"/>
-                <element label="Hennessey Medical Clinic" sequence="44" value="Hennessey Medical Clinic"/>
-                <element label="Hobby Lobby Clinic" sequence="45" value="Hobby Lobby Clinic"/>
-                <element label="Hospice House" sequence="46" value="Hospice House"/>
-                <element label="Hough Building" sequence="47" value="Hough Building"/>
-                <element label="ICIO Integris Diagnosis And Treatment Building" sequence="48" value="ICIO Integris Diagnosis And Treatment Building"/>
-                <element label="ICIO Medical Office Building" sequence="49" value="ICIO Medical Office Building"/>
-                <element label="Integris Express Care - Miami" sequence="50" value="Integris Express Care - Miami"/>
-                <element label="Integris Family Care - Altus" sequence="51" value="Integris Family Care - Altus"/>
-                <element label="Integris Family Care - Coffee Creek" sequence="52" value="Integris Family Care - Coffee Creek"/>
-                <element label="Integris Family Care - Mustang" sequence="53" value="Integris Family Care - Mustang"/>
-                <element label="Integris Family Care - Yukon" sequence="54" value="Integris Family Care - Yukon"/>
-                <element label="Integris Health Edmond - MOB" sequence="55" value="Integris Health Edmond - MOB"/>
-                <element label="Jim Thorpe Outpatient Rehab - Yukon" sequence="56" value="Jim Thorpe Outpatient Rehab - Yukon"/>
-                <element label="Lakeside Women's Hospital" sequence="57" value="Lakeside Women's Hospital"/>
-                <element label="Performance Excellence - LEAN" sequence="58" value="Performance Excellence - LEAN"/>
-                <element label="Physician Clinic - Ogle Clinic" sequence="59" value="Physician Clinic - Ogle Clinic"/>
-                <element label="Practice Management" sequence="60" value="Practice Management"/>
-                <element label="Pulmonology Associates - Enid" sequence="61" value="Pulmonology Associates - Enid"/>
-                <element label="Sleep Lab - Edmond" sequence="62" value="Sleep Lab - Edmond"/>
-                <element label="Sleep Lab - North" sequence="63" value="Sleep Lab - North"/>
-                <element label="Sleep Lab - Yukon" sequence="64" value="Sleep Lab - Yukon"/>
-                <element label="Two Corporate Plaza Building" sequence="65" value="Two Corporate Plaza Building"/>
-            </choice>
-        </element>
+        <element choice_field="to" choice_table="x_inhe_reim_location_choice" label="To Street" mandatory="true" max_length="255" name="m_to" type="string_full_utf8"/>
         <element label="Number" max_length="32" name="rei_number" reference="x_inhe_reim_table" type="reference"/>
+        <element label="City" max_length="32" name="to_city" type="string"/>
+        <element label="Coordinates to" max_length="40" name="to_coordinates" type="string"/>
+        <element label="To Location" max_length="32" name="to_location" reference="cmn_location" type="reference"/>
+        <element label="State" max_length="32" name="to_state" type="string"/>
+        <element label="Zip" max_length="32" name="to_zip" type="string"/>
+        <element label="Enter Street Manually" max_length="40" name="u_boolean_4" type="boolean"/>
         <index name="index">
+            <element name="from_state"/>
+        </index>
+        <index name="index2">
+            <element name="to_location"/>
+        </index>
+        <index name="index3">
+            <element name="to_zip"/>
+        </index>
+        <index name="index4">
+            <element name="from_city"/>
+        </index>
+        <index name="index5">
+            <element name="from_location"/>
+        </index>
+        <index name="index6">
+            <element name="from_zip"/>
+        </index>
+        <index name="index7">
+            <element name="to_city"/>
+        </index>
+        <index name="index8">
             <element name="rei_number"/>
+        </index>
+        <index name="index9">
+            <element name="to_state"/>
         </index>
     </element>
 </database>

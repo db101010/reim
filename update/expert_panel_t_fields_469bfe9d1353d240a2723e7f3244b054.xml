@@ -6,7 +6,7 @@
         <sys_class_name>expert_panel_t_fields</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-09 13:56:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>469bfe9d1353d240a2723e7f3244b054</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Set parent_reimbursement to the value of Parent Reimbursement</sys_name>

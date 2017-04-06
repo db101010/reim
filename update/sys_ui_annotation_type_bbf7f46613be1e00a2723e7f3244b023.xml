@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_annotation_type</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-18 05:02:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bbf7f46613be1e00a2723e7f3244b023</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Blank Annotation</sys_name>

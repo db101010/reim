@@ -4,7 +4,7 @@
         <active>false</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category display_value="Admin">a542c8bfa0aec2001b790bc9f7898868</category>
+        <category display_value="">a542c8bfa0aec2001b790bc9f7898868</category>
         <content_type>external</content_type>
         <cost>0</cost>
         <custom_cart/>
@@ -50,7 +50,7 @@
         <sys_class_name>sc_cat_item_content</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-03 20:18:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4b7911e313875240a2723e7f3244b071</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>New Expense Reimbursement</sys_name>
@@ -64,11 +64,6 @@
         <target>internal</target>
         <template/>
         <type>item</type>
-        <u_bypass>false</u_bypass>
-        <u_director_approval>false</u_director_approval>
-        <u_item_approval>false</u_item_approval>
-        <u_management_approval>false</u_management_approval>
-        <u_vp_approval>false</u_vp_approval>
         <url>x_inhe_reim_table.do?sys_id=-1&amp;sysparm_query=type=3&amp;sysparm_view=Expense</url>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

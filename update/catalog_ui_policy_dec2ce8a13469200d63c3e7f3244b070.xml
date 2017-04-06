@@ -35,8 +35,9 @@ breaks[5].style.display = '';
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-10 14:25:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>dec2ce8a13469200d63c3e7f3244b070</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>General Expendatures 5</sys_name>

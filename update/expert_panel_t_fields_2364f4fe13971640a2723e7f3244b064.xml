@@ -6,7 +6,7 @@
         <sys_class_name>expert_panel_t_fields</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-13 19:56:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2364f4fe13971640a2723e7f3244b064</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Set contact_number to the value of contact_number</sys_name>

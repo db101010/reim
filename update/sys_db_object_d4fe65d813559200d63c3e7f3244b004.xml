@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">7268b77f0a0a3c74002cdfe5d89ceec8</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">42690b604f12220007c26b628110c77e</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>petebl</sys_created_by>
         <sys_created_on>2016-01-27 19:42:04</sys_created_on>

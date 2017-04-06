@@ -4,152 +4,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>139d908e13c4668032eb3e276144b073</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>b79e51074f20320007c26b628110c7c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>accumulated_roles</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>539d908e13c4668032eb3e276144b073</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>2</position>
+            <position>1</position>
             <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>939d908e13c4668032eb3e276144b073</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>3b9e51074f20320007c26b628110c7c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>auditor</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>3</position>
-            <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>d39d908e13c4668032eb3e276144b073</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>building</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>4</position>
+            <position>2</position>
             <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>179d908e13c4668032eb3e276144b073</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>bb9e51074f20320007c26b628110c7c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>3f9e51074f20320007c26b628110c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>calendar_integration</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>5</position>
+            <position>4</position>
             <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>579d908e13c4668032eb3e276144b073</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>bf9e51074f20320007c26b628110c7c5</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>city</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>6</position>
+            <position>5</position>
             <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>979d908e13c4668032eb3e276144b073</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>339e51074f20320007c26b628110c7c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>company</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
+            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b39e51074f20320007c26b628110c7c5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>7</position>
+            <position>6</position>
             <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>d79d908e13c4668032eb3e276144b073</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-30 17:09:16</sys_created_on>
+            <sys_id>b39e51074f20320007c26b628110c7c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>cost_center</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>8</position>
-            <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>1b9d908e13c4668032eb3e276144b073</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>country</element>
-            <list_id display_value="sys_user" element="NULL" name="sys_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">1f9d908e13c4668032eb3e276144b072</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>9</position>
-            <sum>false</sum>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-17 17:08:46</sys_created_on>
-            <sys_id>5b9d908e13c4668032eb3e276144b073</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-17 17:08:46</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-30 17:09:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -162,21 +117,22 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>ClasJR</sys_created_by>
-            <sys_created_on>2016-07-15 19:41:59</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-11 19:37:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>683d458b1320e20032eb7e276144b05b</sys_id>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbf7129f4f12220007c26b628110c761</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>sys_user</sys_name>
-            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
-            <sys_update_name>sys_ui_list_sys_user_null</sys_update_name>
-            <sys_updated_by>ClasJR</sys_updated_by>
-            <sys_updated_on>2016-07-15 19:41:59</sys_updated_on>
-            <sys_user display_value="Justin Claspill (ClasJR)">19009d0a1173e900f1d592c6a1ccaea4</sys_user>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-11 19:37:06</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

@@ -46,7 +46,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-01-26 22:22:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9a9885842b9516402ba4c71317da157e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>From</sys_name>
@@ -59,8 +59,6 @@
         <sys_updated_on>2016-01-26 22:22:27</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
-        <u_model_id/>
-        <u_normalize_set/>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>

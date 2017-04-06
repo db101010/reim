@@ -9,14 +9,15 @@
             <label>Books &amp; Publishing</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>100</sequence>
+            <sequence>0</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 17:06:48</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>f809bb0d132a5600f9513ff18144b00b</sys_id>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:35:37</sys_updated_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:46</sys_updated_on>
             <value>67090</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -27,14 +28,15 @@
             <label>Physician Books/Publications</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>150</sequence>
+            <sequence>1</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 12:38:26</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2e559a691308268032eb3e276144b02b</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-28 12:44:29</sys_updated_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:46</sys_updated_on>
             <value>67095</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -45,14 +47,15 @@
             <label>Dues &amp; Membership</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>200</sequence>
+            <sequence>2</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:12</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e17c4451136a5600f9513ff18144b0c3</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:35:05</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67100</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,14 +66,15 @@
             <label>Employee Paid Airfare</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>300</sequence>
+            <sequence>3</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-07 19:39:38</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>1b179f8b13e6d600f9513ff18144b06e</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:51:28</sys_updated_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67200</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -81,14 +85,15 @@
             <label>Employee Paid Hotel</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>400</sequence>
+            <sequence>4</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-07 19:40:01</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>c5475f8b13e6d600f9513ff18144b0c2</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:51:18</sys_updated_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67200.3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -99,14 +104,15 @@
             <label>Group Meals</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>500</sequence>
+            <sequence>5</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-07 19:38:58</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>92071f8b13e6d600f9513ff18144b0fc</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:37:28</sys_updated_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67210</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -117,14 +123,15 @@
             <label>Office &amp; Admin Supplies</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>600</sequence>
+            <sequence>6</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>a57c4451136a5600f9513ff18144b0c3</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:37:58</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>65000</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -135,14 +142,15 @@
             <label>Other</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>700</sequence>
+            <sequence>7</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>697c4451136a5600f9513ff18144b0c3</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 12:37:18</sys_updated_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>Other</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -153,14 +161,15 @@
             <label>Other Supplies and Materials</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>800</sequence>
+            <sequence>8</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2d7c4451136a5600f9513ff18144b0c3</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:46:30</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>65080</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -171,14 +180,15 @@
             <label>Parking Tolls</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>900</sequence>
+            <sequence>9</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>a17c4451136a5600f9513ff18144b0c4</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:50:04</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67200.1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -189,14 +199,15 @@
             <label>RentalCar</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1000</sequence>
+            <sequence>10</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>657c4451136a5600f9513ff18144b0c4</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:50:12</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67200.2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -207,14 +218,15 @@
             <label>Telephone</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1100</sequence>
+            <sequence>11</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>297c4451136a5600f9513ff18144b0c4</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-28 12:44:50</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67070</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -225,14 +237,15 @@
             <label>Tips</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1200</sequence>
+            <sequence>12</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>ed7c4451136a5600f9513ff18144b0c3</sys_id>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:51:13</sys_updated_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67200.4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -243,14 +256,15 @@
             <label>Training / Continuing Ed / Seminars</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1300</sequence>
+            <sequence>13</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 18:24:13</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e97c4451136a5600f9513ff18144b0c4</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:50:46</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67190.1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -261,14 +275,15 @@
             <label>Physician Minor IT Equipment</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1400</sequence>
+            <sequence>14</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 12:41:38</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>406696691308268032eb3e276144b095</sys_id>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-05 15:40:29</sys_updated_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67095.1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -279,14 +294,15 @@
             <label>Physician Dues &amp; Memberships</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1500</sequence>
+            <sequence>15</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 13:40:12</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e53122e11348268032eb3e276144b0e7</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:40:33</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67105</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -297,14 +313,15 @@
             <label>Physician Licenses/Permits</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1600</sequence>
+            <sequence>16</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 13:40:58</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>da442e651348268032eb3e276144b078</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:41:13</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67165</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -315,14 +332,15 @@
             <label>Physician Training/Continuing Ed/Seminars</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1700</sequence>
+            <sequence>17</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 13:41:46</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2d74e6e51348268032eb3e276144b086</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 13:42:01</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67195</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -333,14 +351,15 @@
             <label>Miscellaneous Expense</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1800</sequence>
+            <sequence>18</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 13:43:21</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>d8e4e6291348268032eb3e276144b0c7</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-16 15:05:09</sys_updated_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>68350</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -351,14 +370,15 @@
             <label>Physician Travel</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>1900</sequence>
+            <sequence>19</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-16 13:42:47</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>d9a46ee51348268032eb3e276144b065</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-05 15:18:49</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>67205</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -369,14 +389,15 @@
             <label>Reward &amp; Recognition</label>
             <language>en</language>
             <name>x_inhe_reim_expences</name>
-            <sequence>2000</sequence>
+            <sequence>20</sequence>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-28 12:46:10</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e9da8ce913186e8032eb3e276144b069</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-05 15:40:44</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-02-10 20:21:47</sys_updated_on>
             <value>68350.1</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -386,7 +407,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-01 17:06:48</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>8908e58d1340e28032eb3e276144b0f3</sys_id>
+            <sys_id>7089b7b24f12220007c26b628110c7e6</sys_id>
             <sys_mod_count>82</sys_mod_count>
             <sys_name>g_catagory</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-03 15:01:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>54d7c2bf2bf9d2002ba4c71317da1564</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>break1</sys_name>

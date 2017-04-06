@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-19 13:25:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1bc23b3e13365e00a2723e7f3244b085</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ELT approvers</sys_name>

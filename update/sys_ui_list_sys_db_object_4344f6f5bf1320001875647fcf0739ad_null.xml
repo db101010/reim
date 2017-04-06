@@ -14,8 +14,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-06-07 19:55:08</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>bac3a1b613bf560003febc122244b02e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_dictionary</sys_name>
@@ -26,7 +27,7 @@
             <sys_update_name>sys_ui_list_sys_db_object_4344f6f5bf1320001875647fcf0739ad_null</sys_update_name>
             <sys_updated_by>PeteBL</sys_updated_by>
             <sys_updated_on>2016-06-07 19:55:08</sys_updated_on>
-            <sys_user display_value="Brent Peters (PeteBL)">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
+            <sys_user display_value="">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

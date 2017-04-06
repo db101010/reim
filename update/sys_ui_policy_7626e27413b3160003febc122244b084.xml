@@ -23,8 +23,9 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-01 19:37:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>7626e27413b3160003febc122244b084</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>Employee Number / Contact Number</sys_name>

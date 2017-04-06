@@ -23,8 +23,9 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-28 19:50:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c03ca1a113d86200339d50128144b0c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>hide transaction ids (Mileage)</sys_name>
@@ -38,6 +39,6 @@
         <sys_updated_on>2016-06-28 19:50:48</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <ui_type>0</ui_type>
-        <view>Mileage</view>
+        <view display_value="Mileage" name="Mileage">Mileage</view>
     </sys_ui_policy>
 </record_update>

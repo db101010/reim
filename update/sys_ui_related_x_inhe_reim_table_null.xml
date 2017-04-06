@@ -39,8 +39,9 @@
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-05-05 20:48:34</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>f3833f4013139240a2723e7f3244b0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Reimbursement Center Table - Default view</sys_name>

@@ -50,7 +50,7 @@
         <sys_class_name>sc_cat_item_content</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-03-30 20:34:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1de61624db66da00303e3b1cbf961990</sys_id>
         <sys_mod_count>19</sys_mod_count>
         <sys_name>Reimbursement Center</sys_name>
@@ -64,11 +64,6 @@
         <target>internal</target>
         <template/>
         <type>item</type>
-        <u_bypass>false</u_bypass>
-        <u_director_approval>false</u_director_approval>
-        <u_item_approval>false</u_item_approval>
-        <u_management_approval>false</u_management_approval>
-        <u_vp_approval>false</u_vp_approval>
         <url>expert_shell.do?sysparm_initial=true&amp;sysparm_sys_id=a5c4378013139240a2723e7f3244b01c</url>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
@@ -117,6 +112,7 @@
         <average_image_color/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>icon</file_name>
         <image_height/>
         <image_width/>

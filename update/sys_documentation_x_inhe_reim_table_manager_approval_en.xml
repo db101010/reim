@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-26 18:54:41</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>7b23cd151387de00a2723e7f3244b068</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>Approval Manager </sys_name>

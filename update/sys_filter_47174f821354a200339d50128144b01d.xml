@@ -14,6 +14,7 @@
         <sys_created_on>2016-06-30 15:45:01</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>47174f821354a200339d50128144b01d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -26,6 +27,6 @@
         <sys_updated_on>2016-06-30 15:45:01</sys_updated_on>
         <table>sys_user</table>
         <title>mobile</title>
-        <user display_value="Teresa Vu (VuTT)">662a3c2b13711200d63c3e7f3244b0ef</user>
+        <user display_value="">662a3c2b13711200d63c3e7f3244b0ef</user>
     </sys_filter>
 </record_update>

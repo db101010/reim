@@ -13,6 +13,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-02-15 19:51:04</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e5376f5a2b6152002ba4c71317da15dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>gibsjt</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-02-15 19:51:04</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2d376f5a2b6152002ba4c71317da15dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>gibsjt</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-02-15 19:51:04</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>ed376f5a2b6152002ba4c71317da15dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>gibsjt</sys_updated_by>
@@ -62,7 +65,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-02-15 19:51:04</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>5018698d1340e28032eb3e276144b01b</sys_id>
+            <sys_id>7989f7b24f12220007c26b628110c778</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>g_expense_category_6</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

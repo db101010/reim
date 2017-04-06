@@ -2,11 +2,11 @@
 <record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
         <order>100</order>
-        <sc_cat_item display_value="Copy of Travel Authorization">3918ab602ba89a002ba4c71317da1579</sc_cat_item>
+        <sc_cat_item display_value="">3918ab602ba89a002ba4c71317da1579</sc_cat_item>
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2015-12-22 16:23:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f9286f602ba89a002ba4c71317da15fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Personal Information.Copy of Travel Authorization</sys_name>
@@ -17,6 +17,6 @@
         <sys_update_name>io_set_item_f9286f602ba89a002ba4c71317da15fa</sys_update_name>
         <sys_updated_by>GibsJT</sys_updated_by>
         <sys_updated_on>2015-12-22 16:23:01</sys_updated_on>
-        <variable_set display_value="Personal Information">0143650ea0ae82001b790bc9f78988ab</variable_set>
+        <variable_set display_value="">0143650ea0ae82001b790bc9f78988ab</variable_set>
     </io_set_item>
 </record_update>

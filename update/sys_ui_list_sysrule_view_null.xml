@@ -4,152 +4,167 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>c8ce25d9130ce28032eb3e276144b03a</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>cb66603397103000e2af770ddd297567</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>active</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>0cce25d9130ce28032eb3e276144b03a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>advanced</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>4cce25d9130ce28032eb3e276144b03a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>condition</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>3</position>
+            <position>1</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>8cce25d9130ce28032eb3e276144b03a</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>4f66603397103000e2af770ddd297567</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>description</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>4</position>
+            <position>2</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>ccce25d9130ce28032eb3e276144b03a</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>cf66603397103000e2af770ddd297567</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>4366603397103000e2af770ddd297568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>device_type</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>5</position>
+            <position>4</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>00ce25d9130ce28032eb3e276144b03b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>c366603397103000e2af770ddd297568</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>match_conditions</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <position>6</position>
+            <position>5</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>40ce25d9130ce28032eb3e276144b03b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>4766603397103000e2af770ddd297568</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>order</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>7</position>
-            <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>80ce25d9130ce28032eb3e276144b03b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>overrides_user_preference</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>c766603397103000e2af770ddd297568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain</element>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>4b66603397103000e2af770ddd297568</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>table</element>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>c0ce25d9130ce28032eb3e276144b03b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>8f66e83397103000e2af770ddd2975c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>script</element>
-            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08ce25d9130ce28032eb3e276144b03a</list_id>
+            <element>view</element>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-06-15 15:07:50</sys_created_on>
-            <sys_id>04ce25d9130ce28032eb3e276144b03b</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>0366e83397103000e2af770ddd2975c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-06-15 15:07:50</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="sysrule_view" element="NULL" name="sysrule_view" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4b66603397103000e2af770ddd297567</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2012-09-12 17:14:15</sys_created_on>
+            <sys_id>8366e83397103000e2af770ddd2975c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2012-09-12 17:14:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -164,8 +179,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-06-28 14:44:45</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>c126a8ad13586200339d50128144b04f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sysrule_view</sys_name>
@@ -176,7 +192,7 @@
             <sys_update_name>sys_ui_list_sysrule_view_null</sys_update_name>
             <sys_updated_by>PeteBL</sys_updated_by>
             <sys_updated_on>2016-06-28 14:44:45</sys_updated_on>
-            <sys_user display_value="Brent Peters (PeteBL)">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
+            <sys_user display_value="">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-28 16:53:22</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0851d77313161600f9513ff18144b0ad</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inhe_reim_mileage_table</sys_name>

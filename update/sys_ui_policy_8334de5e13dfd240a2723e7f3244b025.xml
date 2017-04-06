@@ -32,8 +32,9 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-12 13:41:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>8334de5e13dfd240a2723e7f3244b025</sys_id>
         <sys_mod_count>23</sys_mod_count>
         <sys_name>Hide Approval</sys_name>
@@ -47,6 +48,6 @@
         <sys_updated_on>2016-05-13 20:36:40</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <ui_type>0</ui_type>
-        <view>authorization</view>
+        <view display_value="Authorization" name="Authorization">authorization</view>
     </sys_ui_policy>
 </record_update>

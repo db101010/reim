@@ -5,15 +5,11 @@
         <access>package_private</access>
         <action_delete>false</action_delete>
         <action_insert>false</action_insert>
-        <action_label/>
-        <action_name/>
         <action_query>false</action_query>
-        <action_run_at>server</action_run_at>
         <action_update>true</action_update>
         <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
-        <application/>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection>x_inhe_reim_ap_approvals</collection>
@@ -26,10 +22,8 @@
         <is_rest>false</is_rest>
         <message/>
         <name>Update Parent with Comments</name>
-        <onclick/>
         <order>100</order>
         <priority>100</priority>
-        <read_access_action>false</read_access_action>
         <rest_method/>
         <rest_method_text/>
         <rest_service/>
@@ -52,8 +46,9 @@
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-04 21:01:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>aabb667f130fd60003febc122244b024</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Update Parent with Comments</sys_name>
@@ -68,4 +63,5 @@
         <template/>
         <when>before</when>
     </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=aabb667f130fd60003febc122244b024"/>
 </record_update>

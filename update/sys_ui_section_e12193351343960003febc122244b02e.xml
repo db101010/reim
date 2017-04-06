@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>0d2091a4137fd20003febc122244b03f</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>f2b9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,111 +19,97 @@
             <element>approver</element>
             <position>1</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>4d2091a4137fd20003febc122244b03f</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>76b9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>next_approver</element>
-            <position>2</position>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>8d2091a4137fd20003febc122244b03f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>cd2091a4137fd20003febc122244b03f</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>f6b9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>rei_number</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>012091a4137fd20003febc122244b040</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>7ab9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>412091a4137fd20003febc122244b040</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>fab9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>812091a4137fd20003febc122244b040</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>7eb9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>c12091a4137fd20003febc122244b040</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>feb9fa264f78320007c26b628110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-31 18:42:56</sys_created_on>
-            <sys_id>052091a4137fd20003febc122244b040</sys_id>
+            <sys_created_on>2017-02-10 20:46:04</sys_created_on>
+            <sys_id>72b9fa264f78320007c26b628110c750</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_inhe_reim_ap_approvals" sys_domain="global" view="Default view">e12193351343960003febc122244b02e</sys_ui_section>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-31 18:42:56</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -135,10 +121,11 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-04-28 18:31:54</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>e12193351343960003febc122244b02e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_inhe_reim_ap_approvals</sys_name>
             <sys_overrides display_value="">global</sys_overrides>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -147,7 +134,7 @@
             <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
             <sys_update_name>sys_ui_section_e12193351343960003febc122244b02e</sys_update_name>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-04-28 18:31:54</sys_updated_on>
+            <sys_updated_on>2017-02-10 20:46:04</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

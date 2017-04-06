@@ -31,8 +31,9 @@
         <sys_class_name>expert_script_client</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-30 14:19:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>b3533a0e1314a200339d50128144b06d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Update user info</sys_name>

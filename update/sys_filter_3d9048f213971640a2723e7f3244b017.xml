@@ -13,6 +13,7 @@
         <sys_created_on>2016-05-13 16:10:18</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>3d9048f213971640a2723e7f3244b017</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-05-13 16:10:18</sys_updated_on>
         <table>x_inhe_reim_ap_approvals</table>
         <title>mobile</title>
-        <user display_value="Randy Haas (HaasRG)">43cd4b74fd5405001459739a0d303a28</user>
+        <user display_value="">43cd4b74fd5405001459739a0d303a28</user>
     </sys_filter>
 </record_update>

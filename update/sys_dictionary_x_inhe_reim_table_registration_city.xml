@@ -9,7 +9,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Registration City &amp; State</column_label>
+        <column_label>Registration City &amp;amp; State</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -46,21 +46,19 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2015-12-21 20:24:57</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>30d5df582b649a002ba4c71317da1557</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Registration City &amp; State</sys_name>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5b2933b24f12220007c26b628110c7dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Registration City &amp;amp; State</sys_name>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_dictionary_x_inhe_reim_table_registration_city</sys_update_name>
         <sys_updated_by>PeteBL</sys_updated_by>
-        <sys_updated_on>2016-06-14 19:58:41</sys_updated_on>
+        <sys_updated_on>2017-02-10 15:34:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
-        <u_model_id/>
-        <u_normalize_set/>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>

@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>airport_name</element>
-            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="72668e430a0a3c74000ad2c9f83ba47e">336410b513f21e00a2723e7f3244b019</list_id>
+            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="5cc807204f12220007c26b628110c77e">336410b513f21e00a2723e7f3244b019</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>airport_code</element>
-            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="72668e430a0a3c74000ad2c9f83ba47e">336410b513f21e00a2723e7f3244b019</list_id>
+            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="5cc807204f12220007c26b628110c77e">336410b513f21e00a2723e7f3244b019</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>city</element>
-            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="72668e430a0a3c74000ad2c9f83ba47e">336410b513f21e00a2723e7f3244b019</list_id>
+            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="5cc807204f12220007c26b628110c77e">336410b513f21e00a2723e7f3244b019</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +49,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="72668e430a0a3c74000ad2c9f83ba47e">336410b513f21e00a2723e7f3244b019</list_id>
+            <list_id display_value="x_inhe_reim_airport" element="NULL" name="x_inhe_reim_airport" parent="NULL" relationship="NULL" sys_domain="global" view="5cc807204f12220007c26b628110c77e">336410b513f21e00a2723e7f3244b019</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -74,8 +74,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-15 18:31:41</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>336410b513f21e00a2723e7f3244b019</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_inhe_reim_airport</sys_name>
@@ -87,7 +88,7 @@
             <sys_updated_by>GibsJT</sys_updated_by>
             <sys_updated_on>2016-04-15 18:31:41</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">72668e430a0a3c74000ad2c9f83ba47e</view>
+            <view display_value="Reference List" name="sys_ref_list">5cc807204f12220007c26b628110c77e</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

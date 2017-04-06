@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-11 14:47:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2b5a95c213dbd240a2723e7f3244b04b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,quick_approve</sys_name>

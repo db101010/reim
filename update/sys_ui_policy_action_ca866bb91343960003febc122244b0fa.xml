@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-04-28 20:05:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ca866bb91343960003febc122244b0fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>approver</sys_name>

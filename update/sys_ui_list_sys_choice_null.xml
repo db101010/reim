@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>2140220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>2bd57dac4f54320007c26b628110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>dependent_value</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>6140220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>abd57dac4f54320007c26b628110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>element</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>a140220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>2fd57dac4f54320007c26b628110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>hint</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>e140220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>afd57dac4f54320007c26b628110c7fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>inactive</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>2540220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>23d57dac4f54320007c26b628110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>label</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>6540220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>a3d57dac4f54320007c26b628110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>language</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>a540220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>27d57dac4f54320007c26b628110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sequence</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>e540220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>a7d57dac4f54320007c26b628110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_domain</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>2940220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>2bd57dac4f54320007c26b628110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>value</element>
-            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2d40220013ece2c032eb3e276144b0fd</list_id>
+            <list_id display_value="sys_choice" element="NULL" name="sys_choice" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e3d57dac4f54320007c26b628110c7fa</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
-            <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-07-06 18:03:11</sys_created_on>
-            <sys_id>6940220013ece2c032eb3e276144b0fe</sys_id>
+            <sys_created_by>gibsjt</sys_created_by>
+            <sys_created_on>2017-01-10 14:10:19</sys_created_on>
+            <sys_id>abd57dac4f54320007c26b628110c7fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-07-06 18:03:11</sys_updated_on>
+            <sys_updated_by>gibsjt</sys_updated_by>
+            <sys_updated_on>2017-01-10 14:10:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -163,10 +163,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
-            <sys_created_on>2016-05-26 19:57:58</sys_created_on>
+            <sys_created_on>2017-02-10 21:06:45</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>84a101310a0a3c7401bb51ef0a12b493</sys_id>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f57e72a64f78320007c26b628110c77b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_choice</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -175,8 +176,8 @@
             <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
             <sys_update_name>sys_ui_list_sys_choice_null</sys_update_name>
             <sys_updated_by>PeteBL</sys_updated_by>
-            <sys_updated_on>2016-05-26 19:57:58</sys_updated_on>
-            <sys_user display_value="Brent Peters (PeteBL)">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
+            <sys_updated_on>2017-02-10 21:06:45</sys_updated_on>
+            <sys_user display_value="Brent  Peters">c30c42034fd7220007c26b628110c737</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

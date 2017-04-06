@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-01-22 18:31:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9dceafa62b05d2402ba4c71317da15d3</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>g_cost</sys_name>

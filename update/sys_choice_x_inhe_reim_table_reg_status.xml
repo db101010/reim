@@ -13,6 +13,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-06 12:52:42</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>8d89f25a13f7560003febc122244b0fd</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>PeteBL</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-06 12:52:42</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>0589f25a13f7560003febc122244b0fe</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>PeteBL</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-06 12:52:42</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>8189f25a13f7560003febc122244b0fe</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>PeteBL</sys_updated_by>
@@ -62,7 +65,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-06-06 12:52:42</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>dd18698d1340e28032eb3e276144b076</sys_id>
+            <sys_id>0e89f7b24f12220007c26b628110c79d</sys_id>
             <sys_mod_count>11</sys_mod_count>
             <sys_name>reg_status</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

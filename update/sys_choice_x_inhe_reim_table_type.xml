@@ -13,6 +13,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-14 18:17:23</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>6097c7d513beda00a2723e7f3244b024</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-14 18:17:23</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>a497c7d513beda00a2723e7f3244b024</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-14 18:17:23</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>6897c7d513beda00a2723e7f3244b024</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -67,6 +70,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-21 15:10:58</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>7ccfd6eb13be5e00a2723e7f3244b060</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>PeteBL</sys_updated_by>
@@ -80,7 +84,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-14 18:17:23</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>2918698d1340e28032eb3e276144b086</sys_id>
+            <sys_id>0e89f7b24f12220007c26b628110c7b3</sys_id>
             <sys_mod_count>16</sys_mod_count>
             <sys_name>type</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

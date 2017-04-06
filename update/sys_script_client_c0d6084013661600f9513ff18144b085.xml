@@ -9,41 +9,51 @@
         <global>true</global>
         <messages/>
         <name>get_distance from</name>
-        <order/>
+        <order>100</order>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 	if (isLoading || newValue == '') {
 		return;
 	}
-	var roundtrip = g_form.getValue('m_round_trip');
-	var to_location =  g_form.getValue('m_to');
-	var from_location= g_form.getValue('m_from');
+	var street = g_form.getValue('m_from');
+	var city =  g_form.getValue('from_city');
+	var state = g_form.getValue('from_state');
+	var zip = g_form.getValue('from_zip');
+	var country = 'US';
 	
-	var ba = new GlideAjax('global.getDistance');
-	ba.addParam('sysparm_name', 'getDistanceInMiles');
-	ba.addParam('sysparm_v_end', to_location);
-	ba.addParam('sysparm_v_start', from_location);
-	ba.getXML(function() {
-		var dist = ba.getAnswer();
-		var disnum = dist.replace(" mi", "");
-		var floatdisnum = (parseFloat(disnum));
-		var dbl = parseFloat(floatdisnum*2);
+	//alert('city');
+	
+	if (street && city && state || zip != "" ) {
 		
-		if (roundtrip == 'true'){
-			g_form.setValue('miles_driven',dbl);
-		}
-		else{
-			g_form.setValue('miles_driven', floatdisnum);
-		}
+		var fm = new GlideAjax('getDistance');
+		fm.addParam('sysparm_name', 'getFromCords');
+		fm.addParam('sysparm_street', street);
+		fm.addParam('sysparm_city', city);
+		fm.addParam('sysparm_state', state);
+		fm.addParam('sysparm_zip', zip);
+		fm.addParam('sysparm_country', country);
+		fm.getXML(function() {
+			var cords = fm.getAnswer();
+			//alert(cords);
+			if (cords.length > 0) {	
+				if(cords == 'Error') {
+					alert('Address was not found!');
+				} else {
+				g_form.setValue('from_coordinates', cords);
+				}
+			}
 		
 	});
+	}
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-28 20:47:07</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c0d6084013661600f9513ff18144b085</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_name>get_distance from</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -51,11 +61,11 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_script_client_c0d6084013661600f9513ff18144b085</sys_update_name>
-        <sys_updated_by>GibsJT</sys_updated_by>
-        <sys_updated_on>2016-03-28 20:55:55</sys_updated_on>
+        <sys_updated_by>gibsjt</sys_updated_by>
+        <sys_updated_on>2017-02-09 22:21:23</sys_updated_on>
         <table>x_inhe_reim_mileage_table</table>
         <type>onChange</type>
-        <ui_type>0</ui_type>
+        <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
 </record_update>

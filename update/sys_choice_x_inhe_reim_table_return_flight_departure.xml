@@ -13,6 +13,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 18:46:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>ba747f2613725e00a2723e7f3244b0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 18:46:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>fe747f2613725e00a2723e7f3244b0d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 18:46:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>b2747f2613725e00a2723e7f3244b0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -67,6 +70,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 18:46:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>76747f2613725e00a2723e7f3244b0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -85,6 +89,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 18:46:00</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>3a747f2613725e00a2723e7f3244b0d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -98,7 +103,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 18:46:00</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>9918698d1340e28032eb3e276144b07b</sys_id>
+            <sys_id>4689f7b24f12220007c26b628110c7a1</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>return_flight_departure</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

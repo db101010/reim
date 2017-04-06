@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-14 19:33:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1ecf67d713c21200f9513ff18144b0cf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Lunch</sys_name>

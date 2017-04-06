@@ -49,7 +49,7 @@
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-09 13:07:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>51a05b582be11a402ba4c71317da15bf</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Mileage Reimbursement</sys_name>
@@ -63,11 +63,6 @@
         <table_name>x_inhe_reim_table</table_name>
         <template/>
         <type>item</type>
-        <u_bypass>false</u_bypass>
-        <u_director_approval>false</u_director_approval>
-        <u_item_approval>false</u_item_approval>
-        <u_management_approval>false</u_management_approval>
-        <u_vp_approval>false</u_vp_approval>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
         <view/>

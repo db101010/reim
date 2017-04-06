@@ -21,7 +21,7 @@ current.addQuery('element', '!=', 'NULL');]]></query_with>
         <sys_class_name>sys_relationship</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-03-29 18:23:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e21eac90dbe69a00303e3b1cbf961939</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Mileage Columns</sys_name>

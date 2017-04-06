@@ -6,7 +6,7 @@
         <sys_class_name>expert_panel_t_fields</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-13 20:02:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>97c5bc7213d71640a2723e7f3244b05b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Set business_unit to the value of business_unit</sys_name>

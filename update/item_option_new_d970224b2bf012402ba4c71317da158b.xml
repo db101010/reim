@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-11 15:50:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d970224b2bf012402ba4c71317da158b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Return Date</sys_name>

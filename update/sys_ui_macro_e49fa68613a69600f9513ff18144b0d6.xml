@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-04 14:13:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e49fa68613a69600f9513ff18144b0d6</sys_id>
         <sys_mod_count>13</sys_mod_count>
         <sys_name>meals_col_embedded</sys_name>

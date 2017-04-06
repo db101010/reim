@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-13 21:20:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>dca7817a13d71640a2723e7f3244b041</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>m_round_trip</sys_name>

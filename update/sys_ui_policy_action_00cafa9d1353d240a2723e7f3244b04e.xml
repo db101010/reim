@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-09 13:53:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>00cafa9d1353d240a2723e7f3244b04e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>parent_reimbursement</sys_name>

@@ -74,8 +74,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-14 21:19:52</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>2d51f35113feda00a2723e7f3244b0d9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_inhe_reim_airport</sys_name>

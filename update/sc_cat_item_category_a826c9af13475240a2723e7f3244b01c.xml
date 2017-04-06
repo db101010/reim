@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="New Travel Authorization">9026c9af13475240a2723e7f3244b01b</sc_cat_item>
-        <sc_category display_value="Admin">a542c8bfa0aec2001b790bc9f7898868</sc_category>
+        <sc_category display_value="">a542c8bfa0aec2001b790bc9f7898868</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-03 18:53:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a826c9af13475240a2723e7f3244b01c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Admin.New Travel Authorization</sys_name>

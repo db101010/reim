@@ -13,6 +13,7 @@
         <sys_created_on>2016-06-13 14:02:00</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>988cc3644f48260025b3334d0210c7d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-06-13 14:02:00</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <title>mobile</title>
-        <user display_value="Justin Claspill (ClasJR)">19009d0a1173e900f1d592c6a1ccaea4</user>
+        <user display_value="">19009d0a1173e900f1d592c6a1ccaea4</user>
     </sys_filter>
 </record_update>

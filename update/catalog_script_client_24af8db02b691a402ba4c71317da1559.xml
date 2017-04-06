@@ -56,8 +56,9 @@
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-10 16:57:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>24af8db02b691a402ba4c71317da1559</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>get_distance_f3</sys_name>

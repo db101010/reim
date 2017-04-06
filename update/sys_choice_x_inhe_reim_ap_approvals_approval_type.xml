@@ -13,6 +13,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 21:16:19</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>4ec6fffd13cfde00a2723e7f3244b0d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 21:16:19</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>82c6fffd13cfde00a2723e7f3244b0d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -44,7 +46,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 21:16:19</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>cd08e58d1340e28032eb3e276144b0e0</sys_id>
+            <sys_id>b089b7b24f12220007c26b628110c7df</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>approval_type</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

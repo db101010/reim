@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-02 17:55:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3278530d13f31680f9513ff18144b046</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_inhe_reim_table</sys_name>

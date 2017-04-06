@@ -13,6 +13,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2015-12-22 20:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>5c20a8fc2ba89a002ba4c71317da15ba</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2015-12-22 20:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>9020a8fc2ba89a002ba4c71317da15bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2015-12-22 20:27:35</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>5420a8fc2ba89a002ba4c71317da15bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -62,7 +65,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2015-12-22 20:27:35</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>6018698d1340e28032eb3e276144b038</sys_id>
+            <sys_id>f989f7b24f12220007c26b628110c77a</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>hotel_name</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

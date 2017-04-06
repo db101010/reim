@@ -59,8 +59,9 @@ function serverRCancel(){
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-11 13:00:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d9028d0e139bd240a2723e7f3244b068</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Reset Request</sys_name>

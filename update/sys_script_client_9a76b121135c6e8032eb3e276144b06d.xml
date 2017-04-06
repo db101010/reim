@@ -23,8 +23,9 @@ if (newValue == '67210'){
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-06-28 20:42:29</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>9a76b121135c6e8032eb3e276144b06d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Field message Cost excluding Alcohol</sys_name>

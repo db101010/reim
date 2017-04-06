@@ -3,314 +3,219 @@
     <sys_ui_section caption=" " section_id="fa80a62213325e00a2723e7f3244b0d9" sys_domain="global" table="x_inhe_reim_table" version="3" view="Expense">
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>197b438a13d0ee8032eb3e276144b044</sys_id>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7e90d7bb4f34720007c26b628110c7a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <text/>
-            <type/>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>597b438a13d0ee8032eb3e276144b044</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <text/>
             <type display_value="Blank Annotation">bbf7f46613be1e00a2723e7f3244b023</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>997b438a13d0ee8032eb3e276144b044</sys_id>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>fe90d7bb4f34720007c26b628110c7a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <text/>
             <type display_value="Blank Annotation">bbf7f46613be1e00a2723e7f3244b023</type>
         </sys_ui_annotation>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>197b438a13d0ee8032eb3e276144b044</element>
-            <position>0</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>d97b438a13d0ee8032eb3e276144b044</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>1</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>1d7b438a13d0ee8032eb3e276144b044</sys_id>
+            <position>0</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7290d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>employee</element>
-            <position>2</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>5d7b438a13d0ee8032eb3e276144b044</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>medical_staff</element>
-            <position>3</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>9d7b438a13d0ee8032eb3e276144b044</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>board_member</element>
-            <position>4</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>dd7b438a13d0ee8032eb3e276144b044</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>created_for</element>
-            <position>5</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>117b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>1</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>f290d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>title</element>
-            <position>6</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>517b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>2</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7690d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mailing_address</element>
-            <position>7</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>917b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>3</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>f690d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>email</element>
-            <position>8</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>d17b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>4</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7a90d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>business_unit</element>
-            <position>9</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>157b438a13d0ee8032eb3e276144b045</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>10</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>557b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>5</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>fa90d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>597b438a13d0ee8032eb3e276144b044</element>
-            <position>11</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>957b438a13d0ee8032eb3e276144b045</sys_id>
+            <element>7e90d7bb4f34720007c26b628110c7a0</element>
+            <position>6</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7e90d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>997b438a13d0ee8032eb3e276144b044</element>
-            <position>12</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>d57b438a13d0ee8032eb3e276144b045</sys_id>
+            <element>fe90d7bb4f34720007c26b628110c7a0</element>
+            <position>7</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>fe90d7bb4f34720007c26b628110c7a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
-            <position>13</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>197b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>8</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7290d7bb4f34720007c26b628110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_1</element>
-            <position>14</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>597b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>9</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>f290d7bb4f34720007c26b628110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contact_number</element>
-            <position>15</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>997b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>10</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7690d7bb4f34720007c26b628110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>department</element>
-            <position>16</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>d97b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>11</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>f690d7bb4f34720007c26b628110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>manager_approval</element>
-            <position>17</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>1d7b438a13d0ee8032eb3e276144b045</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cost_center</element>
-            <position>18</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>5d7b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>12</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>7a90d7bb4f34720007c26b628110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_by</element>
-            <position>19</position>
-            <sys_created_by>GibsJT</sys_created_by>
-            <sys_created_on>2016-06-30 16:04:01</sys_created_on>
-            <sys_id>9d7b438a13d0ee8032eb3e276144b045</sys_id>
+            <position>13</position>
+            <sys_created_by>PeteBL</sys_created_by>
+            <sys_created_on>2017-02-14 19:38:24</sys_created_on>
+            <sys_id>fa90d7bb4f34720007c26b628110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption=" " display_value=" " name="x_inhe_reim_table" sys_domain="global" view="0e312495136a5600f9513ff18144b05e">fa80a62213325e00a2723e7f3244b0d9</sys_ui_section>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-06-30 16:04:01</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -322,10 +227,11 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-18 12:39:17</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>fa80a62213325e00a2723e7f3244b0d9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name> </sys_name>
             <sys_overrides display_value="">global</sys_overrides>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -333,8 +239,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
             <sys_update_name>sys_ui_section_fa80a62213325e00a2723e7f3244b0d9</sys_update_name>
-            <sys_updated_by>GibsJT</sys_updated_by>
-            <sys_updated_on>2016-04-18 12:39:17</sys_updated_on>
+            <sys_updated_by>PeteBL</sys_updated_by>
+            <sys_updated_on>2017-02-14 19:38:24</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Expense" name="Expense">0e312495136a5600f9513ff18144b05e</view>

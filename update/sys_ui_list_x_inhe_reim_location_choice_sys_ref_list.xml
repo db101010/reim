@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>to</element>
-            <list_id display_value="x_inhe_reim_location_choice" element="NULL" name="x_inhe_reim_location_choice" parent="NULL" relationship="NULL" sys_domain="global" view="72668e430a0a3c74000ad2c9f83ba47e">6a7ac1b02b691a402ba4c71317da15d5</list_id>
+            <list_id display_value="x_inhe_reim_location_choice" element="NULL" name="x_inhe_reim_location_choice" parent="NULL" relationship="NULL" sys_domain="global" view="5cc807204f12220007c26b628110c77e">6a7ac1b02b691a402ba4c71317da15d5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>from</element>
-            <list_id display_value="x_inhe_reim_location_choice" element="NULL" name="x_inhe_reim_location_choice" parent="NULL" relationship="NULL" sys_domain="global" view="72668e430a0a3c74000ad2c9f83ba47e">6a7ac1b02b691a402ba4c71317da15d5</list_id>
+            <list_id display_value="x_inhe_reim_location_choice" element="NULL" name="x_inhe_reim_location_choice" parent="NULL" relationship="NULL" sys_domain="global" view="5cc807204f12220007c26b628110c77e">6a7ac1b02b691a402ba4c71317da15d5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -44,8 +44,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-02-10 16:35:24</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>6a7ac1b02b691a402ba4c71317da15d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_inhe_reim_location_choice</sys_name>
@@ -57,7 +58,7 @@
             <sys_updated_by>gibsjt</sys_updated_by>
             <sys_updated_on>2016-02-10 16:35:24</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">72668e430a0a3c74000ad2c9f83ba47e</view>
+            <view display_value="Reference List" name="sys_ref_list">5cc807204f12220007c26b628110c77e</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

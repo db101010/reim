@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-09 14:48:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c248efdc2be11a402ba4c71317da1524</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>date_3</sys_name>

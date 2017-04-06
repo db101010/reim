@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_inhe_reim.getDistance</api_name>
+        <client_callable>true</client_callable>
+        <description>gets google json file</description>
+        <name>getDistance</name>
+        <script><![CDATA[var getDistance = Class.create();
+getDistance.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	getToCords: function(street, city, state, zip, country) {
+		var street = this.getParameter('sysparm_street');
+		var city = this.getParameter('sysparm_city');
+		var state = this.getParameter('sysparm_state');
+		var zip = this.getParameter('sysparm_zip');
+		var country = this.getParameter('sysparm_country');
+		var latAndLong = this._getCords(street, city, state, zip, country);
+		return latAndLong;
+	},
+	
+	getFromCords: function(street, city, state, zip, country) {
+		var street = this.getParameter('sysparm_street');
+		var city = this.getParameter('sysparm_city');
+		var state = this.getParameter('sysparm_state');
+		var zip = this.getParameter('sysparm_zip');
+		var country = this.getParameter('sysparm_country');
+		gs.info('This is what I passed ' + street + ', ' + city + ', ' + state + ', ' + zip + ', ' + country);
+		var latAndLong = this._getCords(street, city, state, zip, country);
+		return latAndLong;
+	},
+	
+	getDistanceInMiles: function(sn_start, sn_end) {
+		var sn_start = this.getParameter('sysparm_m_from');
+		var sn_end = this.getParameter('sysparm_m_to');
+		
+		
+		var url = 'https://maps.googleapis.com/maps/api/distancematrix/json';
+		
+		var parms = 'origins=' + sn_start +'&destinations=' + sn_end + '&units=imperial';
+		gs.info('Starting our script now');
+		gs.info(url);
+		gs.info(parms);
+		var dist = 0;
+		gs.info('Default distance is ' + dist);
+		var ws = new HTTPAdaptor(url);
+		var jsonOutput = ws.doGet(parms);
+		
+			
+		gs.info('Here is the json' + jsonOutput +'*******************************************************');
+		
+		var output = JSON.parse(jsonOutput);
+		var results = output.rows[0].elements;
+		var element = results[0];
+		var distance = element.distance.text;
+		gs.info(distance);
+		gs.linfoog('Stoping our script now');
+		return distance;
+	},
+	
+	_getCords: function(street, city, state, zip, country) {
+		var latAndLong = '';
+		
+		gs.info('This is what we end up with ' + street + ', ' + city + ', ' + state + ', ' + zip + ', ' + country);
+		
+		var address = (street + ', ' + city + ', ' + state + ', ' + zip + ', ' + country);
+		address = address.trim();
+		//gs.info(address);
+		if (address.length > 0) {
+			var point=global.GoogleMapsHelper.google_getCords(address);
+			if (point[0] && point[1]) {
+				latAndLong = point[0] + ',' + point[1];
+			} else {
+				latAndLong = 'Error';
+			}
+			
+			
+			gs.info(latAndLong);
+			return latAndLong;
+		}
+	},
+	encodeParm:	function(parm) {
+		return GlideStringUtil.urlEncode(parm);
+	},
+	
+	google_getLatLong: function(addr) {
+		var geo_auto = "google.maps.geocoding.automation";
+		// 			var gl = new GSLog("google.maps.logging", "GoogleMapsHelper.google_getLatLong");
+		var url = "https://maps.googleapis.com/maps/api/geocode/json";
+		var query = "address=" + addr;
+		var parms = new String(query).replaceAll(" ", "+");
+		
+		var lat = 0,
+		lng = 0;
+		
+		
+		gs.info("Making geocoding request");
+		var ws = new HTTPAdaptor(url);
+		var jsonOutput = ws.doGet(parms);
+		
+		try {
+			var output = new JSONParser().parse(jsonOutput);
+			if (output.status == "OK") {
+				lat = output['results'][0]['geometry']['location']['lat'];
+				lng = output['results'][0]['geometry']['location']['lng'];
+			} else if (output.status == "ZERO_RESULTS") {
+				gs.info("Unable to find address: " + addr);
+			} else {
+				gs.info("Unknown response: " + jsonOutput);
+			}
+		} catch (err) {
+			gs.info("Geocoding error: " + jsonOutput);
+		}
+		
+		return [lat, lng];
+	},
+	
+	type: 'getDistance'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>gibsjt</sys_created_by>
+        <sys_created_on>2017-02-02 19:41:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1b4e1d004f74720007c26b628110c7d4</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>getDistance</sys_name>
+        <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
+        <sys_update_name>sys_script_include_1b4e1d004f74720007c26b628110c7d4</sys_update_name>
+        <sys_updated_by>gibsjt</sys_updated_by>
+        <sys_updated_on>2017-02-07 20:21:56</sys_updated_on>
+    </sys_script_include>
+</record_update>

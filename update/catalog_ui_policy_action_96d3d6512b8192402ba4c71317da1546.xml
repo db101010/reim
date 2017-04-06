@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-18 14:41:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>96d3d6512b8192402ba4c71317da1546</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mileage_estimate</sys_name>

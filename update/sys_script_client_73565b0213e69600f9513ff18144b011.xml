@@ -58,8 +58,9 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-04 17:30:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>73565b0213e69600f9513ff18144b011</sys_id>
         <sys_mod_count>16</sys_mod_count>
         <sys_name>Add Meal to daily total - Breakfast</sys_name>

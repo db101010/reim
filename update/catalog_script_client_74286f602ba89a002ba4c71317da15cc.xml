@@ -7,7 +7,7 @@
         <applies_req_item>true</applies_req_item>
         <applies_sc_task>true</applies_sc_task>
         <applies_to>item</applies_to>
-        <cat_item display_value="Copy of Travel Authorization">3918ab602ba89a002ba4c71317da1579</cat_item>
+        <cat_item display_value="">3918ab602ba89a002ba4c71317da1579</cat_item>
         <cat_variable>IO:8f186f602ba89a002ba4c71317da15aa</cat_variable>
         <condition/>
         <description/>
@@ -49,8 +49,9 @@ function getAirportCode(airport_code){
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2015-12-22 16:22:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>74286f602ba89a002ba4c71317da15cc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Departure</sys_name>

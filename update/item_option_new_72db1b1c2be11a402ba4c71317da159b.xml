@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-09 13:54:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>72db1b1c2be11a402ba4c71317da159b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Purpose of Travel</sys_name>

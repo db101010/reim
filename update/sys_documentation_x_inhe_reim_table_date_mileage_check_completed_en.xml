@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2016-01-22 18:40:29</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>e5e0f7e62b05d2402ba4c71317da153e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Date Mileage Check Reimbursement Completed</sys_name>

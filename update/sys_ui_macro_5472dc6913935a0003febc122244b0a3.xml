@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-09 20:17:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5472dc6913935a0003febc122244b0a3</sys_id>
         <sys_mod_count>46</sys_mod_count>
         <sys_name>approve_reject</sys_name>

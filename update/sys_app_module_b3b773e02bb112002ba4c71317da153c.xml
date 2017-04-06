@@ -25,8 +25,9 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-02-22 20:49:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>b3b773e02bb112002ba4c71317da153c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Imp Tmpl Kb Category</sys_name>

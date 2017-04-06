@@ -21,8 +21,9 @@
         <sys_class_name>sysrule_view</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-26 21:18:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>bfa30cc713e79200a2723e7f3244b096</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Apeend Reimbursement view</sys_name>

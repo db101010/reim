@@ -28,8 +28,9 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2015-12-18 16:08:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d37efa5b2b945a002ba4c71317da1583</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>Approved Travel</sys_name>

@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="TEST">cdf0692c2b651a402ba4c71317da1547</sc_cat_item>
-        <sc_category display_value="Admin">a542c8bfa0aec2001b790bc9f7898868</sc_category>
+        <sc_category display_value="">a542c8bfa0aec2001b790bc9f7898868</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-02-09 23:36:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8731252c2b651a402ba4c71317da1566</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Admin.TEST</sys_name>

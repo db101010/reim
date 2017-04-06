@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="ref_ac_columns_search=true,ref_ac_order_by=name,ref_ac_columns=email,display_image=photo,ref_auto_completer=AJAXTableCompleter,iterativeDelete=true,text_index_translations" create_roles="user_admin" defaultsort="-1" dynamic_creation_script="dynamicUserCreation(current, value);" label="User" max_length="40" name="sys_user" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Employee" label="Job Role" max_length="40" name="x_inhe_reim_u_job_role" type="string">
+            <choice>
+                <element label="Employee" sequence="10" value="Employee"/>
+                <element label="Manager" sequence="20" value="Manager"/>
+                <element label="Director" sequence="30" value="Director"/>
+                <element label="Vice President" sequence="40" value="Vice President"/>
+                <element label="President" sequence="50" value="President"/>
+            </choice>
+        </element>
+    </element>
+</database>

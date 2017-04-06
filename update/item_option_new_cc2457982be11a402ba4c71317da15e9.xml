@@ -31,7 +31,7 @@
         <lookup_table/>
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
-        <macro display_value="travel_re_1">8b1752f62b7192002ba4c71317da157e</macro>
+        <macro display_value="">8b1752f62b7192002ba4c71317da157e</macro>
         <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-09 13:22:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>cc2457982be11a402ba4c71317da15e9</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Requester's Information</sys_name>

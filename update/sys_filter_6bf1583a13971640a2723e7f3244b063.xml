@@ -13,6 +13,7 @@
         <sys_created_on>2016-05-13 17:26:21</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>6bf1583a13971640a2723e7f3244b063</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-06-08 21:58:56</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <title>mobile</title>
-        <user display_value="Randy Haas (HaasRG)">43cd4b74fd5405001459739a0d303a28</user>
+        <user display_value="">43cd4b74fd5405001459739a0d303a28</user>
     </sys_filter>
 </record_update>

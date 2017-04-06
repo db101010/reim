@@ -42,8 +42,9 @@ function departmentParser(obj){
         <sys_class_name>catalog_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-11 18:32:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>fc1507c32b3412402ba4c71317da1568</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Cost Center / Business Unit</sys_name>

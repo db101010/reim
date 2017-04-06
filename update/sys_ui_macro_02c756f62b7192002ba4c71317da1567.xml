@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-02-29 13:37:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>02c756f62b7192002ba4c71317da1567</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>travel_re_2</sys_name>

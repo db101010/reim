@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2015-12-22 20:29:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6d90e8fc2ba89a002ba4c71317da15e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>hotel_name</sys_name>

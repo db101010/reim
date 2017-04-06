@@ -55,8 +55,9 @@ action.setRedirectURL(url);
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-28 18:35:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>66da512d13986200339d50128144b0db</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Submit for Approval (old)</sys_name>

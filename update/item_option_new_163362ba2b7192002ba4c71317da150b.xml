@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-02-29 14:28:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>163362ba2b7192002ba4c71317da150b</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Name </sys_name>

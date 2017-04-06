@@ -2,11 +2,11 @@
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="New Expense Reimbursement">4b7911e313875240a2723e7f3244b071</sc_cat_item>
-        <sc_category display_value="Admin">a542c8bfa0aec2001b790bc9f7898868</sc_category>
+        <sc_category display_value="">a542c8bfa0aec2001b790bc9f7898868</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-03 20:18:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>837951e313875240a2723e7f3244b091</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Admin.New Expense Reimbursement</sys_name>

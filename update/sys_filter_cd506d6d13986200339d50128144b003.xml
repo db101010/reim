@@ -13,6 +13,7 @@
         <sys_created_on>2016-06-28 18:59:00</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>cd506d6d13986200339d50128144b003</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>mobile</sys_name>
@@ -25,6 +26,6 @@
         <sys_updated_on>2016-06-28 18:59:00</sys_updated_on>
         <table>x_inhe_reim_ap_approvals</table>
         <title>mobile</title>
-        <user display_value="Brent Peters (PeteBL)">0aeb76e8d52dd000b18b7ebf228d14c1</user>
+        <user display_value="">0aeb76e8d52dd000b18b7ebf228d14c1</user>
     </sys_filter>
 </record_update>

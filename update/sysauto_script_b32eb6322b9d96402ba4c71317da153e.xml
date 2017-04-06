@@ -5,7 +5,7 @@
         <condition/>
         <conditional>false</conditional>
         <name>Get Miles 2</name>
-        <run_as display_value="Jason Gibson (GibsJT)">2004e3cc89bfb50414593454d2fa8171</run_as>
+        <run_as display_value="">2004e3cc89bfb50414593454d2fa8171</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek>1</run_dayofweek>
@@ -20,7 +20,7 @@ ba.getDistanceInMiles();
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-04 19:54:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b32eb6322b9d96402ba4c71317da153e</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Get Miles 2</sys_name>

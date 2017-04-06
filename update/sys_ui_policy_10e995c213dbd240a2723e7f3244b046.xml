@@ -23,8 +23,9 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-11 14:45:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>10e995c213dbd240a2723e7f3244b046</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Hide manager_approval</sys_name>

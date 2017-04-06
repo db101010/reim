@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-31 15:34:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>44bf4eb013e25600f9513ff18144b009</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Expense</sys_name>

@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-09 14:48:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b088efdc2be11a402ba4c71317da15be</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>purpose_of_travel_3</sys_name>

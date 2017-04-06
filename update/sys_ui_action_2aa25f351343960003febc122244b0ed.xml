@@ -36,8 +36,9 @@
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-04-28 18:41:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>2aa25f351343960003febc122244b0ed</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>Reject</sys_name>

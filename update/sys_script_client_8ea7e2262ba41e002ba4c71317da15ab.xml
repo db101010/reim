@@ -108,8 +108,9 @@ function calculateAuthorizationTotal (fieldName) {
         <sys_created_on>2015-12-28 16:50:20</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>8ea7e2262ba41e002ba4c71317da15ab</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>onLoadEvents</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -118,10 +119,10 @@ function calculateAuthorizationTotal (fieldName) {
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_script_client_8ea7e2262ba41e002ba4c71317da15ab</sys_update_name>
         <sys_updated_by>PeteBL</sys_updated_by>
-        <sys_updated_on>2016-06-07 19:36:47</sys_updated_on>
+        <sys_updated_on>2017-02-14 19:40:16</sys_updated_on>
         <table>x_inhe_reim_table</table>
         <type>onLoad</type>
-        <ui_type>0</ui_type>
+        <ui_type>10</ui_type>
         <view/>
     </sys_script_client>
 </record_update>

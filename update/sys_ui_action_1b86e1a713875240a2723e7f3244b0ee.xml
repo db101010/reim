@@ -59,8 +59,9 @@ function serverCancel(){
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-04 15:56:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>1b86e1a713875240a2723e7f3244b0ee</sys_id>
         <sys_mod_count>22</sys_mod_count>
         <sys_name>Reset to user</sys_name>

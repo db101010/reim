@@ -13,6 +13,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 18:28:32</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>9c6017f513cfde00a2723e7f3244b0a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 18:28:32</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>d06017f513cfde00a2723e7f3244b0a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -49,6 +51,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 18:28:32</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>946017f513cfde00a2723e7f3244b0a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -67,6 +70,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 18:28:32</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>586017f513cfde00a2723e7f3244b0a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -85,6 +89,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-05-03 21:35:55</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>992bad2713875240a2723e7f3244b05c</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>GibsJT</sys_updated_by>
@@ -98,7 +103,7 @@
             <sys_created_by>GibsJT</sys_created_by>
             <sys_created_on>2016-04-28 18:28:32</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>7f08698d1340e28032eb3e276144b00c</sys_id>
+            <sys_id>fd89f7b24f12220007c26b628110c772</sys_id>
             <sys_mod_count>8</sys_mod_count>
             <sys_name>approval_state</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

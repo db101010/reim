@@ -13,6 +13,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2015-12-22 16:29:37</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>d2a967a02ba89a002ba4c71317da15b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>gibsjt</sys_updated_by>
@@ -31,6 +32,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2015-12-22 16:29:37</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>5aa967a02ba89a002ba4c71317da15b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>gibsjt</sys_updated_by>
@@ -44,7 +46,7 @@
             <sys_created_by>gibsjt</sys_created_by>
             <sys_created_on>2015-12-22 16:29:37</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>a918698d1340e28032eb3e276144b088</sys_id>
+            <sys_id>c689f7b24f12220007c26b628110c7b5</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>type_of_transportation</sys_name>
             <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>

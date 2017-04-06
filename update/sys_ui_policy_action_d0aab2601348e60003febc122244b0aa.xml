@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-06-13 12:44:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d0aab2601348e60003febc122244b0aa</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>contact_number</sys_name>

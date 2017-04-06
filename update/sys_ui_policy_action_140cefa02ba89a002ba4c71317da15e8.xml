@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2015-12-22 16:39:52</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>140cefa02ba89a002ba4c71317da15e8</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>date_of_birth</sys_name>

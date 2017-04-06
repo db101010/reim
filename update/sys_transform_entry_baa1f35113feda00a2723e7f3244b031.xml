@@ -9,17 +9,17 @@
         <map display_value="Airport">8c113b5113feda00a2723e7f3244b007</map>
         <reference_value_field/>
         <source_field>u_city</source_field>
-        <source_script>answer = (function transformEntry(source) {
+        <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	// Add your code here
 	return ""; // return the value to be put into the target field
 
-})(source);</source_script>
+})(source);]]></source_script>
         <source_table>x_inhe_reim_airport_temp</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-14 21:21:19</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>baa1f35113feda00a2723e7f3244b031</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_city</sys_name>

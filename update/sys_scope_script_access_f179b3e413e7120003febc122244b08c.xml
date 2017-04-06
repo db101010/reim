@@ -103,7 +103,7 @@
         <sys_class_name>sys_scope_script_access</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-19 20:47:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f179b3e413e7120003febc122244b08c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Workflow</sys_name>

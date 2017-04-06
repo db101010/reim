@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-10 21:38:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>10e5e30a13c69200d63c3e7f3244b0ec</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Travel Authorization</sys_name>

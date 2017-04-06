@@ -9,7 +9,7 @@
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-14 21:04:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9c74006f13c21200f9513ff18144b01e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>lunch_4</sys_name>

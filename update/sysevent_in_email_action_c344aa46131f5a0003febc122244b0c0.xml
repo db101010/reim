@@ -18,8 +18,9 @@
         <sys_class_name>sysevent_in_email_action</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-05-11 20:10:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c344aa46131f5a0003febc122244b0c0</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Update My reimbursement</sys_name>

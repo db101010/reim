@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-03-29 18:01:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>121a20dcdba69a00303e3b1cbf961905</sys_id>
         <sys_mod_count>62</sys_mod_count>
         <sys_name>mileage_col_embedded</sys_name>

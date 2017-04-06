@@ -9,17 +9,17 @@
         <map display_value="Import Expense Account">bcc08b5313ead600f9513ff18144b004</map>
         <reference_value_field/>
         <source_field>u_type</source_field>
-        <source_script>answer = (function transformEntry(source) {
+        <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	// Add your code here
 	return ""; // return the value to be put into the target field
 
-})(source);</source_script>
+})(source);]]></source_script>
         <source_table>x_inhe_reim_expense_temp_2</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-18 11:17:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e9bd0e2a13fe1e00a2723e7f3244b0cd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_type</sys_name>

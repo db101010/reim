@@ -47,7 +47,7 @@
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-17 14:20:47</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>32ce2c872b6952002ba4c71317da1588</sys_id>
+        <sys_id>cf2933b24f12220007c26b628110c7c7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Expense</sys_name>
         <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
@@ -55,12 +55,10 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
         <sys_update_name>sys_dictionary_x_inhe_reim_table_e_expense_1</sys_update_name>
-        <sys_updated_by>PeteBL</sys_updated_by>
-        <sys_updated_on>2016-06-14 19:58:22</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-10-10 13:25:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
-        <u_model_id/>
-        <u_normalize_set/>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>

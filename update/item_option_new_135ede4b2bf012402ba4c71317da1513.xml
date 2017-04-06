@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-01-11 15:42:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>135ede4b2bf012402ba4c71317da1513</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Type of Transportation</sys_name>

@@ -42,7 +42,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-06 20:20:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>72f61ef613a2d600f9513ff18144b062</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>expense account numbers.xls (Uploaded)</sys_name>
@@ -55,7 +55,6 @@
         <sys_updated_on>2016-04-06 20:20:19</sys_updated_on>
         <table_name/>
         <type>File</type>
-        <u_sql_definition/>
         <use_integrated_authentication>false</use_integrated_authentication>
         <use_last_run_datetime>false</use_last_run_datetime>
         <xpath_root_node/>

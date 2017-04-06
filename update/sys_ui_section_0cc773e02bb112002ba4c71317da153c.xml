@@ -135,8 +135,9 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-02-22 20:49:39</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>0cc773e02bb112002ba4c71317da153c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_imp_tmpl_kb_category</sys_name>

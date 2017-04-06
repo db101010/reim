@@ -35,8 +35,9 @@ breaks[6].style.display = '';
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-03-15 21:09:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e43fc1f7130a1200f9513ff18144b040</sys_id>
         <sys_mod_count>12</sys_mod_count>
         <sys_name>Hide Meals 6</sys_name>

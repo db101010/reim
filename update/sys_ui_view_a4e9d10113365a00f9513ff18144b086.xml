@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-13 15:39:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a4e9d10113365a00f9513ff18144b086</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,travel_authorization</sys_name>

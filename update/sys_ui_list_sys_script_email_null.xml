@@ -119,8 +119,9 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>PeteBL</sys_created_by>
             <sys_created_on>2016-05-11 21:51:00</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>b86bf60e131fd240a2723e7f3244b0e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_script_email</sys_name>
@@ -131,7 +132,7 @@
             <sys_update_name>sys_ui_list_sys_script_email_null</sys_update_name>
             <sys_updated_by>PeteBL</sys_updated_by>
             <sys_updated_on>2016-05-11 21:51:00</sys_updated_on>
-            <sys_user display_value="Brent Peters (PeteBL)">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
+            <sys_user display_value="">0aeb76e8d52dd000b18b7ebf228d14c1</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>
